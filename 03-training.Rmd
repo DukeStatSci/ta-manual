@@ -1,0 +1,62 @@
+# Training, Evaluation, and Recognition
+
+## Training
+
+As a TA, you will be trained by the department and other units of the University. All TAs will complete a mandatory training session each semester, and will get a technology check to make certain you are Zoom-ready if required. You’ll get trained in other technologies as they change as well as in using Gradescope for training. 
+
+You will be assigned to STATSCI TA Fall 2021, the departmental training site for TAs. Training may be added as needed as the semester proceeds and we’ll inform you there. There is required training on TA duties, on preventing harassment and on the learning technologies needed in your course.
+
+## Evaluation and Recognition
+
+As a new TA or new to your course and instructor, the instructor will work with you to make sure you are ready to lead your labs and hold office hours to meet their expectations. You can expect that your instructor will virtually drop in on your labs or office hours from time to time. There will be at least one formal observation by your instructor, by the Undergraduate Coordinator, or by the Director of Undergraduate Studies during the semester. You will do training and work with them to develop your skills so that each semester that you have a TAship, you are ready for more responsibilities and leadership roles. 
+
+If your instructor does not do a midcourse survey for anonymous feedback from students and you wish to set up one for yourself, please contact Dr. Durso for help with a Qualtrics survey. 
+
+Continuation of the opportunity to hold a Teaching Assistantship is contingent on good TA performance. Student and faculty evaluations of TAs will occur at the end of each semester via surveys. Excellent TA evaluations can also provide the basis for future recommendation letters from faculty. TAs will be able to review their evaluations at the end of each semester. 
+
+The Department of Statistical Science recognizes one doctoral student, one master’s student and one undergraduate student as TAs of the Year each spring during commencement festivities. Faculty members will be asked to nominate TAs for this award each semester (for TAs in Summer 2021, Fall 2021, and Spring 2022 courses) and a departmental committee will decide on the winners based on faculty and student evaluations. TAs of the Year will be recognized at the departmental graduation at the end of the academic year. The award for the winning PhD TA is $1,500 towards travel and computing, for the MS winning TA is $1,000 cash award, and for the winning undergraduate is $750 cash award. 
+
+A Qualtrics survey link has also been  set up that can be shared on course sites. It does require Duke SSO authentication. Compliments from identified senders will be used for small awards, and along with Faculty feedback, for nominations for TA of the year. TA Award nomination
+
+TAs requested a speedy feedback device. We set up an alias for this purpose: stat-ta-feedback@duke.edu can be given to your students for compliments, concerns and suggestions.  Email comes to the DUS and the Undergrad Coordinator. TAs may also use it to let us know of issues or concerns with the TA duties, training, equipment, materials, etc.  Please do not use it for mandatory reporting of harassment, etc. 
+
+## Further Training 
+
+Workshops and more training opportunities are available from Learning Innovation and the Graduate School. Upcoming workshops are here https://flexteaching.li.duke.edu/fall-2020/workshops/ and recorded workshops are here https://flexteacdhing.li.duke.edu/fall-2020/workshops/recorded-workshops/. (Yes, these are the correct links for Fall 2021.)
+
+The Graduate School has many training opportunities for students interested in teaching, see their website at https://gradschool.duke.edu/. Some specific opportunities that might be of interest are
+
+### [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching)
+
+The Certificate in College Teaching program both prepares you to do this and formally documents this professional development to make you more competitive when applying for positions. Students who complete the CCT will have it listed on their transcripts as an officially endorsed Duke University Graduate School certificate. The CCT combines departmental training and resources with programming from The Graduate School to give you systematic pedagogical training that not only helps you develop as a teacher, but also allows you to use your time more efficiently as you balance your research and teaching responsibilities. The Certificate in College Teaching program has three major requirements:
+
+  - Coursework (2 courses, 1 offered in the Department of Statistical Science)
+  
+  - Teaching experience and observation
+  
+  - Online teaching portfolio
+
+The program requirements take about a year to complete, but that may vary as opportunities for gaining teaching experience vary across departments. CCT work may be done alongside other classes, research, or work on a dissertation, and should not significantly interfere with the timely completion of any of these. After you apply to the CCT program, the program director will meet with you to go over the requirements and your timeline for completing them. Discuss your CCT activities with your instructor and the Department if you need assistance scheduling observations, etc. 
+
+### [BASS Instructional Fellowships](https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships)
+
+The Bass Instructional Fellowship Program supports high-quality teaching experiences for Ph.D. students where normal means of funding are unavailable. It also helps students become more knowledgeable in online college teaching. The program offers fellowships for
+
+  - instructors of record (Bass IORs),
+  - instructional teaching assistants (Bass TAs), and
+  - online apprentices (Bass OAs).
+
+Recipients of Bass Instructional Fellowships will receive compensatory payment at the level of Arts and Sciences teaching assistants (currently $6,000) and a scholarship covering full or partial tuition and fees for their semester of participation. This effectively “buys out” that much of any other existing fellowship or financial support; the student will not net any additional pay. A Bass Instructional Fellowship should not lessen a student’s competitiveness for other fellowships. If the student wins another fellowship after having also won a Bass Fellowship, that other fellowship can be decreased by the amount provided by the Bass Fellowship so that there is no penalty or disadvantage to receiving a Bass at the same time (unless this arrangement is prohibited by terms of the other fellowship).
+
+### [Teaching IDEAS Series](https://gradschool.duke.edu/professional-development/programs/teaching-ideas-series)
+
+Instructional Development for Excellence And Success is an annual workshop series open to Duke graduate students, postdocs, faculty, and staff. Invited speakers in this series will draw upon their experience to address topics relevant to classroom teaching, dealing with students, or faculty life and career paths. You will learn how to:
+  - recognize the complex dimensions of classroom teaching and faculty life,
+  - analyze difficult teaching situations and respond creatively,
+  - improve your teaching skills by drawing upon various resources at Duke,
+  - plan and design courses with the student perspective in mind, and
+  - engage in scholarly conversations about college teaching and learning.
+
+### [Duke Learning Innovation](https://learninginnovation.duke.edu)
+
+Learning Innovation is not part of the Graduate School but is dedicated to improving learning at Duke. https://learninginnovation.duke.edu/about/   Learning Innovation provides many opportunities for professional development, including training on Sakai, Gradescope, Piazza, and other instructional tools. They also provide drop-in office hours for help with Sakai or Gradescope as well as workshops and seminars to assist you improve your careers. 
