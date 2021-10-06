@@ -1,7 +1,8 @@
 --- 
-title: "Manual for Teaching Assistants: Fall 2021"
+title: "Manual for Teaching Assistants"
+subtitle: "Current as of"
 author: "Duke University, Department of Statistical Science"
-date: "`r Sys.Date()`"
+date: "Copy produced `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 bibliography: [book.bib, packages.bib]
