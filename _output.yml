@@ -1,6 +1,6 @@
 bookdown::bs4_book:
   theme:
-    primary: "#00539B"
+    primary: "#012169"
   repo: https://github.com/DukeStatSci/ta-manual
   css: style.css
   config:
