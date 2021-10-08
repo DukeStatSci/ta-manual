@@ -1,8 +1,7 @@
 --- 
 title: "Manual for Teaching Assistants"
-subtitle: "Current as of"
 author: "Duke University, Department of Statistical Science"
-date: "Copy produced `r Sys.Date()`"
+date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 bibliography: [book.bib, packages.bib]
@@ -16,7 +15,9 @@ description: "."
 knitr::opts_chunk$set(echo = TRUE, out.width='80%', fig.asp=.75, fig.align='center')
 ```
 
-# Our Purpose
+# Manual for Teaching Assistants
+
+## Our Purpose
 
 As a Teaching Assistant, whatever your duties, you are part of the Statistical Science Instruction Team. This fall, we are offering nearly 1400 seats in courses to students from across the globe. Students will range from the nearly 500 undergraduates in their first 100-level course to doctoral students nearing the end of their formal coursework. We want students who take only one or two courses from the department to learn the usefulness, importance, and power of statistical thinking and modern methodologies. We aim to educate our undergraduate majors, minors and interdisciplinary majors, master’s students, and Ph.D. students in particular to be highly accomplished future leaders in statistical science, regardless of their career paths. For all of these students, whatever their programs, we aim to provide a transformative educational experience in statistical and data science. By joining our instructional team, you help us to deliver a meaningful learning experience to each of our students.
 
