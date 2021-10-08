@@ -26,7 +26,9 @@ Workshops and more training opportunities are available from Learning Innovation
 
 The Graduate School has many training opportunities for students interested in teaching, see their website at https://gradschool.duke.edu/. Some specific opportunities that might be of interest are
 
-### [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching)
+### Certificate in College Teaching
+
+https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching
 
 The Certificate in College Teaching program both prepares you to do this and formally documents this professional development to make you more competitive when applying for positions. Students who complete the CCT will have it listed on their transcripts as an officially endorsed Duke University Graduate School certificate. The CCT combines departmental training and resources with programming from The Graduate School to give you systematic pedagogical training that not only helps you develop as a teacher, but also allows you to use your time more efficiently as you balance your research and teaching responsibilities. The Certificate in College Teaching program has three major requirements:
 
@@ -38,7 +40,9 @@ The Certificate in College Teaching program both prepares you to do this and for
 
 The program requirements take about a year to complete, but that may vary as opportunities for gaining teaching experience vary across departments. CCT work may be done alongside other classes, research, or work on a dissertation, and should not significantly interfere with the timely completion of any of these. After you apply to the CCT program, the program director will meet with you to go over the requirements and your timeline for completing them. Discuss your CCT activities with your instructor and the Department if you need assistance scheduling observations, etc. 
 
-### [BASS Instructional Fellowships](https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships)
+### BASS Instructional Fellowships
+
+https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships
 
 The Bass Instructional Fellowship Program supports high-quality teaching experiences for Ph.D. students where normal means of funding are unavailable. It also helps students become more knowledgeable in online college teaching. The program offers fellowships for
 
@@ -48,7 +52,9 @@ The Bass Instructional Fellowship Program supports high-quality teaching experie
 
 Recipients of Bass Instructional Fellowships will receive compensatory payment at the level of Arts and Sciences teaching assistants (currently $6,000) and a scholarship covering full or partial tuition and fees for their semester of participation. This effectively “buys out” that much of any other existing fellowship or financial support; the student will not net any additional pay. A Bass Instructional Fellowship should not lessen a student’s competitiveness for other fellowships. If the student wins another fellowship after having also won a Bass Fellowship, that other fellowship can be decreased by the amount provided by the Bass Fellowship so that there is no penalty or disadvantage to receiving a Bass at the same time (unless this arrangement is prohibited by terms of the other fellowship).
 
-### [Teaching IDEAS Series](https://gradschool.duke.edu/professional-development/programs/teaching-ideas-series)
+### Teaching IDEAS Series
+
+https://gradschool.duke.edu/professional-development/programs/teaching-ideas-series
 
 Instructional Development for Excellence And Success is an annual workshop series open to Duke graduate students, postdocs, faculty, and staff. Invited speakers in this series will draw upon their experience to address topics relevant to classroom teaching, dealing with students, or faculty life and career paths. You will learn how to:
   - recognize the complex dimensions of classroom teaching and faculty life,
@@ -57,6 +63,8 @@ Instructional Development for Excellence And Success is an annual workshop serie
   - plan and design courses with the student perspective in mind, and
   - engage in scholarly conversations about college teaching and learning.
 
-### [Duke Learning Innovation](https://learninginnovation.duke.edu)
+### Duke Learning Innovation
+
+https://learninginnovation.duke.edu
 
 Learning Innovation is not part of the Graduate School but is dedicated to improving learning at Duke. https://learninginnovation.duke.edu/about/   Learning Innovation provides many opportunities for professional development, including training on Sakai, Gradescope, Piazza, and other instructional tools. They also provide drop-in office hours for help with Sakai or Gradescope as well as workshops and seminars to assist you improve your careers. 
