@@ -22,29 +22,23 @@ TAs requested a speedy feedback device. We set up an alias for this purpose: sta
 
 ## Further Training 
 
-Workshops and more training opportunities are available from Learning Innovation and the Graduate School. Upcoming workshops are here https://flexteaching.li.duke.edu/fall-2020/workshops/ and recorded workshops are here https://flexteacdhing.li.duke.edu/fall-2020/workshops/recorded-workshops/. (Yes, these are the correct links for Fall 2021.)
+Workshops and more training opportunities are available from Learning Innovation and the Graduate School. Upcoming workshops are here https://flexteaching.li.duke.edu/fall-2020/workshops/ and recorded workshops are here https://flexteaching.li.duke.edu/fall-2020/workshops/recorded-workshops/. (Yes, these are the correct links for Spring 2022.)
 
 The Graduate School has many training opportunities for students interested in teaching, see their website at https://gradschool.duke.edu/. Some specific opportunities that might be of interest are
 
 ### Certificate in College Teaching
 
-https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching
-
-The Certificate in College Teaching program both prepares you to do this and formally documents this professional development to make you more competitive when applying for positions. Students who complete the CCT will have it listed on their transcripts as an officially endorsed Duke University Graduate School certificate. The CCT combines departmental training and resources with programming from The Graduate School to give you systematic pedagogical training that not only helps you develop as a teacher, but also allows you to use your time more efficiently as you balance your research and teaching responsibilities. The Certificate in College Teaching program has three major requirements:
+[The Certificate in College Teaching program](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching) both prepares you to do this and formally documents this professional development to make you more competitive when applying for positions. Students who complete the CCT will have it listed on their transcripts as an officially endorsed Duke University Graduate School certificate. The CCT combines departmental training and resources with programming from The Graduate School to give you systematic pedagogical training that not only helps you develop as a teacher, but also allows you to use your time more efficiently as you balance your research and teaching responsibilities. The Certificate in College Teaching program has three major requirements:
 
   - Coursework (2 courses, 1 offered in the Department of Statistical Science)
-  
   - Teaching experience and observation
-  
   - Online teaching portfolio
 
 The program requirements take about a year to complete, but that may vary as opportunities for gaining teaching experience vary across departments. CCT work may be done alongside other classes, research, or work on a dissertation, and should not significantly interfere with the timely completion of any of these. After you apply to the CCT program, the program director will meet with you to go over the requirements and your timeline for completing them. Discuss your CCT activities with your instructor and the Department if you need assistance scheduling observations, etc. 
 
 ### BASS Instructional Fellowships
 
-https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships
-
-The Bass Instructional Fellowship Program supports high-quality teaching experiences for Ph.D. students where normal means of funding are unavailable. It also helps students become more knowledgeable in online college teaching. The program offers fellowships for
+[The Bass Instructional Fellowship Program](https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships) supports high-quality teaching experiences for Ph.D. students where normal means of funding are unavailable. It also helps students become more knowledgeable in online college teaching. The program offers fellowships for
 
   - instructors of record (Bass IORs),
   - instructional teaching assistants (Bass TAs), and
@@ -54,9 +48,7 @@ Recipients of Bass Instructional Fellowships will receive compensatory payment a
 
 ### Teaching IDEAS Series
 
-https://gradschool.duke.edu/professional-development/programs/teaching-ideas-series
-
-Instructional Development for Excellence And Success is an annual workshop series open to Duke graduate students, postdocs, faculty, and staff. Invited speakers in this series will draw upon their experience to address topics relevant to classroom teaching, dealing with students, or faculty life and career paths. You will learn how to:
+[Instructional Development for Excellence And Success](https://gradschool.duke.edu/professional-development/programs/teaching-ideas-series) is an annual workshop series open to Duke graduate students, postdocs, faculty, and staff. Invited speakers in this series will draw upon their experience to address topics relevant to classroom teaching, dealing with students, or faculty life and career paths. You will learn how to:
   - recognize the complex dimensions of classroom teaching and faculty life,
   - analyze difficult teaching situations and respond creatively,
   - improve your teaching skills by drawing upon various resources at Duke,
@@ -65,6 +57,4 @@ Instructional Development for Excellence And Success is an annual workshop serie
 
 ### Duke Learning Innovation
 
-https://learninginnovation.duke.edu
-
-Learning Innovation is not part of the Graduate School but is dedicated to improving learning at Duke. https://learninginnovation.duke.edu/about/   Learning Innovation provides many opportunities for professional development, including training on Sakai, Gradescope, Piazza, and other instructional tools. They also provide drop-in office hours for help with Sakai or Gradescope as well as workshops and seminars to assist you improve your careers. 
+[Learning Innovation](https://learninginnovation.duke.edu) is not part of the Graduate School but is dedicated to improving learning at Duke. Learning Innovation provides many opportunities for professional development, including training on Sakai, Gradescope, Piazza, and other instructional tools. They also provide drop-in office hours for help with Sakai or Gradescope as well as workshops and seminars to assist you improve your careers. 

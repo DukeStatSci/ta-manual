@@ -4,7 +4,7 @@
 
 - Trinity resources: The undergraduate bulletin (https://registrar.duke.edu/university-bulletins/undergraduate-instruction) and T-Reqs (Trinity Requirements) (https://trinity.duke.edu/undergraduate/academic-policies are sources for Trinity College Academic Policies and Procedures. You are encouraged to review this site for information on university policy on religious holidays, disability accommodations, class attendance, credits, exams and grading, harassment, plagiarism, etc. For graduate courses, use the Graduate Bulletin https://registrar.duke.edu/university-bulletins/graduate-school and the Graduate School’s policy site https://gradschool.duke.edu/academics/academic-policies.
 
-- Technology: During training, you will be asked about your ability to use Gradescope for grading and Zoom and whiteboarding for online meetings. It’s fine to use a do-it-yourself hack to turn your cell phone into a document camera aimed at paper or a whiteboard. If needed for a particular course or online office hours, let us know if you lack a tablet and stylus or something to use for written explanations; it is possible to acquire an inexpensive drawing device if you need one for whiteboarding. Also let us know your Wi-Fi situation. Talk with your instructor and Dr. Durso. 
+- Technology: During training, you will be asked about your ability to use Gradescope for grading and Zoom and whiteboarding for online meetings. It’s fine to use a do-it-yourself hack to turn your cell phone into a document camera aimed at paper or a whiteboard. If needed for a particular course or online office hours, let us know if you lack a tablet and stylus or something to use for written explanations; it is possible to acquire an inexpensive drawing device if you need one for whiteboarding. Also let us know your WiFi situation. Talk with your instructor and Dr. Durso. 
 
 - Books: Many courses now have electronic versions of the text available for free online or through the Duke Libraries. Please check with your instructor first. For some courses, the Assistant to the DUS Mrs. Karen Whitesell (karen.whitesell@duke.edu) has physical desk copies of most books that you may use for TAing the course, but you must return the book at the end of the semester. Please contact her if you need a textbook copy for the course. 
 
@@ -84,7 +84,7 @@ Excellent suggestions for how to do this well can be found [here](https://mine-c
 
 - If you are sharing grading duties, make sure to calibrate for consistency. Students will be frustrated and angry if graders differ in their process of assigning points (and you will hear about it!).
 
-- We use _positive grading_ in the department. For each problem, clearly mark the number of points earned and the number of points possible. Gradescope or Sakai will do the tallying for you.
+- Many courses use _positive grading_ in the department. For each problem, clearly mark the number of points earned and the number of points possible. Gradescope or Sakai will do the tallying for you.
 
 - Record grades as per instructions of the instructor, but always double check your work. 
 

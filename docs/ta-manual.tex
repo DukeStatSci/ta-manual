@@ -6,8 +6,8 @@
 ]{article}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -80,7 +80,7 @@
 
 %% New Commands
 
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
@@ -88,7 +88,7 @@
 
 \title{Manual for Teaching Assistants}
 \author{Duke University, Department of Statistical Science}
-\date{10/14/2021}
+\date{Correct as of 2022-01-04}
 
 \begin{document}
 \maketitle
@@ -97,23 +97,17 @@
 \setcounter{tocdepth}{2}
 \tableofcontents
 }
-\hypertarget{department-of-statistical-science-duke-university}{%
-\subsection*{Department of Statistical Science, Duke University}\label{department-of-statistical-science-duke-university}}
-\addcontentsline{toc}{subsection}{Department of Statistical Science, Duke University}
-
-\hypertarget{correct-as-metadatacorrect_as}{%
-\subsection*{\texorpdfstring{Correct as \texttt{metadata\$correct\_as}}{Correct as metadata\$correct\_as}}\label{correct-as-metadatacorrect_as}}
-\addcontentsline{toc}{subsection}{Correct as \texttt{metadata\$correct\_as}}
-
 \hypertarget{our-purpose}{%
-\subsection{Our Purpose}\label{our-purpose}}
+\subsection*{Our Purpose}\label{our-purpose}}
+\addcontentsline{toc}{subsection}{Our Purpose}
 
 As a Teaching Assistant, whatever your duties, you are part of the Statistical Science Instruction Team. This fall, we are offering nearly 1400 seats in courses to students from across the globe. Students will range from the nearly 500 undergraduates in their first 100-level course to doctoral students nearing the end of their formal coursework. We want students who take only one or two courses from the department to learn the usefulness, importance, and power of statistical thinking and modern methodologies. We aim to educate our undergraduate majors, minors and interdisciplinary majors, master's students, and Ph.D.~students in particular to be highly accomplished future leaders in statistical science, regardless of their career paths. For all of these students, whatever their programs, we aim to provide a transformative educational experience in statistical and data science. By joining our instructional team, you help us to deliver a meaningful learning experience to each of our students.
 
 \hypertarget{the-fundamental-rule-for-tas-is}{%
-\subsection{The Fundamental Rule for TAs is:}\label{the-fundamental-rule-for-tas-is}}
+\subsection*{The Fundamental Rule for TAs is\ldots{}}\label{the-fundamental-rule-for-tas-is}}
+\addcontentsline{toc}{subsection}{The Fundamental Rule for TAs is\ldots{}}
 
-\textbf{Always talk with your instructor if you have questions, concerns or suggestions}. Talk with the other TAs. Talk with the DUS, the Undergraduate Coordinator, and the Departmental staff. Ask for help if you need it, ask your questions, and keep asking. Let us know what you need in order to do your job and to do it well. We're glad you are here and willing to help out. Thank you.
+\textbf{Always talk with your instructor if you have questions, concerns or suggestions}. Talk with the other TAs. Talk with the DUS, the Undergraduate Coordinator, and the departmental staff. Ask for help if you need it, ask your questions, and keep asking. Let us know what you need in order to do your job and to do it well. We're glad you are here and willing to help out. Thank you!
 
 \hypertarget{covid-19}{%
 \section{COVID-19}\label{covid-19}}
@@ -143,9 +137,9 @@ TA responsibilities will vary between classes therefore TAs should obtain from t
 \item
   In general, we request that TAs working 8-15 hours per week hold two hours of office hours each week and those working less hold one hour. Your instructor may have different requirements.
 \item
-  We prefer that all TAs holding office hours make at least one of those hours in Zoom eah week. TAs who prefer to conduct all of their office hours remotely are welcome to do so.
+  We prefer that all TAs holding office hours make at least one of those hours in Zoom each week. TAs who prefer to conduct all of their office hours remotely are welcome to do so.
 \item
-  Please keep informed of the latest Duke policies at keeplearning.duke.edu, keepworking.duke.edu, and coronavirus.duke.edu.
+  Please keep informed of the latest Duke policies at \href{https://keeplearning.duke.edu/}{keeplearning.duke.edu}, \href{https://keepworking.duke.edu/}{keepworking.duke.edu}, and \href{https://coronavirus.duke.edu/}{coronavirus.duke.edu}.
 \item
   Answer all communications from the department, your instructor, other campus employers, and the university, within 24 hours, before the end of the next business day.
 \item
@@ -163,7 +157,7 @@ TA responsibilities will vary between classes therefore TAs should obtain from t
 \item
   Assist in assessing and reporting student performance to the instructor. This includes identifying top and/or struggling students and identifying problems or concepts causing difficulty for students. YOUR FEEDBACK IS CRUCIAL TO US!
 \item
-  Respond to students' e-mails, forwarding common questions to the instructor and other TAs (if any). Your instructor will set expectations about the format students will use to answer questions. If the instructor is using Piazza, ED Discussion, Sakai Conversations, or another tool for Q\&A, discuss with the instructor expectations about answers and about how to handle getting students to ask their questions in that tool rather than in emails. You may be asked to cover answering questions on particular days.
+  Respond to students' e-mails, forwarding common questions to the instructor and other TAs (if any). Your instructor will set expectations about the format students will use to answer questions. If the instructor is using Ed Discussion, Sakai Conversations, or another tool for Q\&A, discuss with the instructor expectations about answers and about how to handle getting students to ask their questions in that tool rather than in emails. You may be asked to cover answering questions on particular days.
 \item
   Office hours will be held in some combination of in person and online sessions for each course. We prefer that evening office hours be held online or in a more public place, such as the library, than in Old Chemistry at night. Be accessible in a reliable manner by working out the schedule of your office hours with the instructor, announcing and then holding your regular office hours. Your primary duty during the office hours is to help students from your course. See below for general guidelines for office hours.
 \item
@@ -194,9 +188,9 @@ TA responsibilities will vary between classes therefore TAs should obtain from t
   \begin{itemize}
   \tightlist
   \item
-    \textbf{The academic calendar for Fall 2021 can be found here: \url{https://registrar.duke.edu/fall-2021-academic-calendar}}
+    \textbf{The academic calendar for Spring 2022 can be found here: \url{https://registrar.duke.edu/spring-2022-academic-calendar}}
   \item
-    \textbf{Fall final exams end at 10 pm on Monday, December 13th. Specific final exam schedules are available at Exam schedules for \url{https://registrar.duke.edu/calendars-key-dates/exam-schedules}.} Grades are due within 48 hours of the end of the exam period. This means TAs for are expected to continue to hold office hours during their respective final exam periods, and to be available for grading final exams in their assigned courses unless they make special arrangements with the course instructor. Please discuss the end of semester plans with the instructor you are assisting right away.
+    \textbf{Fall final exams end at 10 pm on Saturday, April 30 . Specific final exam schedules are available at Exam schedules for \url{https://registrar.duke.edu/calendars-key-dates/exam-schedules}.} Grades are due within 48 hours of the end of the exam period. This means TAs for are expected to continue to hold office hours during their respective final exam periods, and to be available for grading final exams in their assigned courses unless they make special arrangements with the course instructor. Please discuss the end of semester plans with the instructor you are assisting right away.
   \end{itemize}
 \item
   \textbf{Always complete the course and TA evaluations in the courses for which you are enrolled as a student.}
@@ -230,18 +224,17 @@ TAs requested a speedy feedback device. We set up an alias for this purpose: \hr
 \hypertarget{further-training}{%
 \subsection{Further Training}\label{further-training}}
 
-Workshops and more training opportunities are available from Learning Innovation and the Graduate School. Upcoming workshops are here \url{https://flexteaching.li.duke.edu/fall-2020/workshops/} and recorded workshops are here \url{https://flexteacdhing.li.duke.edu/fall-2020/workshops/recorded-workshops/}. (Yes, these are the correct links for Fall 2021.)
+Workshops and more training opportunities are available from Learning Innovation and the Graduate School. Upcoming workshops are here \url{https://flexteaching.li.duke.edu/fall-2020/workshops/} and recorded workshops are here \url{https://flexteaching.li.duke.edu/fall-2020/workshops/recorded-workshops/}. (Yes, these are the correct links for Spring 2022.)
 
 The Graduate School has many training opportunities for students interested in teaching, see their website at \url{https://gradschool.duke.edu/}. Some specific opportunities that might be of interest are
 
 \hypertarget{certificate-in-college-teaching}{%
 \subsubsection{Certificate in College Teaching}\label{certificate-in-college-teaching}}
 
-\url{https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching}
-
-The Certificate in College Teaching program both prepares you to do this and formally documents this professional development to make you more competitive when applying for positions. Students who complete the CCT will have it listed on their transcripts as an officially endorsed Duke University Graduate School certificate. The CCT combines departmental training and resources with programming from The Graduate School to give you systematic pedagogical training that not only helps you develop as a teacher, but also allows you to use your time more efficiently as you balance your research and teaching responsibilities. The Certificate in College Teaching program has three major requirements:
+\href{https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching}{The Certificate in College Teaching program} both prepares you to do this and formally documents this professional development to make you more competitive when applying for positions. Students who complete the CCT will have it listed on their transcripts as an officially endorsed Duke University Graduate School certificate. The CCT combines departmental training and resources with programming from The Graduate School to give you systematic pedagogical training that not only helps you develop as a teacher, but also allows you to use your time more efficiently as you balance your research and teaching responsibilities. The Certificate in College Teaching program has three major requirements:
 
 \begin{itemize}
+\tightlist
 \item
   Coursework (2 courses, 1 offered in the Department of Statistical Science)
 \item
@@ -255,9 +248,7 @@ The program requirements take about a year to complete, but that may vary as opp
 \hypertarget{bass-instructional-fellowships}{%
 \subsubsection{BASS Instructional Fellowships}\label{bass-instructional-fellowships}}
 
-\url{https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships}
-
-The Bass Instructional Fellowship Program supports high-quality teaching experiences for Ph.D.~students where normal means of funding are unavailable. It also helps students become more knowledgeable in online college teaching. The program offers fellowships for
+\href{https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships}{The Bass Instructional Fellowship Program} supports high-quality teaching experiences for Ph.D.~students where normal means of funding are unavailable. It also helps students become more knowledgeable in online college teaching. The program offers fellowships for
 
 \begin{itemize}
 \tightlist
@@ -274,9 +265,7 @@ Recipients of Bass Instructional Fellowships will receive compensatory payment a
 \hypertarget{teaching-ideas-series}{%
 \subsubsection{Teaching IDEAS Series}\label{teaching-ideas-series}}
 
-\url{https://gradschool.duke.edu/professional-development/programs/teaching-ideas-series}
-
-Instructional Development for Excellence And Success is an annual workshop series open to Duke graduate students, postdocs, faculty, and staff. Invited speakers in this series will draw upon their experience to address topics relevant to classroom teaching, dealing with students, or faculty life and career paths. You will learn how to:
+\href{https://gradschool.duke.edu/professional-development/programs/teaching-ideas-series}{Instructional Development for Excellence And Success} is an annual workshop series open to Duke graduate students, postdocs, faculty, and staff. Invited speakers in this series will draw upon their experience to address topics relevant to classroom teaching, dealing with students, or faculty life and career paths. You will learn how to:
 - recognize the complex dimensions of classroom teaching and faculty life,
 - analyze difficult teaching situations and respond creatively,
 - improve your teaching skills by drawing upon various resources at Duke,
@@ -286,9 +275,7 @@ Instructional Development for Excellence And Success is an annual workshop serie
 \hypertarget{duke-learning-innovation}{%
 \subsubsection{Duke Learning Innovation}\label{duke-learning-innovation}}
 
-\url{https://learninginnovation.duke.edu}
-
-Learning Innovation is not part of the Graduate School but is dedicated to improving learning at Duke. \url{https://learninginnovation.duke.edu/about/} Learning Innovation provides many opportunities for professional development, including training on Sakai, Gradescope, Piazza, and other instructional tools. They also provide drop-in office hours for help with Sakai or Gradescope as well as workshops and seminars to assist you improve your careers.
+\href{https://learninginnovation.duke.edu}{Learning Innovation} is not part of the Graduate School but is dedicated to improving learning at Duke. Learning Innovation provides many opportunities for professional development, including training on Sakai, Gradescope, Piazza, and other instructional tools. They also provide drop-in office hours for help with Sakai or Gradescope as well as workshops and seminars to assist you improve your careers.
 
 \hypertarget{guidelines}{%
 \section{Guidelines}\label{guidelines}}
@@ -300,7 +287,7 @@ Learning Innovation is not part of the Graduate School but is dedicated to impro
 \item
   Trinity resources: The undergraduate bulletin (\url{https://registrar.duke.edu/university-bulletins/undergraduate-instruction}) and T-Reqs (Trinity Requirements) (\url{https://trinity.duke.edu/undergraduate/academic-policies} are sources for Trinity College Academic Policies and Procedures. You are encouraged to review this site for information on university policy on religious holidays, disability accommodations, class attendance, credits, exams and grading, harassment, plagiarism, etc. For graduate courses, use the Graduate Bulletin \url{https://registrar.duke.edu/university-bulletins/graduate-school} and the Graduate School's policy site \url{https://gradschool.duke.edu/academics/academic-policies}.
 \item
-  Technology: During training, you will be asked about your ability to use Gradescope for grading and Zoom and whiteboarding for online meetings. It's fine to use a do-it-yourself hack to turn your cell phone into a document camera aimed at paper or a whiteboard. If needed for a particular course or online office hours, let us know if you lack a tablet and stylus or something to use for written explanations; it is possible to acquire an inexpensive drawing device if you need one for whiteboarding. Also let us know your Wi-Fi situation. Talk with your instructor and Dr.~Durso.
+  Technology: During training, you will be asked about your ability to use Gradescope for grading and Zoom and whiteboarding for online meetings. It's fine to use a do-it-yourself hack to turn your cell phone into a document camera aimed at paper or a whiteboard. If needed for a particular course or online office hours, let us know if you lack a tablet and stylus or something to use for written explanations; it is possible to acquire an inexpensive drawing device if you need one for whiteboarding. Also let us know your WiFi situation. Talk with your instructor and Dr.~Durso.
 \item
   Books: Many courses now have electronic versions of the text available for free online or through the Duke Libraries. Please check with your instructor first. For some courses, the Assistant to the DUS Mrs.~Karen Whitesell (\href{mailto:karen.whitesell@duke.edu}{\nolinkurl{karen.whitesell@duke.edu}}) has physical desk copies of most books that you may use for TAing the course, but you must return the book at the end of the semester. Please contact her if you need a textbook copy for the course.
 \item
@@ -399,7 +386,7 @@ Excellent suggestions for how to do this well can be found \href{https://mine-ce
 \item
   If you are sharing grading duties, make sure to calibrate for consistency. Students will be frustrated and angry if graders differ in their process of assigning points (and you will hear about it!).
 \item
-  We use \emph{positive grading} in the department. For each problem, clearly mark the number of points earned and the number of points possible. Gradescope or Sakai will do the tallying for you.
+  Many courses use \emph{positive grading} in the department. For each problem, clearly mark the number of points earned and the number of points possible. Gradescope or Sakai will do the tallying for you.
 \item
   Record grades as per instructions of the instructor, but always double check your work.
 \item
@@ -439,15 +426,16 @@ Faculty and TAs are encouraged to be proactive in preventing dishonesty. For onl
 The following resources are available through StatSci and the university for students having difficulty in a course.
 
 \begin{itemize}
+\tightlist
 \item
   Direct interaction with course instructor(s), Teaching Assistant(s)
 \item
   Scheduled Office hours of instructor(s) and course-specific TA(s)
 \item
-  Academic Resource Center, \url{http://web.duke.edu/arc}, including peer tutors and group study sessions for some introductory courses.
-\item
-  Let the instructor and then the Director of Undergraduate Studies and the Undergraduate Coordinator know if you need help with a particular student.
+  Academic Resource Center, \url{http://web.duke.edu/arc}, including peer tutors and group study sessions for some introductory courses
 \end{itemize}
+
+Let the instructor and then the Director of Undergraduate Studies and the Undergraduate Coordinator know if you need help with a particular student.
 
 \hypertarget{group-work}{%
 \subsection{Group Work}\label{group-work}}
@@ -459,7 +447,7 @@ If your course allows group work for homework or labs, ask the instructor to spe
 
 Undergraduate students (Trinity College and the Pratt School of Engineering) must request a formal \emph{Professor Accommodation Letter} each semester from the Student Disability Access Office that lists the student's approved accommodation(s). This is needed in summer, as well. The student is responsible for emailing the instructor, forwarding the official letter, and requesting a meeting to discuss how the approved accommodations will be implemented in the class. In some classes, one TA will be asked to manage accommodations for the course. In larger classes, multiple TAs may be involved. If your instructor asks for assistance in providing accommodations for a student, be sure that all information regarding a student's disability or accommodations is kept confidential. Do not discuss it with other TAs or in front of other students. Questions should be directed to the instructor or to the Student Disability Access Office at (919) 668-1267. If a student approaches you about accommodations, ask them to communicate with the instructor and let the instructor know you have referred them. If you are leading a lab and a student asks for lab accommodations, discuss it with the instructor.
 
-The Academic Resource Center's Testing Center is able to help with accommodations for remote testing, as well as in person. If the instructor decides to use it, students with accommodations must request testing arrangements at least one week in advance. Here is the website for information \url{https://arc.duke.edu/about-arc/testing-center}
+The Academic Resource Center's Testing Center is able to help with accommodations for remote testing, as well as in person. If the instructor decides to use it, students with accommodations must request testing arrangements at least one week in advance. Here is the website for information \url{https://arc.duke.edu/about-arc/testing-center}.
 
 \hypertarget{diversity-and-inclusiveness}{%
 \subsection{Diversity and Inclusiveness}\label{diversity-and-inclusiveness}}
@@ -471,6 +459,7 @@ If you have suggestions for improving the effectiveness of the course for you pe
 Furthermore, you should strive to create a learning environment for our students that supports a diversity of thoughts, perspectives and experiences, and honors students' identities (including gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.) To help accomplish this, encourage your students to
 
 \begin{itemize}
+\tightlist
 \item
   let you know if they have a name and/or set of pronouns that differ from those that appear in the Duke records,
 \item
@@ -491,7 +480,7 @@ Harassment complaints that involve both undergraduate students and either gradua
 \hypertarget{relationships-with-students}{%
 \subsection{Relationships with Students}\label{relationships-with-students}}
 
-Consensual romantic or sexual relationships between any student charged with academic instruction and students receiving such instruction are prohibited. This applies to teaching assistants, research assistants, tutors, graders and any other students who provide academic instruction to any other student. A TA could lose the opportunity to continue in the instruction role and such behavior could also violate student conduct policies. This is covered in more detail in Appendix Z to the Faculty Handbook here: \url{https://provost.duke.edu/sites/all/files/FHB_App_Z.pdf}
+Consensual romantic or sexual relationships between any student charged with academic instruction and students receiving such instruction are prohibited. This applies to teaching assistants, research assistants, tutors, graders and any other students who provide academic instruction to any other student. A TA could lose the opportunity to continue in the instruction role and such behavior could also violate student conduct policies. This is covered in more detail in Appendix Z to the Faculty Handbook here: \url{https://provost.duke.edu/sites/all/files/FHB_App_Z.pdf}.
 
 If you are already in a relationship with a student who is in the class for which you are TAing, please discuss this with the instructor and the DUS or Undergraduate Coordinator. We can change your assignment or make certain you are never grading that person's work or helping in their lab.
 
@@ -507,9 +496,9 @@ Our academic calendar sometimes brings with it the threat of severe weather in N
 
 Our students can be under a lot of stress. Any lab absences, missed deadlines, or concerning behavior should be brought to your instructor's attention. In addition, familiarize yourself with the help offered by Duke Reach \url{https://studentaffairs.duke.edu/dukereach1} as well as the Duke Counseling and Psychological Services \url{https://studentaffairs.duke.edu/caps}. You should also read Recognizing and Responding to Students in Distress, from the Office of the Provost.
 
-First year students and visiting students, in particular, may not be aware of these resources. Let the instructor know if you are concerned about a student's behavior or attendance or sudden changes in quality and timeliness of assignments. You can also let the Director of Undergraduate Studies (Professor Çetinkaya-Rundel) or the Undergraduate Coordinator (Joan Combs Durso) of your concerns. If you are holding office hours on nights or weekends, virtual campus resources may be more lightly staffed, so you should also know about other options for help. Check with Karen Whitesell in the Department of Statistical Sciences or contact the Dean of the Day, or in the event of an emergency requiring transportation, call campus police, or 911.
+First year students and visiting students, in particular, may not be aware of these resources. Let the instructor know if you are concerned about a student's behavior or attendance or sudden changes in quality and timeliness of assignments. You can also let the Director of Undergraduate Studies (Professor Mine Çetinkaya-Rundel) or the Undergraduate Coordinator (Joan Combs Durso) of your concerns. If you are holding office hours on nights or weekends, virtual campus resources may be more lightly staffed, so you should also know about other options for help. Check with Karen Whitesell in the Department of Statistical Sciences or contact the Dean of the Day, or in the event of an emergency requiring transportation, call campus police, or 911.
 
-If you find yourself in distress, talk with the instructor, Professor Çetinkaya-Rundel, or Dr.~Durso. Let us know immediately if you need help. Please.
+If you find yourself in distress, talk with the instructor, Professor Mine Çetinkaya-Rundel, or Dr.~Durso. Let us know immediately if you need help. We're here to help and always happy to talk!
 
   \bibliography{book.bib,packages.bib}
 

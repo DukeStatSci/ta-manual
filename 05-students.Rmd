@@ -21,12 +21,10 @@ Faculty and TAs are encouraged to be proactive in preventing dishonesty. For onl
 The following resources are available through StatSci and the university for students having difficulty in a course.
 
 - Direct interaction with course instructor(s), Teaching Assistant(s)
-
 - Scheduled Office hours of instructor(s) and course-specific TA(s)
+- Academic Resource Center, http://web.duke.edu/arc, including peer tutors and group study sessions for some introductory courses
 
-- Academic Resource Center, http://web.duke.edu/arc, including peer tutors and group study sessions for some introductory courses.
-
-- Let the instructor and then the Director of Undergraduate Studies and the Undergraduate Coordinator know if you need help with a particular student.
+Let the instructor and then the Director of Undergraduate Studies and the Undergraduate Coordinator know if you need help with a particular student.
 
 ## Group Work
 
@@ -36,7 +34,7 @@ If your course allows group work for homework or labs, ask the instructor to spe
 
 Undergraduate students (Trinity College and the Pratt School of Engineering) must request a formal _Professor Accommodation Letter_ each semester from the Student Disability Access Office that lists the student’s approved accommodation(s). This is needed in summer, as well. The student is responsible for emailing the instructor, forwarding the official letter, and requesting a meeting to discuss how the approved accommodations will be implemented in the class. In some classes, one TA will be asked to manage accommodations for the course. In larger classes, multiple TAs may be involved. If your instructor asks for assistance in providing accommodations for a student, be sure that all information regarding a student’s disability or accommodations is kept confidential. Do not discuss it with other TAs or in front of other students. Questions should be directed to the instructor or to the Student Disability Access Office at (919) 668-1267. If a student approaches you about accommodations, ask them to communicate with the instructor and let the instructor know you have referred them. If you are leading a lab and a student asks for lab accommodations, discuss it with the instructor. 
 
-The Academic Resource Center’s Testing Center is able to help with accommodations for remote testing, as well as in person. If the instructor decides to use it, students with accommodations must request testing arrangements at least one week in advance. Here is the website for information https://arc.duke.edu/about-arc/testing-center
+The Academic Resource Center’s Testing Center is able to help with accommodations for remote testing, as well as in person. If the instructor decides to use it, students with accommodations must request testing arrangements at least one week in advance. Here is the website for information https://arc.duke.edu/about-arc/testing-center.
 
 ## Diversity and Inclusiveness
 
@@ -47,9 +45,7 @@ If you have suggestions for improving the effectiveness of the course for you pe
 Furthermore, you should strive to create a learning environment for our students that supports a diversity of thoughts, perspectives and experiences, and honors students’ identities (including gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.) To help accomplish this, encourage your students to
 
 - let you know if they have a name and/or set of pronouns that differ from those that appear in the Duke records,
-
 - reach out if you feel like their performance in the class is being impacted by their experiences outside of class, and remind them that if they prefer to speak with someone outside of the course, their academic dean/director is an excellent resource, and
-
 - talk to you if something was said in class (by anyone) that made them feel uncomfortable.
 
 Requiring people to identify their pronouns is not helpful; invite it but don’t force it.  If you want to give your pronouns, do so. If offered, thank the student, and try to respect that request. The DukeHub now lets students who wish to identify their personal gender pronouns to do so in their records:  https://studentaffairs.duke.edu/csgd/pronouns/dukehub-20-pronouns-tutorial
@@ -62,7 +58,7 @@ Harassment complaints that involve both undergraduate students and either gradua
 
 ## Relationships with Students
 
-Consensual romantic or sexual relationships between any student charged with academic instruction and students receiving such instruction are prohibited. This applies to teaching assistants, research assistants, tutors, graders and any other students who provide academic instruction to any other student. A TA could lose the opportunity to continue in the instruction role and such behavior could also violate student conduct policies. This is covered in more detail in Appendix Z to the Faculty Handbook here: https://provost.duke.edu/sites/all/files/FHB_App_Z.pdf
+Consensual romantic or sexual relationships between any student charged with academic instruction and students receiving such instruction are prohibited. This applies to teaching assistants, research assistants, tutors, graders and any other students who provide academic instruction to any other student. A TA could lose the opportunity to continue in the instruction role and such behavior could also violate student conduct policies. This is covered in more detail in Appendix Z to the Faculty Handbook here: https://provost.duke.edu/sites/all/files/FHB_App_Z.pdf.
 
 If you are already in a relationship with a student who is in the class for which you are TAing, please discuss this with the instructor and the DUS or Undergraduate Coordinator. We can change your assignment or make certain you are never grading that person’s work or helping in their lab.
 
@@ -76,6 +72,6 @@ Our academic calendar sometimes brings with it the threat of severe weather in N
 
 Our students can be under a lot of stress. Any lab absences, missed deadlines, or concerning behavior should be brought to your instructor’s attention. In addition, familiarize yourself with the help offered by Duke Reach https://studentaffairs.duke.edu/dukereach1 as well as the Duke Counseling and Psychological Services https://studentaffairs.duke.edu/caps. You should also read Recognizing and Responding to Students in Distress, from the Office of the Provost. 
 
-First year students and visiting students, in particular, may not be aware of these resources. Let the instructor know if you are concerned about a student’s behavior or attendance or sudden changes in quality and timeliness of assignments. You can also let the Director of Undergraduate Studies (Professor Çetinkaya-Rundel) or the Undergraduate Coordinator (Joan Combs Durso) of your concerns. If you are holding office hours on nights or weekends, virtual campus resources may be more lightly staffed, so you should also know about other options for help.  Check with Karen Whitesell in the Department of Statistical Sciences or contact the Dean of the Day, or in the event of an emergency requiring transportation, call campus police, or 911.  
+First year students and visiting students, in particular, may not be aware of these resources. Let the instructor know if you are concerned about a student’s behavior or attendance or sudden changes in quality and timeliness of assignments. You can also let the Director of Undergraduate Studies (Professor Mine Çetinkaya-Rundel) or the Undergraduate Coordinator (Joan Combs Durso) of your concerns. If you are holding office hours on nights or weekends, virtual campus resources may be more lightly staffed, so you should also know about other options for help.  Check with Karen Whitesell in the Department of Statistical Sciences or contact the Dean of the Day, or in the event of an emergency requiring transportation, call campus police, or 911.  
 
-If you find yourself in distress, talk with the instructor, Professor Çetinkaya-Rundel, or Dr. Durso. Let us know immediately if you need help. Please. 
+If you find yourself in distress, talk with the instructor, Professor Mine Çetinkaya-Rundel, or Dr. Durso. Let us know immediately if you need help. We're here to help and always happy to talk!
