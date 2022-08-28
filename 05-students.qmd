@@ -1,0 +1,136 @@
+---
+title: "TAs and Students"
+---
+
+## Academic Misconduct
+
+It's crucial to let the course instructor know if you suspect or receive reports of academic misconduct so that we may handle all cases of dishonesty according to University Policy.
+It is your duty to report your suspicions to the instructor and they will investigate.
+Do not interrogate the students.
+This typically requires that the instructor report offenses to the Office of Judicial Affairs who will advise on mediation, arbitration, informal resolution or disciplinary action.
+The Duke Standard is as follows:
+
+> Duke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, respect, and accountability.
+> Citizens of this community commit to reflect upon and uphold these principles in all academic and non-academic endeavors, and to protect and promote a culture of integrity.
+>
+> To uphold the Duke Community Standard:
+>
+> -   I will not lie, cheat, or steal in my academic endeavors;
+>
+> -   I will conduct myself honorably in all my endeavors; and
+>
+> -   I will act if the Standard is compromised.
+
+Faculty and TAs are encouraged to be proactive in preventing dishonesty.
+For online exams, randomization and unique problems can help.
+Some time-limiting techniques are helpful but students with accommodations must be helped as well.
+There are hundreds of companies out there willing to sell students answers to problems sets, quizzes, and exams; these are all a violation of the Duke Community Standard.
+If you suspect such usage, talk with the instructor
+
+### Learning Resources for Students {.unnumbered}
+
+The following resources are available through StatSci and the university for students having difficulty in a course.
+
+-   Direct interaction with course instructor(s), Teaching Assistant(s)
+-   Scheduled Office hours of instructor(s) and course-specific TA(s)
+-   Academic Resource Center, https://arc.duke.edu/, including peer tutors and group study sessions for some introductory courses
+
+Let the instructor and then the Director of Undergraduate Studies and the Undergraduate Coordinator know if you need help with a particular student.
+
+## Group Work
+
+If your course allows group work for homework or labs, ask the instructor to speak with your students about what type of collaboration is appropriate.
+For instance, if students can work together on HW problems, discussion is appropriate, but students must write up individual responses for every question.
+Student answers should not be the same as their collaborators'.
+If there is an in-class group assignment for which one submission is expected, make certain the submission instructions are clear and followed by the groups.
+Our students come from all over the world, from all kinds of prior learning experiences, and what is permitted in group work can be highly varied.
+Please help your students understand the nuances of permissible group work.
+
+## Students with Disabilities
+
+Undergraduate students (Trinity College and the Pratt School of Engineering) must request a formal *Professor Accommodation Letter* each semester from the Student Disability Access Office that lists the student's approved accommodation(s).
+This is needed in summer, as well.
+The student is responsible for emailing the instructor, forwarding the official letter, and requesting a meeting to discuss how the approved accommodations will be implemented in the class.
+In some classes, one TA will be asked to manage accommodations for the course.
+In larger classes, multiple TAs may be involved.
+If your instructor asks for assistance in providing accommodations for a student, be sure that all information regarding a student's disability or accommodations is kept confidential.
+Do not discuss it with other TAs or in front of other students.
+Questions should be directed to the instructor or to the Student Disability Access Office at (919) 668-1267.
+If a student approaches you about accommodations, ask them to communicate with the instructor and let the instructor know you have referred them.
+If you are leading a lab and a student asks for lab accommodations, discuss it with the instructor.
+
+The Academic Resource Center's Testing Center is able to help with accommodations for remote testing, as well as in person.
+If the instructor decides to use it, students with accommodations must request testing arrangements at least one week in advance.
+Here is the website for information https://testingcenter.duke.edu/.
+
+## Diversity and Inclusiveness
+
+Students from all diverse backgrounds and perspectives need to be well-served by our courses, their learning needs to be addressed both in and out of class, and the diversity that the students bring to this class need to be viewed as a resource, strength, and benefit.
+Therefore, the materials and activities you present need to be respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.
+Our department's statement is here: https://stat.duke.edu/diversity-equity-and-inclusion.
+
+If you have suggestions for improving the effectiveness of the course for you personally, or for other students or student groups, let the faculty member or the DUS know.
+There is a module on this in TA training in Sakai.
+
+Furthermore, you should strive to create a learning environment for our students that supports a diversity of thoughts, perspectives and experiences, and that honors students' identities (including gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture).
+To help accomplish this, encourage your students to
+
+-   let you know if they have a name and/or set of pronouns that differ from those that appear in the Duke records,
+-   reach out if you feel like their performance in the class is being impacted by their experiences outside of class, and remind them that if they prefer to speak with someone outside of the course, their academic dean/director is an excellent resource, and
+-   talk to you if something was said in class (by anyone) that made them feel uncomfortable.
+
+Requiring people to identify their pronouns is not helpful; invite it but don't force it.
+If you want to give your pronouns, do so.
+If offered, thank the student, and try to respect that request.
+The DukeHub now lets students who wish to identify their personal gender pronouns to do so in their records: https://studentaffairs.duke.edu/csgd/pronouns/dukehub-20-pronouns-tutorial
+
+Please let the instructor know if there is an issue that you notice in class or in office hours that is disrespectful.
+
+## Harassment
+
+Harassment complaints that involve both undergraduate students and either graduate students, faculty members or employees are addressed, as necessary, through the intervention of Office of Institutional Equity or the official responsible for the respondent's supervision.
+Such situations are of particular concern because the possible inherent power differential between the parties increases the potential for coerciveness.
+See http://www.duke.edu/web/equity/harassment.html for more information on Duke's harassment policy.
+If you have any concerns regarding harassment, please feel free to reach out to the instructor or DUS for advice as well.
+
+## Relationships with Students
+
+Consensual romantic or sexual relationships between any student charged with academic instruction and students receiving such instruction are prohibited.
+This applies to teaching assistants, research assistants, tutors, graders and any other students who provide academic instruction to any other student.
+A TA could lose the opportunity to continue in the instruction role and such behavior could also violate student conduct policies.
+This is covered in more detail in Appendix Z to the Faculty Handbook here: https://provost.duke.edu/sites/default/files/FHB_App_Z.pdf.
+
+If you are already in a relationship with a student who is in the class for which you are TAing, please discuss this with the instructor and the DUS or Undergraduate Coordinator.
+We can change your assignment or make certain you are never grading that person's work or helping in their lab.
+
+## Emergency Conditions
+
+Download and install the Live Safe app to get emergency notifications for Duke's campuses.
+You can obtain information on emergency notifications and procedures at https://emergency.duke.edu.
+Please become familiar with this site and its contents.
+Instructors may be covering these procedures in class.
+
+Our academic calendar sometimes brings with it the threat of severe weather in North Carolina.
+At the start of your course, be sure and locate the nearest tornado safe zone in your assigned location or wherever you are staying.
+This also applies if you are teaching your lab from your own residence.
+If you are in Old Chem, the nearest tornado safe area is in the library buildings next door.
+In other buildings, if you can't find signage, ask staff in that building for their tornado safe location.
+If there is a tornado watch, simply monitor conditions.
+If there is a tornado warning announced, however, you will be notified to take shelter in the nearest tornado safe area.
+
+## Students in Distress
+
+Our students can be under a lot of stress.
+Any lab absences, missed deadlines, or concerning behavior should be brought to your instructor's attention.
+In addition, familiarize yourself with the help offered by Duke Reach https://studentaffairs.duke.edu/dukereach1 as well as the Duke Counseling and Psychological Services https://studentaffairs.duke.edu/caps.
+You should also read Recognizing and Responding to Students in Distress, from the Office of the Provost.
+
+First year students and visiting students, in particular, may not be aware of these resources.
+Let the instructor know if you are concerned about a student's behavior or attendance or sudden changes in quality and timeliness of assignments.
+You can also let the Director of Undergraduate Studies (Professor Mine Çetinkaya-Rundel) or the Undergraduate Coordinator (Joan Combs Durso) of your concerns.
+If you are holding office hours on nights or weekends, virtual campus resources may be more lightly staffed, so you should also know about other options for help.
+Check with Karen Whitesell in the Department of Statistical Sciences or contact the Dean of the Day, or in the event of an emergency requiring transportation, call campus police, or 911.
+
+If you find yourself in distress, talk with the instructor, Professor Mine Çetinkaya-Rundel, or Dr. Durso.
+Let us know immediately if you need help.
+We're here to help and always happy to talk!
