@@ -4,7 +4,7 @@ title: "Guidelines"
 
 ## Before Classes Begin
 
--   Trinity resources: The undergraduate bulletin (https://registrar.duke.edu/university-bulletins/undergraduate-instruction) and T-Reqs (Trinity Requirements) (https://trinity.duke.edu/undergraduate/academic-policies are sources for Trinity College Academic Policies and Procedures. You are encouraged to review this site for information on university policy on religious holidays, disability accommodations, class attendance, credits, exams and grading, harassment, plagiarism, etc. For graduate courses, use the Graduate Bulletin https://registrar.duke.edu/university-bulletins/graduate-school and the Graduate School's policy site https://gradschool.duke.edu/academics/academic-policies.
+-   Trinity resources: The undergraduate bulletin (<https://registrar.duke.edu/university-bulletins/undergraduate-instruction>) and T-Reqs (Trinity Requirements) (<https://trinity.duke.edu/undergraduate/academic-policies> are sources for Trinity College Academic Policies and Procedures. You are encouraged to review this site for information on university policy on religious holidays, disability accommodations, class attendance, credits, exams and grading, harassment, plagiarism, etc. For graduate courses, use the Graduate Bulletin <https://registrar.duke.edu/university-bulletins/graduate-school> and the Graduate School's policy site <https://gradschool.duke.edu/academics/academic-policies>.
 
 -   Technology: During training, you will be asked about your ability to use Gradescope for grading and Zoom and whiteboarding for online meetings.
     It's fine to use a do-it-yourself hack to turn your cell phone into a document camera aimed at paper or a whiteboard.
@@ -112,7 +112,7 @@ title: "Guidelines"
 
 -   Please avoid *"didactic dictation"*.
     One of the most frustrating experiences for a new user of R is to have code quickly and sometimes inaudibly dictated to them by an experienced coder who talks too fast while typing in unreadably tiny font on a screen half the class can't see, and allows no time for correction, troubleshooting, or questions.
-    (Use .Rmd files for that instead.) Live coding, where you are demonstrating something as you talk about it, and students code along, should be done slowly.
+    Live coding, where you are demonstrating something as you talk about it, and students code along, should be done slowly.
     You don't have to be perfect.
     It's okay to make mistakes and correct them, modeling authentic coding for your students.
     Demonstrate first, and then have students work on their own code.
@@ -181,7 +181,7 @@ Excellent suggestions for how to do this well can be found [here](https://mine-c
 
 -   Before you begin to grade, go through solutions and double check answers, points, etc.
 
--   Grade by question, i.e., grade all of question 1, then all of question 2,... This will facilitate greater consistency.
+-   Grade by question, i.e., grade all of question 1, then all of question 2, etc. This will facilitate greater consistency.
     You may be assigned only one or a few questions from an entire assignment, especially if you are using Gradescope.
 
 -   If you are sharing grading duties, make sure to calibrate for consistency.

@@ -33,7 +33,7 @@ The following resources are available through StatSci and the university for stu
 
 -   Direct interaction with course instructor(s), Teaching Assistant(s)
 -   Scheduled Office hours of instructor(s) and course-specific TA(s)
--   Academic Resource Center, https://arc.duke.edu/, including peer tutors and group study sessions for some introductory courses
+-   Academic Resource Center, <https://arc.duke.edu>, including peer tutors and group study sessions for some introductory courses
 
 Let the instructor and then the Director of Undergraduate Studies and the Undergraduate Coordinator know if you need help with a particular student.
 
@@ -49,25 +49,26 @@ Please help your students understand the nuances of permissible group work.
 ## Students with Disabilities
 
 Undergraduate students (Trinity College and the Pratt School of Engineering) must request a formal *Professor Accommodation Letter* each semester from the Student Disability Access Office that lists the student's approved accommodation(s).
-This is needed in summer, as well.
+This applies to all semesters, including summer.
 The student is responsible for emailing the instructor, forwarding the official letter, and requesting a meeting to discuss how the approved accommodations will be implemented in the class.
 In some classes, one TA will be asked to manage accommodations for the course.
 In larger classes, multiple TAs may be involved.
 If your instructor asks for assistance in providing accommodations for a student, be sure that all information regarding a student's disability or accommodations is kept confidential.
 Do not discuss it with other TAs or in front of other students.
-Questions should be directed to the instructor or to the Student Disability Access Office at (919) 668-1267.
+Questions should be directed to the instructor only.
 If a student approaches you about accommodations, ask them to communicate with the instructor and let the instructor know you have referred them.
 If you are leading a lab and a student asks for lab accommodations, discuss it with the instructor.
 
-The Academic Resource Center's Testing Center is able to help with accommodations for remote testing, as well as in person.
-If the instructor decides to use it, students with accommodations must request testing arrangements at least one week in advance.
-Here is the website for information https://testingcenter.duke.edu/.
+Duke also has a Testing Center available to students who need accommodations.
+If instructors choose to use the Testing Center, the decision should be stated in the class syllabus.
+Students who qualify to use it include students granted testing accommodations by the SDAO and students who need to complete make-up exams due to an approved absence.
+Direct all questions from students about the testing center to the instructor or direct the students to [https://testingcenter.duke.edu](https://testingcenter.duke.edu/).
 
-## Diversity and Inclusiveness
+## Diversity and inclusiveness
 
 Students from all diverse backgrounds and perspectives need to be well-served by our courses, their learning needs to be addressed both in and out of class, and the diversity that the students bring to this class need to be viewed as a resource, strength, and benefit.
 Therefore, the materials and activities you present need to be respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.
-Our department's statement is here: https://stat.duke.edu/diversity-equity-and-inclusion.
+Our department's statement is here: <https://stat.duke.edu/diversity-equity-and-inclusion>.
 
 If you have suggestions for improving the effectiveness of the course for you personally, or for other students or student groups, let the faculty member or the DUS know.
 There is a module on this in TA training in Sakai.
@@ -82,7 +83,7 @@ To help accomplish this, encourage your students to
 Requiring people to identify their pronouns is not helpful; invite it but don't force it.
 If you want to give your pronouns, do so.
 If offered, thank the student, and try to respect that request.
-The DukeHub now lets students who wish to identify their personal gender pronouns to do so in their records: https://studentaffairs.duke.edu/csgd/pronouns/dukehub-20-pronouns-tutorial
+The DukeHub now lets students who wish to identify their personal gender pronouns to do so in their records: <https://studentaffairs.duke.edu/csgd/pronouns/dukehub-20-pronouns-tutorial>.
 
 Please let the instructor know if there is an issue that you notice in class or in office hours that is disrespectful.
 
@@ -90,23 +91,23 @@ Please let the instructor know if there is an issue that you notice in class or 
 
 Harassment complaints that involve both undergraduate students and either graduate students, faculty members or employees are addressed, as necessary, through the intervention of Office of Institutional Equity or the official responsible for the respondent's supervision.
 Such situations are of particular concern because the possible inherent power differential between the parties increases the potential for coerciveness.
-See http://www.duke.edu/web/equity/harassment.html for more information on Duke's harassment policy.
+See <http://www.duke.edu/web/equity/harassment.html> for more information on Duke's harassment policy.
 If you have any concerns regarding harassment, please feel free to reach out to the instructor or DUS for advice as well.
 
-## Relationships with Students
+## Relationships with students
 
 Consensual romantic or sexual relationships between any student charged with academic instruction and students receiving such instruction are prohibited.
 This applies to teaching assistants, research assistants, tutors, graders and any other students who provide academic instruction to any other student.
 A TA could lose the opportunity to continue in the instruction role and such behavior could also violate student conduct policies.
-This is covered in more detail in Appendix Z to the Faculty Handbook here: https://provost.duke.edu/sites/default/files/FHB_App_Z.pdf.
+This is covered in more detail in Appendix Z to the Faculty Handbook here: <https://provost.duke.edu/sites/default/files/FHB_App_Z.pdf>.
 
 If you are already in a relationship with a student who is in the class for which you are TAing, please discuss this with the instructor and the DUS or Undergraduate Coordinator.
 We can change your assignment or make certain you are never grading that person's work or helping in their lab.
 
-## Emergency Conditions
+## Emergency conditions
 
 Download and install the Live Safe app to get emergency notifications for Duke's campuses.
-You can obtain information on emergency notifications and procedures at https://emergency.duke.edu.
+You can obtain information on emergency notifications and procedures at <https://emergency.duke.edu>.
 Please become familiar with this site and its contents.
 Instructors may be covering these procedures in class.
 
@@ -122,7 +123,7 @@ If there is a tornado warning announced, however, you will be notified to take s
 
 Our students can be under a lot of stress.
 Any lab absences, missed deadlines, or concerning behavior should be brought to your instructor's attention.
-In addition, familiarize yourself with the help offered by Duke Reach https://studentaffairs.duke.edu/dukereach1 as well as the Duke Counseling and Psychological Services https://studentaffairs.duke.edu/caps.
+In addition, familiarize yourself with the help offered by Duke Reach <https://students.duke.edu/wellness/dukereach> as well as the Duke Counseling and Psychological Services <https://studentaffairs.duke.edu/caps>.
 You should also read Recognizing and Responding to Students in Distress, from the Office of the Provost.
 
 First year students and visiting students, in particular, may not be aware of these resources.
