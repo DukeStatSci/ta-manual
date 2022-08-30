@@ -3,18 +3,19 @@ project:
 
 book:
   title: "Duke Statistical Science TA Manual"
-  date-meta: today
+  date: "29 August 2022"
   reader-mode: true
   repo-url: https://github.com/DukeStatSci/ta-manual
   repo-branch: main
   repo-actions: [edit, issue]
   chapters:
     - index.qmd
-    - 01-covid19.qmd
-    - 02-responsibilities.qmd
-    - 03-training.qmd
-    - 04-guidelines.qmd
-    - 05-students.qmd
+    - 01-useful-links.qmd
+    - 02-covid19.qmd
+    - 03-responsibilities.qmd
+    - 04-training.qmd
+    - 05-guidelines.qmd
+    - 06-students.qmd
 
 format: pdf
 

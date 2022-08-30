@@ -1,0 +1,9 @@
+---
+title: "Useful links"
+---
+
+-   Duke COVID updates and policies: [https://coronavirus.duke.edu](https://coronavirus.duke.edu/)
+-   Fall 2022 Academic Calendar: <https://registrar.duke.edu/fall-2022-academic-calendar>
+-   Fall 2022 Exam Schedules: <https://registrar.duke.edu/calendars-key-dates/exam-schedules>
+-   Fall 2022 Office hours: <https://duke.is/ys7tw>
+-   Questions or concerns: [dus\@stat.duke.edu](mailto:dus@stat.duke.edu)

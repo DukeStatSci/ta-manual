@@ -31,21 +31,10 @@ Faculty members will be asked to nominate TAs for this award each semester (for 
 TAs of the Year will be recognized at the departmental graduation at the end of the academic year.
 The award for the winning PhD TA is \$1,500 towards travel and computing, for the MS winning TA is \$1,000 cash award, and for the winning undergraduate is \$750 cash award.
 
-A Qualtrics survey link has also been set up that can be shared on course sites.
-It does require Duke SSO authentication.
-Compliments from identified senders will be used for small awards, and along with Faculty feedback, for nominations for TA of the year.
-TA Award nomination
-
-TAs requested a speedy feedback device.
-We set up an alias for this purpose: stat-ta-feedback\@duke.edu can be given to your students for compliments, concerns and suggestions.
-Email comes to the DUS and the Undergrad Coordinator.
-TAs may also use it to let us know of issues or concerns with the TA duties, training, equipment, materials, etc.
-Please do not use it for mandatory reporting of harassment, etc.
-
 ## Further Training
 
 Workshops and more training opportunities are available from Learning Innovation and the Graduate School.
-Upcoming workshops are here <https://learninginnovation.duke.edu/events/> and recorded workshops are here <https://flexteaching.li.duke.edu/fall-2020/workshops/recorded-workshops/>.
+Upcoming workshops are here <https://learninginnovation.duke.edu/events/>.
 
 The Graduate School has many training opportunities for students interested in teaching, see their website at <https://gradschool.duke.edu/>.
 Some specific opportunities that might be of interest are listed below.
@@ -65,6 +54,11 @@ The program requirements take about a year to complete, but that may vary as opp
 CCT work may be done alongside other classes, research, or work on a dissertation, and should not significantly interfere with the timely completion of any of these.
 After you apply to the CCT program, the program director will meet with you to go over the requirements and your timeline for completing them.
 Discuss your CCT activities with your instructor and the Department if you need assistance scheduling observations, etc.
+
+Two Statistical Science courses have been developed and count towards this Certificate:
+
+- STA 771S - Teaching Statistics
+- STA 772S - Mentoring Undergraduate STEM Research
 
 ### BASS Instructional Fellowships
 
