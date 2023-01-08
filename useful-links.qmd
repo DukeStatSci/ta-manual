@@ -1,0 +1,9 @@
+---
+title: "Useful links"
+---
+
+-   Duke COVID updates and policies: <https://coronavirus.duke.edu>
+-   Spring 2023 Academic Calendar: <https://registrar.duke.edu/spring-2023-academic-calendar>
+-   Final Exam Schedule: <https://registrar.duke.edu/calendars-key-dates/exam-schedules>
+-   Spring 2023 Office hours: <https://duke.is/nbm49>
+-   Questions or concerns: [dus\@stat.duke.edu](mailto:dus@stat.duke.edu)
