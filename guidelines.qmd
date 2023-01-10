@@ -84,8 +84,6 @@ title: "Guidelines"
 
 -   If you are sharing grading duties, make sure to calibrate for consistency. Students will be frustrated and angry if graders differ in their process of assigning points (and you will hear about it!).
 
--   Many courses use *positive grading* in the department. For each problem, clearly mark the number of points earned and the number of points possible. Gradescope or Sakai will do the tallying for you.
-
 -   Record grades as per instructions of the instructor, but always double check your work.
 
 -   Check with the instructor on how to enter missing grades, i.e. with a blank or a zero. Blanks can play havoc with scoring algorithms that require replacing minimums. This also depends on whether you are grading with Gradescope or Sakai.
