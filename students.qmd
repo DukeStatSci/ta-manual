@@ -50,7 +50,7 @@ Furthermore, you should strive to create a learning environment for our students
 -   reach out if you feel like their performance in the class is being impacted by their experiences outside of class, and remind them that if they prefer to speak with someone outside of the course, their academic dean/director is an excellent resource, and
 -   talk to you if something was said in class (by anyone) that made them feel uncomfortable.
 
-Requiring people to identify their pronouns is not helpful; invite it but don't force it. If you want to give your pronouns, do so. If offered, thank the student, and try to respect that request. The DukeHub now lets students who wish to identify their personal gender pronouns to do so in their records: <https://studentaffairs.duke.edu/csgd/pronouns/dukehub-20-pronouns-tutorial>.
+Requiring people to identify their pronouns is not helpful; invite it but don't force it. If you want to give your pronouns, do so. The DukeHub now lets students who wish to identify their personal pronouns to do so in their records: <https://studentaffairs.duke.edu/csgd/pronouns/dukehub-20-pronouns-tutorial>.
 
 Please let the instructor know if there is an issue that you notice in class or in office hours that is disrespectful.
 
@@ -66,14 +66,26 @@ If you are already in a relationship with a student who is in the class for whic
 
 ## Emergency conditions
 
-Download and install the Live Safe app to get emergency notifications for Duke's campuses. You can obtain information on emergency notifications and procedures at <https://emergency.duke.edu>. Please become familiar with this site and its contents. Instructors may be covering these procedures in class.
+Download and install the Live Safe app to get emergency notifications for Duke's campuses. You can obtain information on emergency notifications and procedures at <https://emergency.duke.edu>. Please become familiar with this site and its contents.
 
-Our academic calendar sometimes brings with it the threat of severe weather in North Carolina. At the start of your course, be sure and locate the nearest tornado safe zone in your assigned location or wherever you are staying. This also applies if you are teaching your lab from your own residence. If you are in Old Chem, the nearest tornado safe area is in the library buildings next door. In other buildings, if you can't find signage, ask staff in that building for their tornado safe location. If there is a tornado watch, simply monitor conditions. If there is a tornado warning announced, however, you will be notified to take shelter in the nearest tornado safe area.
+Our academic calendar sometimes brings with it the threat of severe weather in North Carolina. At the start of your course, be sure and locate the nearest tornado safe zone in your assigned location or wherever you are staying. If you are in Old Chem, the nearest tornado safe area is in the library buildings next door. In other buildings, if you can't find signage, ask staff in that building for their tornado safe location. If there is a tornado watch, simply monitor conditions. If there is a tornado warning announced, however, you will be notified to take shelter in the nearest tornado safe area.
 
-## Students in distress
+## Mental health and wellness
 
-Our students can be under a lot of stress. Any lab absences, missed deadlines, or concerning behavior should be brought to your instructor's attention. In addition, familiarize yourself with the help offered by Duke Reach <https://students.duke.edu/wellness/dukereach> as well as the Duke Counseling and Psychological Services <https://studentaffairs.duke.edu/caps>. You should also read Recognizing and Responding to Students in Distress, from the Office of the Provost.
+Our students can be under a lot of stress. Any lab absences, missed deadlines, or concerning behavior should be brought to your instructor's attention. In addition, familiarize yourself with mental health and wellness resources:
 
-First year students and visiting students, in particular, may not be aware of these resources. Let the instructor know if you are concerned about a student's behavior or attendance or sudden changes in quality and timeliness of assignments. You can also let the Director of Undergraduate Studies (Professor Mine Çetinkaya-Rundel) or the Undergraduate Coordinator (Joan Combs Durso) of your concerns. If you are holding office hours on nights or weekends, virtual campus resources may be more lightly staffed, so you should also know about other options for help. Check with Karen Whitesell in the Department of Statistical Sciences or contact the Dean of the Day, or in the event of an emergency requiring transportation, call campus police, or 911.
+-   **The Academic Resource Center:** (919) 684-5917, [theARC\@duke.edu](mailto:theARC@duke.edu), or [arc.duke.edu](https://arc.duke.edu/).
 
-If you find yourself in distress, talk with the instructor, Professor Mine Çetinkaya-Rundel, or Joan Durso. Let us know immediately if you need help. We're here to help and always happy to talk!
+-   **DuWell:** (919) 681-8421, provides Moments of Mindfulness (stress management and resilience building) and meditation programming to assist students in developing a daily emotional well-being practice. To see schedules for programs please see <https://studentaffairs.duke.edu/duwell>. All are welcome and no experience necessary.
+
+-   **DukeReach:** Provides comprehensive outreach services to identify and support students in managing all aspects of well-being. If you have concerns about a student\'s behavior or health visit the website for resources and assistance: <http://studentaffairs.duke.edu/dukereach>.
+
+-   **Counseling and Psychological Services (CAPS):** CAPS services include individual and group counseling services, psychiatric services, and workshops. To initiate services, walk-in/call-in 9-4 M,W,Th,F and 9-6 Tuesdays. CAPS also provides referral to off-campus resources for specialized care. (919) 660-1000 or [https://students.duke.edu/wellness/caps](https://students.duke.edu/wellness/caps/).
+
+-   **TimelyCare:** (formerly known as Blue Devils Care) An online platform that is a convenient, confidential, and free way for Duke students to receive 24/7 mental health support through TalkNow and scheduled counseling: [https://bluedevilscare.duke.edu](https://bluedevilscare.duke.edu/).
+
+First year students and visiting students, in particular, may not be aware of these resources. Let the instructor know if you are concerned about a student's behavior or attendance or sudden changes in quality and timeliness of assignments. You can also let the Director of Undergraduate Studies or the Undergraduate Coordinator of your concerns. If you are holding office hours on nights or weekends, virtual campus resources may be more lightly staffed, so you should also know about other options for help.
+
+In the event of an emergency requiring transportation, call campus police or 911.
+
+Importantly, note that these resources are available to you as well. If you find yourself in distress, reach out to your course instructor, the DUS, or the Undergraduate Coordinator. Let us know immediately if you need help. We're here to help and always happy to talk!

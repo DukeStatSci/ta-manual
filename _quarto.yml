@@ -23,5 +23,6 @@ format:
   pdf: default
   html: 
     mainfont: "Atkinson Hyperlegible"
+    toc: true
 
 editor: visual
