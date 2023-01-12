@@ -18,7 +18,7 @@ It's crucial to let the course instructor know if you suspect or receive reports
 
 Faculty and TAs are encouraged to be proactive in preventing dishonesty. For online exams, randomization and unique problems can help. Some time-limiting techniques are helpful but students with accommodations must be helped as well. There are hundreds of companies out there willing to sell students answers to problems sets, quizzes, and exams; these are all a violation of the Duke Community Standard. If you suspect such usage, talk with the instructor
 
-### Learning Resources for Students {.unnumbered}
+## Learning resources for students
 
 The following resources are available through StatSci and the university for students having difficulty in a course.
 
@@ -78,7 +78,7 @@ Our students can be under a lot of stress. Any lab absences, missed deadlines, o
 
 -   **DuWell:** (919) 681-8421, provides Moments of Mindfulness (stress management and resilience building) and meditation programming to assist students in developing a daily emotional well-being practice. To see schedules for programs please see <https://studentaffairs.duke.edu/duwell>. All are welcome and no experience necessary.
 
--   **DukeReach:** Provides comprehensive outreach services to identify and support students in managing all aspects of well-being. If you have concerns about a student\'s behavior or health visit the website for resources and assistance: <http://studentaffairs.duke.edu/dukereach>.
+-   **DukeReach:** Provides comprehensive outreach services to identify and support students in managing all aspects of well-being. If you have concerns about a student's behavior or health visit the website for resources and assistance: <http://studentaffairs.duke.edu/dukereach>.
 
 -   **Counseling and Psychological Services (CAPS):** CAPS services include individual and group counseling services, psychiatric services, and workshops. To initiate services, walk-in/call-in 9-4 M,W,Th,F and 9-6 Tuesdays. CAPS also provides referral to off-campus resources for specialized care. (919) 660-1000 or [https://students.duke.edu/wellness/caps](https://students.duke.edu/wellness/caps/).
 
