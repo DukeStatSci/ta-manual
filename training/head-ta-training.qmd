@@ -1,0 +1,264 @@
+---
+title: "Head TA Training"
+subtitle: "Department of Statistical Science <br> Spring 2023"
+format: 
+  revealjs:
+    theme: slides.scss
+    multiplex: false
+    transition: fade
+    slide-number: true
+    incremental: false 
+    chalkboard: true
+---
+
+# Welcome
+
+## Agenda
+
+-   Introductions
+-   Head TA responsibilities
+-   Case studies
+-   Q&A
+
+## Introductions
+
+-   Name
+
+-   Class you're TAing this semester
+
+-   Have you ever been a Head TA? If so, for what course?
+
+## Who are the Head TAs?
+
+-   You're TAing for a large course with 5 or more TAs
+
+-   You've been identified by the instructor as someone who has
+
+    -   excelled as a TA in previous semesters, and/or
+
+    -   has demonstrated an ability to take on more responsibility in the administration of the course
+
+## Responsibilities
+
+Head TA responsibilities can generally be categorized as one of the following:
+
+-   Administrative
+
+-   Pedagogical
+
+Exact responsibilities will differ based on the course needs
+
+# Administrative
+
+## Office hours
+
+Work with instructor to ensure
+
+-   Each TA has scheduled their allotted number of hours (at least 2 per week)
+
+-   Ensure office hours are well distributed throughout the week
+
+-   The necessary rooms are reserved and Zoom links set up
+
+-   Office hours are posted in the departmental office hours master list
+
+## Total TA hours
+
+-   Ask the instructor for the expected number of weekly hours for each TA. In most cases, they are
+
+    | Role                      | Weekly hours  |
+    |---------------------------|---------------|
+    | Undergrad                 | 8 - 10 hours  |
+    | MS                        | 10 - 12 hours |
+    | PhD                       | 12 - 15 hours |
+    | RA+                       | 4 - 5 hours   |
+    | RA/TA                     | 6 - 7 hours   |
+    | TA from other departments | 10 hours      |
+
+## Total TA hours
+
+Periodically check in with TAs about the number of hours they're working each week
+
+-   Adjust grading assignments, as needed, to keep workload allocated fairly and each TA within their limits
+
+-   Notify the instructor if this is not feasible
+
+<!--# Add a slide with a flowchart outlining the process for grading -->
+
+## Managing Gradescope
+
+-   Work with the instructor to ensure all TAs know how to use Gradescope
+-   Create assignments in Gradescope and link to Sakai through the Lessons tool
+-   Schedule a training session with Joan Durso if you or other TAs need help with technical aspects of Gradescope
+
+## Rubrics in Gradescope
+
+-   Add rubrics to each assignment
+
+-   Talk with instructor about preferred grading conventions:
+
+    -   Positive, negative, or combination scoring
+
+    -   Additional rubric items, such as "Blank", "Needs Review", etc.
+
+## Assigning grading
+
+Make grading assignments for all TAs taking the following into account:
+
+-   If using Gradescope, each question should be graded by one TA, with rare exceptions
+
+-   The number of questions assigned to each TA is based on their total number of allowed hours and their other responsibilities
+
+## Managing grading
+
+Make sure all TAs complete grading within a week (or other deadline set by the instructor). This includes
+
+::: incremental
+-   Gently reminding TAs of upcoming grading deadline about 1- 2 days prior
+
+-   Keeping track of progress and sending personal reminders to TAs who have little to no grading completed the day before the deadline
+
+-   Sending personal reminders to TAs who have no completed grading by the deadline.
+
+-   Letting the instructor know if there are repeated issues with a TA completing quality grading by the deadline or if you are unable to contact a TA
+:::
+
+## Evaluating feedback
+
+-   Do a first pass on graded items marked "Needs Review" by TAs.
+
+-   Spot check the grading accuracy and quality of written feedback, and let TAs know if they need to improve either
+
+-   Let the instructor know that grades are ready for release or if there are any outstanding questions about grading
+
+-   If requested, do a first pass on regrade requests.
+
+. . .
+
+*This will be the focus of the next check-in meeting.*
+
+# Pedagogical
+
+## Creating answer keys & rubrics
+
+::: incremental
+-   Review assignment instructions and notify the instructor of anything that may be confusing or unclear
+
+    -   Make minor updates and corrections as requested; the instructor is responsible for assignment creation and major updates
+
+-   You will likely be asked to do one of the following:
+
+    -   Create answer key and grading rubrics
+
+    -   Review grading rubrics and notify instructor of errors or inconsistencies between instructions and rubrics
+:::
+
+## Team evaluations
+
+-   Schedule team peer evaluations in [Teammates](https://teammatesv4.appspot.com/) or software preferred by instructor.
+
+-   When peer evaluations are due, read through the "instructor only" comments and write a one-page summary. In particular, note
+
+    -   Common pain points
+
+    -   Groups that may be having trouble
+
+    -   Groups doing especially well (good news is nice to hear too!)
+
+## Talk with the instructor!
+
+-   Determine the specific tasks you're responsible for as Head TA in their course
+
+-   Regularly communicate with the instructor, particularly if challenges arise or the assigned tasks are not feasible in your allotted weekly hours
+
+# Instructor's perspective
+
+## Value
+
+-   Good teaching experience
+
+-   Communication skills
+
+-   Teaching statement
+
+-   Organization skills
+
+## Summary of tasks {.smaller}
+
+::: incremental
+-   **First two weeks of semester**
+
+    -   Office hours scheduling
+
+    -   Coordinating Gradescope/Sakai training, if needed
+
+-   **Regularly occurring**
+
+    -   Create or review answer keys and grading rubrics
+
+    -   Make assignments in Gradescope with rubrics
+
+    -   Assign and manage grading; spot check grading accuracy and written feedback
+
+-   **Periodic**
+
+    -   Check-in in with TAs about workload
+    -   Set up team evaluations and write summary report
+:::
+
+## Things you're not responsible for...
+
+-   Making the final call on grades, especially course grades
+
+-   Making the final assessment on grading consistency within particular items and across entire graded assignment
+
+-   Managing and making arrangements for accommodations requests
+
+-   Making sure all TAs have a good handle on the course content and upcoming assignments.
+
+-   Managing Sakai Gradebook
+
+------------------------------------------------------------------------
+
+> # ***Perhaps the most important task of the head TA is to set an example for other TAs.*** 
+
+# Questions?
+
+# Case studies
+
+## Case study #1
+
+Two TAs have been assigned to grade question #3 on a problem set. The question has multiple parts. The TAs have not consistently graded a missed part; one gave partial credit for correct follow-through from the error, one gave no credit.
+
+The grading is due to be released tomorrow. What do you do if
+
+-   the T.A.s are available,
+-   and if they are not.
+
+There are 150 homework sets.
+
+## Case study #2
+
+One of your TAs appears to be holding help sessions for a large group of their quadmates in the Quad. They have asked you if they can report these hours on their timecard.
+
+What would you do, and what advice do you have for the TA?
+
+## Case study #3
+
+You have agreed to substitute for a Lab Lead TA while they are away on an interview. The morning of the lab, you test positive for COVID. There's not much time before you were supposed to leave for the lab.
+
+How do you handle the situation? How do you handle it if the substitute is another TA?
+
+## Head TA Training - Spring 2023
+
+::: midi
+All head TAs are expected to complete the following training items each semester they are serving in this role:
+
+-   Review the *Head TA* chapter of the TA manual.
+-   Attend a Head TA training during the first week of classes.
+-   Attend the Head TA check-in during week 3 or 4 of the semester. The check-in will include
+    -   Training on giving quality feedback and effectively reviewing feedback from other TAs
+    -   Sharing experiences with course logistics, set up, Gradescope, and workload
+    -   General Q&A
+-   Complete Head TA survey at the end of the semester to provide reflections on the Head TA role, training, etc.
+:::
