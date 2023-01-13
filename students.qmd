@@ -1,5 +1,5 @@
 ---
-title: "TAs and Students"
+title: "Policies"
 ---
 
 ## Academic Misconduct
@@ -18,17 +18,7 @@ It's crucial to let the course instructor know if you suspect or receive reports
 
 Faculty and TAs are encouraged to be proactive in preventing dishonesty. For online exams, randomization and unique problems can help. Some time-limiting techniques are helpful but students with accommodations must be helped as well. There are hundreds of companies out there willing to sell students answers to problems sets, quizzes, and exams; these are all a violation of the Duke Community Standard. If you suspect such usage, talk with the instructor
 
-## Learning resources for students
-
-The following resources are available through StatSci and the university for students having difficulty in a course.
-
--   Direct interaction with course instructor(s), Teaching Assistant(s)
--   Scheduled Office hours of instructor(s) and course-specific TA(s)
--   Academic Resource Center, <https://arc.duke.edu>, including peer tutors and group study sessions for some introductory courses
-
-Let the instructor and then the Director of Undergraduate Studies and the Undergraduate Coordinator know if you need help with a particular student.
-
-## Teamwork
+### Teamwork / collaboration
 
 If your course allows teamwork for homework or labs, ask the instructor to speak with your students about what type of collaboration is appropriate. For instance, if students can work together on HW problems, discussion is appropriate, but students must write up individual responses for every question. Student answers should not be the same as their collaborators'. If there is an in-class group assignment for which one submission is expected, make certain the submission instructions are clear and followed by the groups. Our students come from all over the world, from all kinds of prior learning experiences, and what is permitted in teamwork can be highly varied. Please help your students understand the nuances of permissible teamwork.
 
@@ -69,23 +59,3 @@ If you are already in a relationship with a student who is in the class for whic
 Download and install the Live Safe app to get emergency notifications for Duke's campuses. You can obtain information on emergency notifications and procedures at <https://emergency.duke.edu>. Please become familiar with this site and its contents.
 
 Our academic calendar sometimes brings with it the threat of severe weather in North Carolina. At the start of your course, be sure and locate the nearest tornado safe zone in your assigned location or wherever you are staying. If you are in Old Chem, the nearest tornado safe area is in the library buildings next door. In other buildings, if you can't find signage, ask staff in that building for their tornado safe location. If there is a tornado watch, simply monitor conditions. If there is a tornado warning announced, however, you will be notified to take shelter in the nearest tornado safe area.
-
-## Mental health and wellness
-
-Our students can be under a lot of stress. Any lab absences, missed deadlines, or concerning behavior should be brought to your instructor's attention. In addition, familiarize yourself with mental health and wellness resources:
-
--   **The Academic Resource Center:** (919) 684-5917, [theARC\@duke.edu](mailto:theARC@duke.edu), or [arc.duke.edu](https://arc.duke.edu/).
-
--   **DuWell:** (919) 681-8421, provides Moments of Mindfulness (stress management and resilience building) and meditation programming to assist students in developing a daily emotional well-being practice. To see schedules for programs please see <https://studentaffairs.duke.edu/duwell>. All are welcome and no experience necessary.
-
--   **DukeReach:** Provides comprehensive outreach services to identify and support students in managing all aspects of well-being. If you have concerns about a student's behavior or health visit the website for resources and assistance: <http://studentaffairs.duke.edu/dukereach>.
-
--   **Counseling and Psychological Services (CAPS):** CAPS services include individual and group counseling services, psychiatric services, and workshops. To initiate services, walk-in/call-in 9-4 M,W,Th,F and 9-6 Tuesdays. CAPS also provides referral to off-campus resources for specialized care. (919) 660-1000 or [https://students.duke.edu/wellness/caps](https://students.duke.edu/wellness/caps/).
-
--   **TimelyCare:** (formerly known as Blue Devils Care) An online platform that is a convenient, confidential, and free way for Duke students to receive 24/7 mental health support through TalkNow and scheduled counseling: [https://bluedevilscare.duke.edu](https://bluedevilscare.duke.edu/).
-
-First year students and visiting students, in particular, may not be aware of these resources. Let the instructor know if you are concerned about a student's behavior or attendance or sudden changes in quality and timeliness of assignments. You can also let the Director of Undergraduate Studies or the Undergraduate Coordinator of your concerns. If you are holding office hours on nights or weekends, virtual campus resources may be more lightly staffed, so you should also know about other options for help.
-
-In the event of an emergency requiring transportation, call campus police or 911.
-
-Importantly, note that these resources are available to you as well. If you find yourself in distress, reach out to your course instructor, the DUS, or the Undergraduate Coordinator. Let us know immediately if you need help. We're here to help and always happy to talk!

@@ -1,0 +1,133 @@
+---
+title: "Head TAs"
+---
+
+## Which classes should have Head TAs?
+
+Classes that meet either of the criteria below are strongly encouraged to have a Head TA. If you choose not to have a TA or need help identifying someone for this role, please contact the DUS.
+
+-   Each of our 100-level courses (except for Focus courses)
+
+-   Any class that has 5 or more TAs, including the Head TA
+
+Classes that don't meet either of these criteria can still have a Head TA. In these cases we recommend instructors assign a subset of the tasks outlined below, being cognizant of the total number of hours allocated to the TA.
+
+## Training
+
+All head TAs are expected to complete the following training items each semester they are serving in this role:
+
+-   Review this chapter!
+
+-   Attend a Head TA training. The training will during the first week of classes.
+
+-   Attend the Head TA check-in during weeks 3 and 6 with your instructor. The check-in will include
+
+    -   Training on giving quality feedback
+
+    -   Training on reviewing feedback from others TAs efficiently and effectively
+
+    -   Sharing experiences with course logistics, set up, and Gradescope.
+
+    -   Check in on workload
+
+    -   General Q&A
+
+-   Provide feedback through an end-of-semester reflection.
+
+## Responsibilities
+
+### Administrative tasks
+
+You may be asked to do some or all of the administrative tasks throughout the semester. You can go through this list with the instructor to determine the tasks that will be part of your Head TA responsibilities.
+
+#### Office hours
+
+-   At the beginning of the semester, ensure each TA has scheduled their allotted number of office hours (at least 2 hours weekly) and has the necessary room reserved and/or Zoom links set up.
+
+-   Ensure office hours are well distributed throughout the week as much as is feasible to meet the needs of the students.
+
+#### Total TA hours
+
+-   At the beginning of the semester, obtain the number of expected hours for each TA from the instructor and when requested, compare to assigned tasks.
+
+-   Check in with other TAs about the number of hours they're putting in weekly; adjust grading assignments, as needed, to help keep their hours consistent and within their limits. If the workload cannot be allocated fairly and still keep people within their limits, notify the instructor.
+
+#### Gradescope
+
+-   Work with the instructor at the beginning of the semester to make sure all TAs know how to use Gradescope. Give a demonstration or facilitate a help session for TAs, as needed. 
+
+-   If requested, set up assignments in Gradescope and Sakai and make the links for synchronization through the Lessons tool in Sakai.
+
+    -   Ensure grading rubrics are set up using the instructor's preferred grading convention (positive scoring, negative scoring, combination of both).  Include any other rubric items requested by the instructor, such as a "needs review" rubric item.
+
+#### Grading
+
+-   Make grading assignments for all TAs. Each question should be graded by one TA for all submissions in a given assignment, with a rare exception if this is not feasible for particular questions.
+
+    -   The number of questions to assign to each TA will be based on total hours allowed and other TA responsibilities (e.g. labs, office hours, classroom). Total hours and responsibilities will be provided by the instructor. 
+
+-   Set up a clear communication line so TAs may ask questions about grading assignments
+
+-   Make sure all TAs complete grading (both lab and lecture) within a week (or less during summer). This includes
+
+    -   Keeping track of progress and gently reminding TAs when the grading deadline is approaching.
+
+    -   Send personal reminders to TAs who have little to no grading completed the day before the deadline. Notify the instructor if any TAs regularly need these reminders.
+
+    -   If grading isn't done by the due date, send the TA a reminder. If you're unable to contact the TA or grading is still not completed within agreed upon time frame, notify the instructor immediately to follow up with TAs not finishing up their grading.
+
+-   When the grading deadline has passed, do a first pass on graded items marked "needs review" by other TAs, and notify the instructor if any questions need instructor feedback before finalizing.
+
+-   Spot check the quality of written feedback and let the TAs know if they need to improve the quality of feedback. (Note: The second Head TA training session will particularly focus on how to do this.)
+
+-   Work with the instructor to determine the process for handling regrade requests. If asked by the instructor, do a first pass on regrade requests, providing feedback on each one and notify the instructor if any others need instructor feedback before finalizing.
+
+#### Additional tasks
+
+-   At the end of drop/add, remind instructor to remove any students from the GitHub organization that have dropped the class. 
+
+-   At the end of the semester, provide a reflection on how the Head TA role went, whether the training was effective, etc. by responding to the Head TA survey.
+
+### Pedagogical tasks
+
+You may be asked to do some or all of the pedagogical tasks throughout the semester. You can go through this list with the instructor to determine the tasks that will be part of your Head TA responsibilities.
+
+#### Peer evaluations
+
+-   Schedule peer evaluations in [Teammates](https://teammatesv4.appspot.com/) or software preferred by instructor. The instructor will provide the dates of the peer evaluation.
+
+-   When peer evaluations are due, read through the "instructor only" comments and write a one-page summary notifying the instructor how the teams are generally doing, if there are any common pain points in the class (e.g. not scheduling a time to meet), and any groups that may be having trouble. Any especially good groups are nice to mention too!
+
+#### Review assignments & grading rubric
+
+-   Review assignment instructions and notify the instructor of anything that may be confusing or unclear. 
+
+-   Review the grading rubric and notify the instructor of any errors or inconsistencies in the instructions and rubric.
+
+    -   Talk with the instructor at the beginning of the semester to establish expectations on when they will have the grading rubrics ready for review. 
+
+-   Make minor updates and corrections to assignments when requested; instructors are responsible for lab creation and major updates.
+
+-   If it is not feasible to schedule a weekly meeting with all TAs and the instructor due to unavoidable scheduling conflicts, work with instructor to record TA meetings via Zoom and share meeting recordings with other TAs.
+
+<br>
+
+> ***Perhaps the most important task of the head TA is to set an example for other TAs.*** 
+
+## Role of the instructor
+
+The following are the role and responsibilities of the instructor and should not be part of the Head TA's responsibilities.
+
+-   The instructor is responsible for course grades.
+
+-   The instructor is ultimately responsible for grading for consistency within particular items and across entire graded assignment or assessment.
+
+-   In assigning responsibilities to the Head TA, the instructor should determine who will set up assignments in Gradescope and Sakai and make the links for synchronization through the Lessons tool in Sakai.
+
+-   Making arrangements for accommodation requests from students and coordinate with the testing center if needed.
+
+-   Scheduling weekly meetings with all TAs to discuss course flow, make sure all TAs have a good handle on the topics / concepts / tools coming up in the subsequent week, etc, and to discuss ongoing grading. Unless there is a very specific reason, do not decrease this cadence.
+
+-   Managing the Sakai Gradebook. The instructor may not grant teaching assistants (including the Head TA) access to the Gradebook in Sakai unless there is a very specific reason to do so. Note that the university prohibits undergraduate TAs from having access to the Sakai Gradebook entirely.
+
+-   Check in with Head TA during Week 3 and Week 6 about workload. If there are concerns with workload, assign another TA (graduate student or advanced undergraduate) to help with some Head TA responsibilities or reach out to DUS for more resources, if needed.

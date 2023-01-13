@@ -14,9 +14,10 @@ book:
     - useful-links.qmd
     - covid19.qmd
     - responsibilities.qmd
+    - best-practices.qmd
+    - resources.qmd
     - training.qmd
-    - guidelines.qmd
-    - students.qmd
+    - head-ta.qmd
     - evaluation-recognition.qmd
 
 format: 
