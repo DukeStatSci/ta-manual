@@ -195,6 +195,8 @@ Make sure all TAs complete grading within a week (or other deadline set by the i
 
 -   Organization skills
 
+-   CTC Observations
+
 ## Summary of tasks {.smaller}
 
 ::: incremental
