@@ -7,6 +7,8 @@ format:
     multiplex: false
     transition: fade
     slide-number: true
+    incremental: false 
+    chalkboard: true
 ---
 
 # Welcome
@@ -116,7 +118,7 @@ Make sure all TAs complete grading within a week (or other deadline set by the i
 
 -   Keeping track of progress and sending personal reminders to TAs who have little to no grading completed the day before the deadline
 
--   Sending personal reminders to TAs who have no completed grading by the deadline.
+-   Sending personal reminders to TAs who have not completed grading by the deadline.
 
 -   Letting the instructor know if there are repeated issues with a TA completing quality grading by the deadline or if you are unable to contact a TA
 :::
