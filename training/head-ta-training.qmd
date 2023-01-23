@@ -7,8 +7,6 @@ format:
     multiplex: false
     transition: fade
     slide-number: true
-    incremental: false 
-    chalkboard: true
 ---
 
 # Welcome
@@ -134,7 +132,6 @@ Make sure all TAs complete grading within a week (or other deadline set by the i
 -   If requested, do a first pass on regrade requests.
 
 . . .
-
 
 # Pedagogical
 
