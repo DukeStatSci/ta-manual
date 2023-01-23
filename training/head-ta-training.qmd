@@ -50,6 +50,14 @@ Exact responsibilities will differ based on the course needs
 
 # Administrative
 
+## Payroll 
+
+-   Set up Mrs. Scott as a VIP in contacts
+
+-   Remind bi-weekly TAs about deadlines
+
+-   Discuss TA hours with instructor if patterns seem unreasonable 
+
 ## Office hours
 
 Work with instructor to ensure
@@ -60,7 +68,7 @@ Work with instructor to ensure
 
 -   The necessary rooms are reserved and Zoom links set up
 
--   Office hours are posted in the departmental office hours master list
+-   Office hours are posted in the departmental office hours Google list and course environment
 
 ## Total TA hours
 
@@ -83,6 +91,8 @@ Periodically check in with TAs about the number of hours they're working each we
 
 -   Notify the instructor if this is not feasible
 
+-   Routinely exceeding limits without authorization is not okay!
+
 <!--# Add a slide with a flowchart outlining the process for grading -->
 
 ## Managing Gradescope
@@ -94,6 +104,8 @@ Periodically check in with TAs about the number of hours they're working each we
 ## Rubrics in Gradescope
 
 -   Add rubrics to each assignment
+
+-   Rubrics are copiable
 
 -   Talk with instructor about preferred grading conventions:
 
@@ -127,11 +139,13 @@ Make sure all TAs complete grading within a week (or other deadline set by the i
 
 -   Do a first pass on graded items marked "Needs Review" by TAs.
 
--   Spot check the grading accuracy and quality of written feedback, and let TAs know if they need to improve either
+-   Spot check the grading accuracy and quality of all written feedback, and let TAs know if they need to improve either
 
 -   Let the instructor know that grades are ready for release or if there are any outstanding questions about grading
 
--   If requested, do a first pass on regrade requests.
+-   Check with instructor on handling regrade requests
+
+-   Graders should not be handling their own
 
 . . .
 
