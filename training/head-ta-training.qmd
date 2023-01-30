@@ -1,8 +1,8 @@
 ---
 title: "Head TA Training"
 subtitle: "Department of Statistical Science <br> Spring 2023"
-format: 
-  revealjs:
+format: pdf
+revealjs:
     theme: slides.scss
     multiplex: false
     transition: fade
