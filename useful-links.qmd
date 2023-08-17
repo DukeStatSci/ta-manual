@@ -3,7 +3,11 @@ title: "Useful links"
 ---
 
 -   Duke COVID updates and policies: <https://coronavirus.duke.edu>
--   Spring 2023 Academic Calendar: <https://registrar.duke.edu/spring-2023-academic-calendar>
--   Final Exam Schedule: <https://registrar.duke.edu/calendars-key-dates/exam-schedules>
--   Spring 2023 Office hours: <https://duke.is/nbm49>
+-   Fall 2023 Academic Calendar: <https://registrar.duke.edu/academic-calendar/current-academic-calendar/#fall2023>
+-   Final Exam Schedule: <https://registrar.duke.edu/student-resources/exam-schedules/>
+-   Fall 2023 Office hours: Link will be provided in TA training site in Canvas
+-   Duke Undergraduate Instruction Bulletin: <https://undergraduate.bulletins.duke.edu/>
+-   The Graduate School Bulletin: <https://graduateschool.bulletins.duke.edu/>
 -   Questions or concerns: [dus\@stat.duke.edu](mailto:dus@stat.duke.edu)
+
+<!--# Don't put the live link to the Office hours site in this public repo -->
