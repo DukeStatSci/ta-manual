@@ -16,7 +16,7 @@ It's crucial to let the course instructor know if you suspect or receive reports
 >
 > -   I will act if the Standard is compromised.
 
-Faculty and TAs are encouraged to be proactive in preventing dishonesty. For online exams, randomization and unique problems can help. Some time-limiting techniques are helpful but students with accommodations must be helped as well. There are hundreds of companies out there willing to sell students answers to problems sets, quizzes, and exams; these are all a violation of the Duke Community Standard. If you suspect such usage, talk with the instructor
+Faculty and TAs are encouraged to be proactive in preventing dishonesty. For online exams, randomization and unique problems can help. Some time-limiting techniques are helpful but students with accommodations must be helped as well. There are hundreds of companies out there willing to sell students answers to problems sets, quizzes, and exams; using these services is likely to be a violation of the Duke Community Standard. There are AI/ML tools now that might be used to generate code or other work; instructors may have a policy about this in their syllabi. If you suspect such usage, talk with the instructor.
 
 ### Teamwork / collaboration
 
