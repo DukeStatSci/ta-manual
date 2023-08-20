@@ -4,29 +4,48 @@ title: "Training"
 
 ## Training
 
-As a TA, you will be trained by the department and other units of the University. All TAs will complete a mandatory training session each semester. In Fall 2023, we are not requiring a technology check for Zoom-readiness but that training will be provided upon request (reach out to Dr. Durso with your request). We expect that you will get training on other technologies as they pertain to your course (Gradescope, Sakai,Canvas, etc.) from your course instructor. If you feel that you have not been trained adequately on a technology you're expected to use, please reach out to your course instructor and/or Dr. Durso and we'll make sure this training happens promptly.
+As a TA, you will be trained by the department and other units of the University.
+All TAs will complete a mandatory training session each semester.
+In Fall 2023, we are not requiring a technology check for Zoom-readiness but that training will be provided upon request (reach out to Dr. Durso with your request).
+We expect that you will get training on other technologies as they pertain to your course (Gradescope, Sakai,Canvas, etc.) from your course instructor.
+If you feel that you have not been trained adequately on a technology you're expected to use, please reach out to your course instructor and/or Dr. Durso and we'll make sure this training happens promptly.
 
-In this transition period between Sakai and Canvas, you have been assigned to STATSCI TA Fa23, the departmental training Canvas site for TAs,as the main TA training site. You have also been assigned to the Sakai site with the same name. Training may be added as needed as the semester proceeds and we'll inform you with a Canvas announcement from there. There is required training on TA duties, on preventing harassment and on the learning technologies needed in your course.
+In this transition period between Sakai and Canvas, you have been assigned to STATSCI TA Fa23, the departmental training Canvas site for TAs,as the main TA training site.
+You have also been assigned to the Sakai site with the same name.
+Training may be added as needed as the semester proceeds and we'll inform you with a Canvas announcement from there.
+There is required training on TA duties, on preventing harassment and on the learning technologies needed in your course.
 
 ## First time TAs
 
-As a new TA or new to your course and instructor, the instructor will work with you to make sure you are ready to lead your labs and hold office hours to meet their expectations. Your instructor might drop in on your labs or office hours from time to time and so might Dr. Durso. You will do training and work with them to develop your skills so that each semester that you have a TAship, you are ready for more responsibilities and leadership roles. You can also request a lab observation after a few weeks, for suggestions and feedback.  Your instructor or Dr. Durso may do this observation.
+As a new TA or new to your course and instructor, the instructor will work with you to make sure you are ready to lead your labs and hold office hours to meet their expectations.
+Your instructor might drop in on your labs or office hours from time to time and so might Dr. Durso.
+You will do training and work with them to develop your skills so that each semester that you have a TAship, you are ready for more responsibilities and leadership roles.
+You can also request a lab observation after a few weeks, for suggestions and feedback.
+Your instructor or Dr. Durso may do this observation.
 
 ## Further Training
 
-Workshops and more training opportunities are available from Learning Innovation (LI) and the Graduate School. Upcoming LI workshops are here <https://learninginnovation.duke.edu/events/>. 
+Workshops and more training opportunities are available from Learning Innovation (LI) and the Graduate School.
+Upcoming LI workshops are here <https://learninginnovation.duke.edu/events/>.
 
-The Graduate School has many training opportunities for students interested in teaching; see their website at <https://gradschool.duke.edu/>. Some specific opportunities that might be of interest are listed below.
+The Graduate School has many training opportunities for students interested in teaching; see their website at <https://gradschool.duke.edu/>.
+Some specific opportunities that might be of interest are listed below.
 
 ### Certificate in College Teaching
 
-[The Certificate in College Teaching program](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching) both prepares doctoral students to teach and formally documents this professional development to make you more competitive when applying for positions. Students who complete the CCT will have it listed on their transcripts as an officially endorsed Duke University Graduate School certificate. The CCT combines departmental training and resources with programming from The Graduate School to give you systematic pedagogical training that not only helps you develop as a teacher, but also allows you to use your time more efficiently as you balance your research and teaching responsibilities. The Certificate in College Teaching program has three major requirements:
+[The Certificate in College Teaching program](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching) both prepares doctoral students to teach and formally documents this professional development to make you more competitive when applying for positions.
+Students who complete the CCT will have it listed on their transcripts as an officially endorsed Duke University Graduate School certificate.
+The CCT combines departmental training and resources with programming from The Graduate School to give you systematic pedagogical training that not only helps you develop as a teacher, but also allows you to use your time more efficiently as you balance your research and teaching responsibilities.
+The Certificate in College Teaching program has three major requirements:
 
 -   Coursework (2 courses, 1 offered in the Department of Statistical Science)
 -   Teaching experience and observation
 -   Online teaching portfolio
 
-The program requirements take about a year to complete, but that may vary as opportunities for gaining teaching experience vary across departments. CCT work may be done alongside other classes, research, or work on a dissertation, and should not significantly interfere with the timely completion of any of these. After you apply to the CCT program, the program director will meet with you to go over the requirements and your timeline for completing them. Discuss your CCT activities with your instructor and the Department if you need assistance scheduling observations, etc.
+The program requirements take about a year to complete, but that may vary as opportunities for gaining teaching experience vary across departments.
+CCT work may be done alongside other classes, research, or work on a dissertation, and should not significantly interfere with the timely completion of any of these.
+After you apply to the CCT program, the program director will meet with you to go over the requirements and your timeline for completing them.
+Discuss your CCT activities with your instructor and the Department if you need assistance scheduling observations, etc.
 
 Two Statistical Science courses have been developed and count towards this Certificate:
 
@@ -35,18 +54,27 @@ Two Statistical Science courses have been developed and count towards this Certi
 
 ### BASS Instructional Fellowships
 
-[The Bass Instructional Fellowship Program](https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships) supports high-quality teaching experiences for Ph.D. students where normal means of funding are unavailable. It also helps students become more knowledgeable in online college teaching. The program offers fellowships for
+[The Bass Instructional Fellowship Program](https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships) supports high-quality teaching experiences for Ph.D. students where normal means of funding are unavailable.
+It also helps students become more knowledgeable in online college teaching.
+The program offers fellowships for
 
 -   instructors of record (Bass IORs),
 -   instructional teaching assistants (Bass TAs), and
 -   online apprentices (Bass OAs).
 
-Recipients of Bass Instructional Fellowships will receive compensatory payment at the level of Arts and Sciences teaching assistants (currently \$6,000) and a scholarship covering full or partial tuition and fees for their semester of participation. This effectively "buys out" that much of any other existing fellowship or financial support; the student will not net any additional pay. A Bass Instructional Fellowship should not lessen a student's competitiveness for other fellowships. If the student wins another fellowship after having also won a Bass Fellowship, that other fellowship can be decreased by the amount provided by the Bass Fellowship so that there is no penalty or disadvantage to receiving a Bass at the same time (unless this arrangement is prohibited by terms of the other fellowship).
+Recipients of Bass Instructional Fellowships will receive compensatory payment at the level of Arts and Sciences teaching assistants (currently \$6,000) and a scholarship covering full or partial tuition and fees for their semester of participation.
+This effectively "buys out" that much of any other existing fellowship or financial support; the student will not net any additional pay.
+A Bass Instructional Fellowship should not lessen a student's competitiveness for other fellowships.
+If the student wins another fellowship after having also won a Bass Fellowship, that other fellowship can be decreased by the amount provided by the Bass Fellowship so that there is no penalty or disadvantage to receiving a Bass at the same time (unless this arrangement is prohibited by terms of the other fellowship).
 
 ### College Teaching Workshops
 
-[College Teaching Workshops](https://gradschool.duke.edu/professional-development/programs/college-teaching-workshops/) are an annual workshop series open to Duke graduate students, postdocs, faculty, and staff. Invited speakers in this series will draw upon their experience to address topics relevant to classroom teaching, dealing with students, or faculty life and career paths. You will learn how to: - recognize the complex dimensions of classroom teaching and faculty life, - analyze difficult teaching situations and respond creatively, - improve your teaching skills by drawing upon various resources at Duke, - plan and design courses with the student perspective in mind, and - engage in scholarly conversations about college teaching and learning.
+[College Teaching Workshops](https://gradschool.duke.edu/professional-development/programs/college-teaching-workshops/) are an annual workshop series open to Duke graduate students, postdocs, faculty, and staff.
+Invited speakers in this series will draw upon their experience to address topics relevant to classroom teaching, dealing with students, or faculty life and career paths.
+You will learn how to: - recognize the complex dimensions of classroom teaching and faculty life, - analyze difficult teaching situations and respond creatively, - improve your teaching skills by drawing upon various resources at Duke, - plan and design courses with the student perspective in mind, and - engage in scholarly conversations about college teaching and learning.
 
 ### Duke Learning Innovation
 
-[Learning Innovation](https://learninginnovation.duke.edu) is not part of the Graduate School but is dedicated to improving learning at Duke. Learning Innovation provides many opportunities for professional development, including training on Sakai, Canvas, Gradescope, and other instructional tools. They also provide drop-in office hours for help with Sakai or Gradescope as well as workshops and seminars to assist you improve your careers.
+[Learning Innovation](https://learninginnovation.duke.edu) is not part of the Graduate School but is dedicated to improving learning at Duke.
+Learning Innovation provides many opportunities for professional development, including training on Sakai, Canvas, Gradescope, and other instructional tools.
+They also provide drop-in office hours for help with Sakai or Gradescope as well as workshops and seminars to assist you improve your careers.

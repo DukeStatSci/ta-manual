@@ -16,7 +16,8 @@ Depending on your level (undergraduate, MS, or PhD student), the number of hours
 
     -   RA+s are expected to work 4-5 hours per week, on average.
 
-Within these hours, TA responsibilities will vary between classes therefore TAs should obtain clear guidelines for the specific tasks required of them from the instructor. Many of these tasks are described in general terms below.
+Within these hours, TA responsibilities will vary between classes therefore TAs should obtain clear guidelines for the specific tasks required of them from the instructor.
+Many of these tasks are described in general terms below.
 
 -   Complete all requested training and learn the tools and technologies required for the course you are assisting.
 
@@ -24,7 +25,8 @@ Within these hours, TA responsibilities will vary between classes therefore TAs 
 
 -   Familiarize yourself with the university curriculum and policies:
 
-    -   Undergraduate courses: The undergraduate bulletin <https://undergraduate.bulletins.duke.edu> and T-Reqs (Trinity Requirements) <https://trinity.duke.edu/undergraduate/academic-policies> are sources for Trinity College Academic Policies and Procedures. You are encouraged to review this site for information on university policy on religious holidays, disability accommodations, class attendance, credits, exams and grading, harassment, plagiarism, etc.
+    -   Undergraduate courses: The undergraduate bulletin <https://undergraduate.bulletins.duke.edu> and T-Reqs (Trinity Requirements) <https://trinity.duke.edu/undergraduate/academic-policies> are sources for Trinity College Academic Policies and Procedures.
+        You are encouraged to review this site for information on university policy on religious holidays, disability accommodations, class attendance, credits, exams and grading, harassment, plagiarism, etc.
 
     -   Graduate courses: Review the Graduate Bulletin <https://graduateschool.bulletins.duke.edu/> and the Graduate School's policy site <https://gradschool.duke.edu/academics/academic-policies>.
 
@@ -32,13 +34,18 @@ Within these hours, TA responsibilities will vary between classes therefore TAs 
 
 -   Office hours:
 
-    -   Office hours can be in person or remote. We are asking that all courses set up at least some Zoom office hours to accommodate students who are ill or in isolation or stuck traveling. Check with your course instructor for ideal distribution of Zoom / in person office hours.
+    -   Office hours can be in person or remote.
+        We are asking that all courses set up at least some Zoom office hours to accommodate students who are ill or in isolation or stuck traveling.
+        Check with your course instructor for ideal distribution of Zoom / in person office hours.
 
-    -   In general, we request that TAs working 8-15 hours per week hold two hours of office hours each week and those working less hold one hour. Your instructor may have different requirements.
+    -   In general, we request that TAs working 8-15 hours per week hold two hours of office hours each week and those working less hold one hour.
+        Your instructor may have different requirements.
 
     -   Your primary duty during the office hours is to help students from your course.
 
--   Lectures: Attend the first live or online class session (if possible and if requested to do so) and discuss with the instructor whether continued attendance is required. For TAs new to a course or the TA experience, attendance throughout the semester is often expected. Ask your instructor about their policy.
+-   Lectures: Attend the first live or online class session (if possible and if requested to do so) and discuss with the instructor whether continued attendance is required.
+    For TAs new to a course or the TA experience, attendance throughout the semester is often expected.
+    Ask your instructor about their policy.
 
 -   Labs:
 
@@ -52,11 +59,16 @@ Within these hours, TA responsibilities will vary between classes therefore TAs 
 
 -   Attend regular meetings with the instructor, typically at least once a week.
 
--   Respond to students' e-mails, forwarding common questions to the instructor and other TAs (if any). Your instructor will set expectations about the format students will use to ask questions. If the instructor is using Ed Discussions or another tool for Q&A, discuss with the instructor expectations about answers and about how to handle getting students to ask their questions in that tool rather than in emails. You may be asked to cover answering questions on particular days.
+-   Respond to students' e-mails, forwarding common questions to the instructor and other TAs (if any).
+    Your instructor will set expectations about the format students will use to ask questions.
+    If the instructor is using Ed Discussions or another tool for Q&A, discuss with the instructor expectations about answers and about how to handle getting students to ask their questions in that tool rather than in emails.
+    You may be asked to cover answering questions on particular days.
 
 -   Monitoring performance / keeping pulse of students' learning:
 
-    -   Assist in assessing and reporting student performance to the instructor. This includes identifying top and/or struggling students and identifying problems or concepts causing difficulty for students. YOUR FEEDBACK IS CRUCIAL TO US!
+    -   Assist in assessing and reporting student performance to the instructor.
+        This includes identifying top and/or struggling students and identifying problems or concepts causing difficulty for students.
+        YOUR FEEDBACK IS CRUCIAL TO US!
 
     -   Let the instructor and then the Director of Undergraduate Studies and the Undergraduate Coordinator know if you think a particular student needs support.
 
@@ -77,7 +89,8 @@ Within these hours, TA responsibilities will vary between classes therefore TAs 
 
 -   Timekeeping:
 
-    -   TAs are each issued an individual offer letter which spells out the terms and conditions, expected hours, and compensation for their service as a Teaching Assistant. Read the offer letter, ask any questions, and if there no further questions, sign it and return it to the sender.
+    -   TAs are each issued an individual offer letter which spells out the terms and conditions, expected hours, and compensation for their service as a Teaching Assistant.
+        Read the offer letter, ask any questions, and if there no further questions, sign it and return it to the sender.
 
     -   Keep accurate track of time spent on the course and report to the instructor if your hours are consistently above or below the expected levels stated above.
 
@@ -85,6 +98,9 @@ Within these hours, TA responsibilities will vary between classes therefore TAs 
 
     -   Inform Mrs. Scott right away if you have a Work Study Allocation which you plan to use in our department.
 
-    -   If you are paid biweekly, update and save your time card when you finish work for the day and submit promptly before the deadline. If you do not turn in your time card you will not get paid for the hours you worked. Mrs. Scott may send you a reminder or questions about your timecard. Do not ignore that.
+    -   If you are paid biweekly, update and save your time card when you finish work for the day and submit promptly before the deadline.
+        If you do not turn in your time card you will not get paid for the hours you worked.
+        Mrs. Scott may send you a reminder or questions about your timecard.
+        Do not ignore that.
 
 -   **Always complete the course and TA evaluations in the courses for which you are enrolled as a student.**
