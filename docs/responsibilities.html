@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.208">
+<meta name="generator" content="quarto-1.3.433">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -57,7 +57,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -74,9 +75,9 @@ ul.task-list li input[type="checkbox"] {
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
       <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./responsibilities.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Responsibilties</span></a></li></ol></nav>
-      <a class="flex-grow-1" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -90,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Duke Statistical Science TA Manual</a> 
         <div class="sidebar-tools-main">
-    <a href="https://github.com/DukeStatSci/ta-manual" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/DukeStatSci/ta-manual" rel="" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
@@ -108,47 +109,62 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./useful-links.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Useful links</span></a>
+  <a href="./useful-links.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Useful links</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./covid19.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">COVID-19</span></a>
+  <a href="./covid19.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">COVID-19</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./responsibilities.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Responsibilties</span></a>
+  <a href="./responsibilities.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Responsibilties</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./best-practices.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Best practices</span></a>
+  <a href="./best-practices.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Best practices</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./resources.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Resources</span></a>
+  <a href="./policies.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Policies</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./training.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Training</span></a>
+  <a href="./resources.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Resources</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./head-ta.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Head TAs</span></a>
+  <a href="./training.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Training</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./evaluation-recognition.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Evaluation and recognition</span></a>
+  <a href="./head-ta.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Head TAs</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./evaluation-recognition.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Evaluation and recognition</span></span></a>
   </div>
 </li>
     </ul>
@@ -179,14 +195,25 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>TA responsibilities will vary between classes therefore TAs should obtain from the instructor clear guidelines for the specific tasks required of the TA. Many of these tasks are described in general terms below.</p>
+<p>Depending on your level (undergraduate, MS, or PhD student), the number of hours you’re expected to work as a TA varies:</p>
 <ul>
-<li><p>Complete all requested training and learn the technology tools required for the course you are assisting.</p></li>
+<li><p>Undergraduate TAs are expected to work 8-10 hours per week, on average.</p></li>
+<li><p>MS TAs are expected to work 10-12 hours per week, on average.</p></li>
+<li><p>PhD students have a variety of assignments:</p>
+<ul>
+<li><p>Full TAs are expected to work 12-15 hours, on average.</p></li>
+<li><p>Half TAs or RA/TA have TA are expected to work 6-7 hours per week, on average.</p></li>
+<li><p>RA+s are expected to work 4-5 hours per week, on average.</p></li>
+</ul></li>
+</ul>
+<p>Within these hours, TA responsibilities will vary between classes therefore TAs should obtain clear guidelines for the specific tasks required of them from the instructor. Many of these tasks are described in general terms below.</p>
+<ul>
+<li><p>Complete all requested training and learn the tools and technologies required for the course you are assisting.</p></li>
 <li><p>Answer all communications from the department, your instructor, other campus employers, and the university, within 24 hours, before the end of the next business day.</p></li>
 <li><p>Familiarize yourself with the university curriculum and policies:</p>
 <ul>
-<li><p>Undergraduate courses: The undergraduate bulletin (<a href="https://registrar.duke.edu/university-bulletins/undergraduate-instruction" class="uri">https://registrar.duke.edu/university-bulletins/undergraduate-instruction</a>) and T-Reqs (Trinity Requirements) (<a href="https://trinity.duke.edu/undergraduate/academic-policies" class="uri">https://trinity.duke.edu/undergraduate/academic-policies</a> are sources for Trinity College Academic Policies and Procedures. You are encouraged to review this site for information on university policy on religious holidays, disability accommodations, class attendance, credits, exams and grading, harassment, plagiarism, etc.</p></li>
-<li><p>Graduate courses: Review the Graduate Bulletin <a href="https://registrar.duke.edu/university-bulletins/graduate-school" class="uri">https://registrar.duke.edu/university-bulletins/graduate-school</a> and the Graduate School’s policy site <a href="https://gradschool.duke.edu/academics/academic-policies" class="uri">https://gradschool.duke.edu/academics/academic-policies</a>.</p></li>
+<li><p>Undergraduate courses: The undergraduate bulletin <a href="https://undergraduate.bulletins.duke.edu" class="uri">https://undergraduate.bulletins.duke.edu</a> and T-Reqs (Trinity Requirements) <a href="https://trinity.duke.edu/undergraduate/academic-policies" class="uri">https://trinity.duke.edu/undergraduate/academic-policies</a> are sources for Trinity College Academic Policies and Procedures. You are encouraged to review this site for information on university policy on religious holidays, disability accommodations, class attendance, credits, exams and grading, harassment, plagiarism, etc.</p></li>
+<li><p>Graduate courses: Review the Graduate Bulletin <a href="https://graduateschool.bulletins.duke.edu/" class="uri">https://graduateschool.bulletins.duke.edu/</a> and the Graduate School’s policy site <a href="https://gradschool.duke.edu/academics/academic-policies" class="uri">https://gradschool.duke.edu/academics/academic-policies</a>.</p></li>
 </ul></li>
 <li><p>Get in touch with the instructor before the first class and be available to meet with the instructor during the first week of class.</p></li>
 <li><p>Office hours:</p>
@@ -202,9 +229,9 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Prepare for lab sessions by reviewing the lab assignment – this includes running through the assignment, actually running the code and providing feedback to the instructor if anything is incorrect/not clear.</p></li>
 <li><p>Meet with your instructor and make sure you understand what is expected of you for that role in that course.</p></li>
 </ul></li>
-<li><p>If you are assigned the duties of a Head TA, see <span class="quarto-unresolved-ref">?sec-head-ta</span>.</p></li>
+<li><p>If you are assigned the duties of a Head TA, see the Head TAs section here.</p></li>
 <li><p>Attend regular meetings with the instructor, typically at least once a week.</p></li>
-<li><p>Respond to students’ e-mails, forwarding common questions to the instructor and other TAs (if any). Your instructor will set expectations about the format students will use to answer questions. If the instructor is using Ed Discussions or another tool for Q&amp;A, discuss with the instructor expectations about answers and about how to handle getting students to ask their questions in that tool rather than in emails. You may be asked to cover answering questions on particular days.</p></li>
+<li><p>Respond to students’ e-mails, forwarding common questions to the instructor and other TAs (if any). Your instructor will set expectations about the format students will use to ask questions. If the instructor is using Ed Discussions or another tool for Q&amp;A, discuss with the instructor expectations about answers and about how to handle getting students to ask their questions in that tool rather than in emails. You may be asked to cover answering questions on particular days.</p></li>
 <li><p>Monitoring performance / keeping pulse of students’ learning:</p>
 <ul>
 <li><p>Assist in assessing and reporting student performance to the instructor. This includes identifying top and/or struggling students and identifying problems or concepts causing difficulty for students. YOUR FEEDBACK IS CRUCIAL TO US!</p></li>
@@ -215,19 +242,22 @@ ul.task-list li input[type="checkbox"] {
 <li>Grade labs, homework assignments, exams, etc. using Gradescope and other tools.</li>
 <li>If the course has a lab component, review to prepare and then run labs or assist in labs.</li>
 <li>Conduct review sessions prior to exams, if the instructor requests.</li>
-<li>Help maintain the course website or Sakai site.</li>
+<li>Help maintain the course website, Sakai, or Canvas site.</li>
 <li>Work with student teams on their group projects.</li>
-<li>Improve your teaching skills by training, practice, observations and feedback.</li>
+<li>Improve your teaching skills by training, practice, observations, and feedback.</li>
 </ul></li>
 <li><p>Stay available for course related duties until the end of the final exam week.</p>
 <ul>
-<li><strong>Spring 2023 final exams end at 10 pm on Saturday, May 6 .</strong> Grades are due within 48 hours of the end of the exam period. This means TAs are expected to continue to hold office hours during their respective final exam periods, and to be available for grading final exams in their assigned courses unless they make special arrangements with the course instructor. Please discuss the end of semester plans with the instructor you are assisting right away.</li>
+<li><strong>Fall 2023 final exams end at 10 pm on Monday, December 18.</strong> Grades are due within 48 hours of the end of the exam period. This means TAs are expected to continue to hold office hours during their respective final exam periods, and to be available for grading final exams in their assigned courses unless they make special arrangements with the course instructor. Please discuss the end of semester plans with the instructor you are assisting right away.</li>
 </ul></li>
-<li><p>If you miss a scheduled meeting, training, office hours or other event, immediately contact the instructor.</p></li>
+<li><p>If you miss a scheduled meeting, training, office hours, or other event, immediately contact the instructor.</p></li>
 <li><p>Timekeeping:</p>
 <ul>
-<li><p>Keep accurate track of time spent on the course and report to the instructor if your hours are above or below the expected level.</p></li>
-<li><p>If you are paid biweekly, update and save your time card when you finish work for the day and submit promptly before the deadline. If you do not turn in your time card you will not get paid for the hours you worked.</p></li>
+<li><p>TAs are each issued an individual offer letter which spells out the terms and conditions, expected hours, and compensation for their service as a Teaching Assistant. Read the offer letter, ask any questions, and if there no further questions, sign it and return it to the sender.</p></li>
+<li><p>Keep accurate track of time spent on the course and report to the instructor if your hours are consistently above or below the expected levels stated above.</p></li>
+<li><p>Never exceed a total of 19.9 compensated hours per week across all campus duties.</p></li>
+<li><p>Inform Mrs.&nbsp;Scott right away if you have a Work Study Allocation which you plan to use in our department.</p></li>
+<li><p>If you are paid biweekly, update and save your time card when you finish work for the day and submit promptly before the deadline. If you do not turn in your time card you will not get paid for the hours you worked. Mrs.&nbsp;Scott may send you a reminder or questions about your timecard. Do not ignore that.</p></li>
 </ul></li>
 <li><p><strong>Always complete the course and TA evaluations in the courses for which you are enrolled as a student.</strong></p></li>
 </ul>
@@ -262,9 +292,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -470,4 +514,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-</body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/DukeStatSci/ta-manual/edit/main/responsibilities.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/DukeStatSci/ta-manual/issues/new" class="toc-action">Report an issue</a></p></div></div></div></div></footer></body></html>

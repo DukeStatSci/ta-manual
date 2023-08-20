@@ -2,9 +2,9 @@
 title: "Useful links"
 ---
 
--   Duke COVID updates and policies: <https://coronavirus.duke.edu>
 -   Fall 2023 Academic Calendar: <https://registrar.duke.edu/academic-calendar/current-academic-calendar/#fall2023>
 -   Final Exam Schedule: <https://registrar.duke.edu/student-resources/exam-schedules/>
+-   Duke COVID updates and policies: <https://coronavirus.duke.edu>
 -   Fall 2023 Office hours: Link will be provided in TA training site in Canvas
 -   Duke Undergraduate Instruction Bulletin: <https://undergraduate.bulletins.duke.edu/>
 -   The Graduate School Bulletin: <https://graduateschool.bulletins.duke.edu/>

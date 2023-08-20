@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.208">
+<meta name="generator" content="quarto-1.3.433">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./resources.html" rel="next">
+<link href="./policies.html" rel="next">
 <link href="./responsibilities.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -57,7 +57,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -74,9 +75,9 @@ ul.task-list li input[type="checkbox"] {
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
       <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./best-practices.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Best practices</span></a></li></ol></nav>
-      <a class="flex-grow-1" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -90,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Duke Statistical Science TA Manual</a> 
         <div class="sidebar-tools-main">
-    <a href="https://github.com/DukeStatSci/ta-manual" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/DukeStatSci/ta-manual" rel="" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
@@ -108,47 +109,62 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./useful-links.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Useful links</span></a>
+  <a href="./useful-links.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Useful links</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./covid19.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">COVID-19</span></a>
+  <a href="./covid19.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">COVID-19</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./responsibilities.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Responsibilties</span></a>
+  <a href="./responsibilities.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Responsibilties</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./best-practices.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Best practices</span></a>
+  <a href="./best-practices.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Best practices</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./resources.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Resources</span></a>
+  <a href="./policies.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Policies</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./training.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Training</span></a>
+  <a href="./resources.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Resources</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./head-ta.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Head TAs</span></a>
+  <a href="./training.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Training</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./evaluation-recognition.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Evaluation and recognition</span></a>
+  <a href="./head-ta.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Head TAs</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./evaluation-recognition.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Evaluation and recognition</span></span></a>
   </div>
 </li>
     </ul>
@@ -161,11 +177,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#before-classes-begin" id="toc-before-classes-begin" class="nav-link active" data-scroll-target="#before-classes-begin"><span class="toc-section-number">5.1</span>  Before Classes Begin</a></li>
-  <li><a href="#professionalism" id="toc-professionalism" class="nav-link" data-scroll-target="#professionalism"><span class="toc-section-number">5.2</span>  Professionalism</a></li>
-  <li><a href="#labs" id="toc-labs" class="nav-link" data-scroll-target="#labs"><span class="toc-section-number">5.3</span>  Labs</a></li>
-  <li><a href="#office-hours" id="toc-office-hours" class="nav-link" data-scroll-target="#office-hours"><span class="toc-section-number">5.4</span>  Office Hours</a></li>
-  <li><a href="#grading" id="toc-grading" class="nav-link" data-scroll-target="#grading"><span class="toc-section-number">5.5</span>  Grading</a></li>
+  <li><a href="#before-classes-begin" id="toc-before-classes-begin" class="nav-link active" data-scroll-target="#before-classes-begin"><span class="header-section-number">5.1</span> Before Classes Begin</a></li>
+  <li><a href="#professionalism" id="toc-professionalism" class="nav-link" data-scroll-target="#professionalism"><span class="header-section-number">5.2</span> Professionalism</a></li>
+  <li><a href="#labs" id="toc-labs" class="nav-link" data-scroll-target="#labs"><span class="header-section-number">5.3</span> Labs</a></li>
+  <li><a href="#office-hours" id="toc-office-hours" class="nav-link" data-scroll-target="#office-hours"><span class="header-section-number">5.4</span> Office Hours</a></li>
+  <li><a href="#grading" id="toc-grading" class="nav-link" data-scroll-target="#grading"><span class="header-section-number">5.5</span> Grading</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/DukeStatSci/ta-manual/edit/main/best-practices.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/DukeStatSci/ta-manual/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -192,14 +208,14 @@ ul.task-list li input[type="checkbox"] {
 <section id="before-classes-begin" class="level2" data-number="5.1">
 <h2 data-number="5.1" class="anchored" data-anchor-id="before-classes-begin"><span class="header-section-number">5.1</span> Before Classes Begin</h2>
 <ul>
-<li><p><strong>Technology:</strong> During training, you will be asked about your ability to use Gradescope for grading and Zoom and whiteboarding for online meetings. It’s fine to use a do-it-yourself hack to turn your cell phone into a document camera aimed at paper or a whiteboard. If needed for a particular course or online office hours, let us know if you lack a tablet and stylus or something to use for written explanations; it is possible to acquire an inexpensive drawing device if you need one for whiteboarding.</p></li>
+<li><p><strong>Technology:</strong> During training, you will be asked about your ability to use Gradescope for grading and Zoom and whiteboarding for online meetings. It’s fine to use a do-it-yourself hack to turn your cell phone into a document camera aimed at paper or a whiteboard. If needed for a particular course or online office hours, let us know if you lack a tablet and stylus or something to use for written explanations; it is possible to acquire an inexpensive drawing device if you need one for whiteboarding. If your own personal computer or laptop fails, please contact the instructor right away. The department has some emergency loaners if needed so you can continue to succeed in the interim.</p></li>
 <li><p><strong>Books:</strong> Many courses now have electronic versions of the text available for free online or through the Duke Libraries. Please check with your instructor first. For some courses, the Assistant to the DUS Mrs.&nbsp;Karen Whitesell (karen.whitesell@duke.edu) has physical desk copies of most books that you may use for TAing the course, but you must return the book at the end of the semester. Please contact her if you need a textbook copy for the course.</p></li>
-<li><p><strong>Course website:</strong> Familiarize yourself with the website for the course. This may be a site designed by the instructor or it may be a Sakai site. Sakai is a university wide course development and presentation platform; all courses use Sakai at least for grades. You will need a NetID to access Sakai at http://sakai.duke.edu. It allows faculty (and TAs if the faculty gives permission) to post course information such as lecture notes, assignments, announcements, exam solutions, and other teaching materials to which you want your students to have access. It also will also allow you to send emails to individuals or groups, host online discussions, collect homework assignments, and allow students to view their grades. For an overview of capabilities and various tutorials go to <a href="http://support.sakai.duke.edu/sakai-basics" class="uri">http://support.sakai.duke.edu/sakai-basics</a>. Your TA training may include Sakai training as well. If you have problems with Sakai, let your instructor know. Note that undergraduate TAs are not supposed to have access to the full gradebook in Sakai; however, you may be able to do anonymous grading. Sakai is also able to organize Zoom meetings for the course lectures, labs, and office hours. Check with your instructor or Dr.&nbsp;Durso. Learning Innovation also offers training on Sakai.</p></li>
+<li><p><strong>Course website:</strong> Familiarize yourself with the website for the course. This may be a site designed by the instructor or it may be a Sakai or Canvas site. Sakai is a university wide course development and presentation platform that will be replaced by Canvas next year; some courses are already piloting Canvas this semester. All courses use Sakai or Canvas at least for grades. You will need a NetID to access Sakai at http://sakai.duke.edu or Canvas at <a href="https://canvas.duke.edu" class="uri">https://canvas.duke.edu</a>. Both allow faculty (and TAs if the faculty gives permission) to post course information such as lecture notes, assignments, announcements, exam solutions, and other teaching materials to which you want your students to have access. Both will also allow you to send emails to individuals or groups, host online discussions, collect homework assignments, and allow students to view their grades. Both are also able to organize Zoom meetings for the course lectures, labs, and office hours. For an overview of capabilities and various tutorials go to <a href="http://support.sakai.duke.edu/sakai-basics" class="uri">http://support.sakai.duke.edu/sakai-basics</a> or to <a href="https://go.canvas.duke.edu/training-materials/introduction-canvas/" class="uri">https://go.canvas.duke.edu/training-materials/introduction-canvas/</a>. Your TA training may include Sakai or Canvas training as well. Note that undergraduate TAs are not supposed to have access to the full gradebook in Sakai or Canvas; however, you may be able to do anonymous grading. If you have problems with either LMS (Learning Management System), let your instructor know. Check with your instructor or Dr.&nbsp;Durso if you have questions. Learning Innovation also offers training on Sakai and Canvas.</p></li>
 <li><p><strong>Discussion tools:</strong> Piazza is no longer supported by Duke University but individual instructors may still choose to use it. Alternative discussion tools include Conversations in Sakai, and other tools your instructors may choose. Once your instructor has chosen which tool they will use, ask for training on that tool.</p></li>
-<li><p><strong>Gradescope:</strong> Gradescope is an online grading tool that is usually integrated with Sakai. Gradescope is used extensively in the department and all TAs will be trained on its use. If your instructor is using it, they will explain what they expect. If you have never used it, be sure to ask any questions you have so that you fully understand how to grade in Gradescope. You will access Gradescope using your NetID similarly to accessing Sakai. If you have previously used Gradescope for grading and think it would assist in your course duties this semester, discuss this with your instructor. If you or the instructor would like help with Gradescope, ask Joan Combs Durso, the Coordinator of Undergraduate Training, Research, and Development. We have a training site set up and TAs will provide sample documents for grading training. The workflow for syncing grades from Gradescope to Sakai has changed this semester. Training will be offered if needed.</p></li>
+<li><p><strong>Gradescope:</strong> Gradescope is an online grading tool that is usually integrated with Sakai or Canvas. Gradescope is used extensively in the department and all TAs will be trained on its use. If your instructor is using it, they will explain what they expect. If you have never used it, be sure to ask any questions you have so that you fully understand how to grade in Gradescope. You will access Gradescope using your NetID similarly to accessing Sakai or Canvas. If you have previously used Gradescope for grading and think it would assist in your course duties this semester, discuss this with your instructor. If you or the instructor would like help with Gradescope, ask Joan Combs Durso, the Coordinator of Undergraduate Training, Research, and Development. We have a training site set up and TAs will provide sample documents for grading training. Training will be offered if needed.</p></li>
 <li><p><strong>Copies:</strong> If your instructor asks you to make physical copies for the course, please contact Mrs.&nbsp;Whitesell and cc: Dr.&nbsp;Durso on the email. We’ll get you access and instructions.</p></li>
 <li><p><strong>Supplies:</strong> Please let your instructor know if you have any unmet supply needs such as chalk, dry-erase markers, red pens, etc. These are only for instructional and grading purposes, not for your personal use. If these items are missing in a TA office hours space, please let Mrs.&nbsp;Whitesell and Dr.&nbsp;Durso know.</p></li>
-<li><p><strong>Computing labs:</strong> Most introductory undergraduate labs in StatSci are bring-your-own-device labs. Large introductory classes often use OIT provided Docker containers for computing. Graduate courses often use department servers. In remote teaching, the situation is complicated by distance and the need to see the screen of your students. Graduate Teaching Assistants and experienced undergraduates usually supervise the computing lab sections. Get help with the computing environment from Dr.&nbsp;Durso or from Learning Innovation’s online training options.</p></li>
+<li><p><strong>Computing labs:</strong> All introductory undergraduate labs in StatSci are bring-your-own-device labs. Large introductory classes often use OIT provided Docker containers for computing. Graduate courses often use department servers. In remote teaching, the situation is complicated by distance and the need to see the screen of your students. Graduate Teaching Assistants and experienced undergraduates usually supervise the computing lab sections. Get help with the computing environment from Dr.&nbsp;Durso or from Learning Innovation’s online training options.</p></li>
 <li><p><strong>Collaboration tools:</strong> Whether your instructor is using email, Slack, Basecamp, Microsoft Teams, or any other collaboration tool, make sure you understand how to use it and what your instructor’s preferred communication methods are.</p></li>
 </ul>
 </section>
@@ -220,8 +236,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Make sure you have worked through the lab ahead of time leaving plenty of time to ask the instructor for clarification. Make sure you understand the general learning objectives. Be ready to explain to students why they are being asked to do the exercise.</p></li>
 <li><p>During lab, engage the students. Encourage them to explore and play rather than simply go through the motions. Ask them questions. Be receptive to their questions. Help them make the link between the computing lab and what has been covered in the text and lectures.</p></li>
 <li><p>Check in with breakout groups online, even when it looks like there are no questions. Wander around the live classroom or lab. Students are more likely to reach out and ask a question if you’re physically (or virtually) closer to them than if you’re sitting in front of the classroom. Don’t ask the Ferris Bueller query “Any questions?” Instead, “what questions do you have for me?” or “I’ll take 3 questions now” are both better ways to solicit inquiry.</p></li>
-<li><p>Please avoid <em>“didactic dictation”</em>. One of the most frustrating experiences for a new user of R is to have code quickly and sometimes inaudibly dictated to them by an experienced coder who talks too fast while typing in unreadably tiny font on a screen half the class can’t see, and allows no time for correction, troubleshooting, or questions. Live coding, where you are demonstrating something as you talk about it, and students code along, should be done slowly. You don’t have to be perfect. It’s okay to make mistakes and correct them, modeling authentic coding for your students. Demonstrate first, and then have students work on their own code. Watch for frustration. Address it positively.</p>
-<p>Excellent suggestions for how to do this well can be found <a href="https://mine-cetinkaya-rundel.github.io/golive-uscots/golive.html#1">here</a>.</p></li>
+<li><p>Please avoid <em>“didactic dictation”</em>. One of the most frustrating experiences for a new user of R is to have code quickly and sometimes inaudibly dictated to them by an experienced coder who talks too fast while typing in unreadably tiny font on a screen half the class can’t see, and allows no time for correction, troubleshooting, or questions. Live coding, where you are demonstrating something as you talk about it, and students code along, should be done slowly. You don’t have to be perfect. It’s okay to make mistakes and correct them, modeling authentic coding for your students. Demonstrate first, and then have students work on their own code. Watch for frustration. Address it positively. Suggestions for how to do this incredibly well can be found <a href="https://mine-cetinkaya-rundel.github.io/golive-uscots/golive.html#1">here</a>.</p></li>
 <li><p>If you have suggestions for improving the lab materials or find errors in the lab instructions, please discuss them with your instructor.</p></li>
 <li><p>It may be a hardship for some students to have to use their cameras during an online lab session, but make sure to set expectations. You can’t see how they are doing if their cameras off the whole session. Try at least starting with cameras on for a check-in. Talk with the instructor about setting expectations. Use activities to keep students engaged even if their cameras are not able to be used.</p></li>
 </ul>
@@ -229,26 +244,26 @@ ul.task-list li input[type="checkbox"] {
 <section id="office-hours" class="level2" data-number="5.4">
 <h2 data-number="5.4" class="anchored" data-anchor-id="office-hours"><span class="header-section-number">5.4</span> Office Hours</h2>
 <ul>
-<li><p>Many instructors will set up Zoom office hours rooms in Sakai. Practices may differ between instructors but it is a good idea to set up a Google sheet that stays linked in Sakai that can be used for students to indicate their question or need. This will help you manage the crowd that could show up. You will find an example of this in the TA training site in Sakai.</p></li>
+<li><p>Many instructors will set up Zoom office hours rooms in Sakai or Canvas. Practices may differ between instructors but it is a good idea to set up a Google sheet that stays linked in Sakai that can be used for students to indicate their question or need during the session if online. This will help you manage the crowd that could show up. You will find an example of this in the TA training site in Canvas.</p></li>
 <li><p>Make sure you have read the text and class notes. Use the same notation, definitions, and perspectives as the author of the text and the instructor of the class.</p></li>
-<li><p>Make sure to convey your interest in helping students. Sitting in the help room (or on Zoom) doing your own homework and not making eye contact with an entering student will often convey to the student that you are not interested in helping.</p></li>
+<li><p>Make sure to convey your interest in helping students. Sitting in the help room (or on Zoom) doing your own homework and not making eye contact with an entering student will often convey to the student that you are not interested in helping. Learn their names, and offer yours.</p></li>
 <li><p>Avoid solving homework problems for students. Giving students the answer does not help them develop the problem-solving skills that will be necessary for them to do well in the course. Ask guiding, probing questions, but get the student to do the thinking. Offer similar problems as examples to work through, together.</p></li>
 <li><p>Students differ in their mathematical preparation, and for our undergraduate courses, students will often be very rusty on algebra or calculus, depending on the course. Be sure to work from the level of the student. If a student is in trouble beyond your abilities, refer them to the instructor.</p></li>
 <li><p>Make sure to speak clearly, slowly, and audibly, whether in person or online. Do not assume that your students knows a particular theorem or distribution if it has not yet been used in the course. Speak respectfully and let them know the course is meant to be challenging but success happens with practice and spending sufficient time on the work.</p></li>
 <li><p>When you don’t know how to work to the answer, do NOT fake it. Be honest, and seek another TA or the instructor. Giving a student incorrect information will snowball into a larger problem. If you promise to get back to them, write it down and follow it up. Share with your peer TAs or ask in a discussion forum in the TA training site.</p></li>
-<li><p>Let the instructor know if you have students who are struggling with the material or who don’t know where to begin. It’s hard for anyone to ask for help if they are not used to needing it. Be kind and patient with students who show up feeling panicked or anxious. Reach out to Duke Reach if you suspect they need help, and let the instructor know. But mostly, be kind. You were a beginner once, and the student genuinely may be lost or have not learned how to study in an online course. Help them, and get help with this if it’s a problem. Kindness and patience are the best compliments in TA evaluations.</p></li>
+<li><p>Let the instructor know if you have students who are struggling with the material or who don’t know where to begin. It’s hard for anyone to ask for help if they are not used to needing it. Be kind and patient with students who show up feeling panicked or anxious. Reach out to Duke Reach <a href="https://students.duke.edu/wellness/dukereach/" class="uri">https://students.duke.edu/wellness/dukereach/</a> if you suspect they need help, and let the instructor know. But mostly, be kind. You were a beginner once, and the student genuinely may be lost or have not learned how to study in an online course. Help them, and get help with this if it’s a problem. Kindness and patience are the best compliments in TA evaluations.</p></li>
 </ul>
 </section>
 <section id="grading" class="level2" data-number="5.5">
 <h2 data-number="5.5" class="anchored" data-anchor-id="grading"><span class="header-section-number">5.5</span> Grading</h2>
 <ul>
-<li><p>Set grading policies for partial credit, late papers, etc. with the instructor. Make sure these policies are easily accessible by students (e.g., on Sakai). Make sure you understand the instructor’s expectations.</p></li>
+<li><p>Set grading policies for partial credit, late papers, etc. with the instructor. Make sure these policies are easily accessible by students (e.g., on Sakai, Canvas, or the course website). Make sure you understand the instructor’s expectations.</p></li>
 <li><p>Find out from the instructor whether they expect you to make the solution key or grading rubric, including both answers and a breakdown of how points will be distributed. Ask the instructor to review before it goes live.</p></li>
 <li><p>Before you begin to grade, go through solutions and double check answers, points, etc.</p></li>
 <li><p>Grade by question, i.e., grade all of question 1, then all of question 2, etc. This will facilitate greater consistency. You may be assigned only one or a few questions from an entire assignment, especially if you are using Gradescope.</p></li>
 <li><p>If you are sharing grading duties, make sure to calibrate for consistency. Students will be frustrated and angry if graders differ in their process of assigning points (and you will hear about it!).</p></li>
 <li><p>Record grades as per instructions of the instructor, but always double check your work.</p></li>
-<li><p>Check with the instructor on how to enter missing grades, i.e.&nbsp;with a blank or a zero. Blanks can play havoc with scoring algorithms that require replacing minimums. This also depends on whether you are grading with Gradescope or Sakai.</p></li>
+<li><p>Check with the instructor on how to enter missing grades, i.e.&nbsp;with a blank or a zero. Blanks can play havoc with scoring algorithms that require replacing minimums. This also depends on whether you are grading within Gradescope or Sakai or Canvas.</p></li>
 <li><p>Grading turnaround deadlines will be set by the instructor. Be sure you understand their expectations and that you communicate your time availability. Gradescope shows what you have already graded and haven’t.</p></li>
 </ul>
 
@@ -283,9 +298,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -482,8 +511,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./resources.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Resources</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./policies.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Policies</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
