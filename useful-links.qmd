@@ -1,5 +1,5 @@
 ---
-title: "Useful links"
+title: Useful links
 ---
 
 -   Fall 2023 Academic Calendar: <https://registrar.duke.edu/academic-calendar/current-academic-calendar/#fall2023>

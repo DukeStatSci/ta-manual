@@ -1,5 +1,5 @@
 ---
-title: "COVID-19"
+title: COVID-19
 ---
 
 ## In-person learning

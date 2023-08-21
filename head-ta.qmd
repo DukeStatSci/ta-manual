@@ -1,5 +1,5 @@
 ---
-title: "Head TAs"
+title: Head TAs
 ---
 
 ## Which classes should have Head TAs?

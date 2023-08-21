@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: Resources
 ---
 
 Familiarize yourself with resources available to your students for learning as well as mental health and wellness.
@@ -27,6 +27,7 @@ In addition, familiarize yourself with mental health and wellness resources:
 -   **Counseling and Psychological Services (CAPS):** CAPS services include individual and group counseling services, psychiatric services, and workshops.
     To initiate services, walk-in/call-in 9-4 M,W,Th,F and 9-6 Tuesdays.
     CAPS also provides referral to off-campus resources for specialized care.
+
     (919) 660-1000 or [https://students.duke.edu/wellness/caps](https://students.duke.edu/wellness/caps/).
 
 -   **TimelyCare:** (formerly known as Blue Devils Care) An online platform that is a convenient, confidential, and free way for Duke students to receive 24/7 mental health support through TalkNow and scheduled counseling: [https://bluedevilscare.duke.edu](https://bluedevilscare.duke.edu/).
