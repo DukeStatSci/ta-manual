@@ -6,15 +6,19 @@ Depending on your level (undergraduate, MS, or PhD student), the number of hours
 
 -   Undergraduate TAs are expected to work 8-10 hours per week, on average.
 
--   MS TAs are expected to work 10-12 hours per week, on average.
+-   MS TAs are expected to work 12-15 hours per week, on average.[^responsibilities-1]
 
 -   PhD students have a variety of assignments:
 
     -   Full TAs are expected to work 12-15 hours, on average.
 
-    -   Half TAs or RA/TA have TA are expected to work 6-7 hours per week, on average.
+    -   Half TAs or RA/TA have TA are expected to work 6-7.5 hours per week, on average.
 
     -   RA+s are expected to work 4-5 hours per week, on average.
+
+[^responsibilities-1]: Unlike PhD TAs, we don't generally have part-time MS TAs since the funding structure for these two types of students is different.
+    However, sometimes we might need a specifif MS TA for a specific MS course and might be able to negotiate a part-time offer for them upon their request.
+    In these rare cases, being a 50% MS TA is possible and this would amount to 6-7.5 hours per week.
 
 Within these hours, TA responsibilities will vary between classes therefore TAs should obtain clear guidelines for the specific tasks required of them from the instructor.
 Many of these tasks are described in general terms below.
