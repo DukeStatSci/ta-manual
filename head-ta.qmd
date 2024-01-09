@@ -4,7 +4,7 @@ title: Head TAs
 
 ## Which classes should have Head TAs?
 
-Classes that meet either of the criteria below are strongly encouraged to have a Head TA. If you choose not to have a TA or need help identifying someone for this role, please contact the DUS.
+Classes that meet either of the criteria below are strongly encouraged to have a Head TA. Instructors who choose not to have a TA or need help identifying someone for this role, should contact the DUS.
 
 -   Each of our 100-level courses (except for Focus courses)
 
@@ -145,8 +145,8 @@ The following are the role and responsibilities of the instructor and should not
     Unless there is a very specific reason, do not decrease this cadence.
 
 -   Managing the Sakai or Canvas Gradebook.
-    The instructor may not grant teaching assistants (including the Head TA) access to the Gradebook in Sakai unless there is a very specific reason to do so.
-    Note that the university prohibits undergraduate TAs from having access to the Sakai Gradebook entirely.
+    The instructor may not grant teaching assistants (including the Head TA) access to the Gradebook in Sakai or Canvas unless there is a very specific reason to do so.
+    Note that the university prohibits undergraduate TAs from having access to the Sakai or Canvas Gradebook entirely.
 
 -   Check in with Head TA during Week 3 and Week 6 about workload.
     If there are concerns with workload, assign another TA (graduate student or advanced undergraduate) to help with some Head TA responsibilities or reach out to DUS for more resources, if needed.
