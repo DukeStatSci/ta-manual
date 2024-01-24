@@ -26,7 +26,7 @@ For online exams, randomization and unique problems can help.
 Some time-limiting techniques are helpful but students with accommodations must be helped as well.
 There are hundreds of companies out there willing to sell students answers to problems sets, quizzes, and exams; using these services is likely to be a violation of the Duke Community Standard.
 There are AI/ML tools now that might be used to generate code or other work; instructors may have a policy about this in their syllabi.
-If you suspect such usage, talk with the instructor.
+If you suspect usage in violation of the instructor's course policies, talk with the instructor.
 
 ### Teamwork / collaboration
 
@@ -34,7 +34,7 @@ If your course allows teamwork for homework or labs, ask the instructor to speak
 For instance, if students can work together on HW problems, discussion is appropriate, but students must write up individual responses for every question.
 Student answers should not be the same as their collaborators'.
 If there is an in-class group assignment for which one submission is expected, make certain the submission instructions are clear and followed by the groups.
-Our students come from all over the world, from all kinds of prior learning experiences, and what is permitted in teamwork can be highly varied.
+Our students come from all over the world, from all kinds of prior learning experiences, and their prior experience with graded teamwork can be highly varied.
 Please help your students understand the nuances of permissible teamwork.
 
 ## Students with disabilities

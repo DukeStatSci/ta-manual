@@ -17,15 +17,17 @@ Depending on your level (undergraduate, MS, or PhD student), the number of hours
     -   RA+s are expected to work 4-5 hours per week, on average.
 
 [^responsibilities-1]: Unlike PhD TAs, we don't generally have part-time MS TAs since the funding structure for these two types of students is different.
-    However, sometimes we might need a specifif MS TA for a specific MS course and might be able to negotiate a part-time offer for them upon their request.
+    However, sometimes we might need a specific MS TA for a specific MS course and might be able to negotiate a part-time offer for them upon their request.
     In these rare cases, being a 50% MS TA is possible and this would amount to 6-7.5 hours per week.
 
 Within these hours, TA responsibilities will vary between classes therefore TAs should obtain clear guidelines for the specific tasks required of them from the instructor.
 Many of these tasks are described in general terms below.
 
--   Complete all requested training and learn the tools and technologies required for the course you are assisting.
+-   Complete all requested training and learn the tools and technologies required for the course you are assisting. 
 
 -   Answer all communications from the department, your instructor, other campus employers, and the university, within 24 hours, before the end of the next business day.
+
+-   Complete your profile with a photo, phonetic name spelling, and other requested information in your TA Training site and TA course site (in Canvas or Sakai).
 
 -   Familiarize yourself with the university curriculum and policies:
 
@@ -87,7 +89,7 @@ Many of these tasks are described in general terms below.
 
 -   Stay available for course related duties until the end of the final exam week.
 
-    -   **Fall 2023 final exams end at 10 pm on Monday, December 18.** Grades are due within 48 hours of the end of the exam period. This means TAs are expected to continue to hold office hours during their respective final exam periods, and to be available for grading final exams in their assigned courses unless they make special arrangements with the course instructor. Please discuss the end of semester plans with the instructor you are assisting right away.
+    -   **Spring 2024 final exams end at 10 pm on Saturday, May 4.** Grades are due within 48 hours of the end of the exam period. This means TAs are expected to continue to hold office hours during their respective final exam periods, and to be available for grading final exams in their assigned courses unless they make special arrangements with the course instructor. Please discuss the end of semester plans with the instructor you are assisting right away.
 
 -   If you miss a scheduled meeting, training, office hours, or other event, immediately contact the instructor.
 
@@ -104,7 +106,7 @@ Many of these tasks are described in general terms below.
 
     -   If you are paid biweekly, update and save your time card when you finish work for the day and submit promptly before the deadline.
         If you do not turn in your time card you will not get paid for the hours you worked.
-        Mrs. Scott may send you a reminder or questions about your timecard.
+        Mrs. Scott may send you a reminder or questions about your timecard, but it is your responsibility to turn in your hours.
         Do not ignore that.
 
 -   **Always complete the course and TA evaluations in the courses for which you are enrolled as a student.**
