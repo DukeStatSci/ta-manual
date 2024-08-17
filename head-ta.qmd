@@ -61,7 +61,7 @@ You can go through this list with the instructor to determine the tasks that wil
 -   Work with the instructor at the beginning of the semester to make sure all TAs know how to use Gradescope.
     Give a demonstration or facilitate a help session for TAs, as needed. 
 
--   If requested, set up assignments in Gradescope and Sakai or Canvas and make the links for synchronization through the Lessons tool in Sakai or the Modules tool in Canvas.
+-   If requested, set up assignments in Gradescope and Canvas and make the links for synchronization through the Modules tool in Canvas.
 
     -   Ensure grading rubrics are set up using the instructor's preferred grading convention (positive scoring, negative scoring, combination of both).  Include any other rubric items requested by the instructor, such as a "needs review" rubric item.
 
@@ -137,16 +137,16 @@ The following are the role and responsibilities of the instructor and should not
 
 -   The instructor is ultimately responsible for grading for consistency within particular items and across entire graded assignment or assessment.
 
--   In assigning responsibilities to the Head TA, the instructor should determine who will set up assignments in Gradescope and Sakai or Canvas and make the links for synchronization through the Lessons tool in Sakai or the Modules tool in Canvas.
+-   In assigning responsibilities to the Head TA, the instructor should determine who will set up assignments in Gradescope and Canvas and make the links for synchronization through the Modules tool in Canvas.
 
 -   Making arrangements for accommodation requests from students and coordinate with the testing center if needed.
 
 -   Scheduling weekly meetings with all TAs to discuss course flow, make sure all TAs have a good handle on the topics / concepts / tools coming up in the subsequent week, etc, and to discuss ongoing grading.
     Unless there is a very specific reason, do not decrease this cadence.
 
--   Managing the Sakai or Canvas Gradebook.
-    The instructor may not grant teaching assistants (including the Head TA) access to the Gradebook in Sakai or Canvas unless there is a very specific reason to do so.
-    Note that the university prohibits undergraduate TAs from having access to the Sakai or Canvas Gradebook entirely.
+-   Managing the Canvas Gradebook.
+    The instructor may not grant teaching assistants (including the Head TA) access to the full Gradebook in Canvas unless there is a very specific reason to do so.
+    Note that the university prohibits undergraduate TAs from having access to the Canvas Gradebook entirely.
 
 -   Check in with Head TA during Week 3 and Week 6 about workload.
     If there are concerns with workload, assign another TA (graduate student or advanced undergraduate) to help with some Head TA responsibilities or reach out to DUS for more resources, if needed.
