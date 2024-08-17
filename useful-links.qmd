@@ -2,12 +2,13 @@
 title: Useful links
 ---
 
--   Spring 2024 Academic Calendar: <https://registrar.duke.edu/academic-calendar/current-academic-calendar/#spring2024>
+-   Fall 2024 Academic Calendar: <https://registrar.duke.edu/2024-2025-academic-calendar/#fall2024>
 -   Final Exam Schedule: <https://registrar.duke.edu/student-resources/exam-schedules/>
 -   Duke COVID updates and policies: <https://coronavirus.duke.edu>
--   Spring 2024 Office hours: Link will be provided in TA training site in Canvas
+-   Fall 2024 Office hours: Link is provided in TA training site in Canvas
 -   Duke Undergraduate Instruction Bulletin: <https://undergraduate.bulletins.duke.edu/>
 -   The Graduate School Bulletin: <https://graduateschool.bulletins.duke.edu/>
 -   Questions or concerns: [dus\@stat.duke.edu](mailto:dus@stat.duke.edu)
 
 <!--# Don't put the live link to the Office hours site in this public repo -->
+<!--# Bulletin links still show 23-24 editions as of August 17, 2024. Verify for 24-25 -->
