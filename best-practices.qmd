@@ -11,38 +11,36 @@ title: Best practices
     The department has some emergency loaners if needed so you can continue to succeed in the interim.
 
 -   **Books:** Many courses now have electronic versions of the text available for free online or through the Duke Libraries.
-    Please check with your instructor first.
+    Please check with your instructor first. You should never have to buy your own text for TAing. 
     For some courses, the Assistant to the DUS Mrs. Karen Whitesell (karen.whitesell\@duke.edu) has physical desk copies of most books that you may use for TAing the course, but you must return the book at the end of the semester.
     Please contact her if you need a textbook copy for the course.
 
--   **Course website:** Familiarize yourself with the website for the course.
-    This may be a site designed by the instructor or it may be a Sakai or Canvas site.
-    Canvas is a university wide course development and presentation platform that is replacing Sakai at the end of this semester; some courses are already using Canvas.
-    All courses use Sakai or Canvas at least for grades.
-    You will need a NetID to access Sakai at http://sakai.duke.edu or Canvas at <https://canvas.duke.edu>.
-    Both allow faculty (and TAs if the faculty gives permission) to post course information such as lecture notes, assignments, announcements, exam solutions, and other teaching materials to which you want your students to have access.
-    Both will also allow you to send emails to individuals or groups, host online discussions, collect homework assignments, and allow students to view their grades.
-    Both are also able to organize Zoom meetings for the course lectures, labs, and office hours.
-    For an overview of capabilities and various tutorials go to <http://support.sakai.duke.edu/sakai-basics> or to <https://go.canvas.duke.edu/training-materials/introduction-canvas/>.
-    Your TA training may include Sakai or Canvas training as well.
-    Note that undergraduate TAs are not supposed to have access to the full gradebook in Sakai or Canvas; however, you may be able to do anonymous grading.
-    If you have problems with either LMS (Learning Management System), let your instructor know.
+-   **Course website:** Familiarize yourself with the website and Canvas site for the course.
+    Canvas is a university wide course development and presentation platform known as a Learning Management System (LMS) that replaced Sakai in 2024.
+    All courses use Canvas at least for grades.
+    You will need a NetID to access Canvas at <https://canvas.duke.edu>.
+    Canvas allows faculty (and TAs if the faculty gives permission) to post course information such as lecture notes, assignments, announcements, exam solutions, and other teaching materials to which you want your students to have access.
+    Canvas will also allow you to send emails to individuals or groups, host online discussions, collect homework assignments, and allow students to view their grades.
+    Canvas may also be used to organize Zoom meetings for the course lectures, labs, and office hours.
+    For an overview of capabilities and various tutorials go to <https://go.canvas.duke.edu/training-materials/introduction-canvas/>.
+    Your required TA training may include Canvas training as well.
+    Note that undergraduate TAs are not supposed to have access to the full gradebook in Canvas; however, you may be able to do anonymous grading.
+    If you have problems with the LMS, let your instructor know.
     Check with your instructor or Dr. Durso if you have questions.
-    Learning Innovation also offers training on Sakai and Canvas.
+    Learning Innovation also offers training on Canvas.
 
 -   **Discussion tools:** Piazza is no longer supported by Duke University but individual instructors may still choose to use it.
-    Alternative discussion tools include Discussions in Sakai or Canvas, Conversations in Sakai, Ed Discussions in either platform, and and other tools your instructors may choose.
+    Alternative Q&A or discussion tools include Discussions or Ed Discussions in Canvas and and other tools your instructors may choose.
     Once your instructor has chosen which tool they will use, ask for training on that tool.
 
--   **Gradescope:** Gradescope is an online grading tool that is usually integrated with Sakai or Canvas.
+-   **Gradescope:** Gradescope is an online grading tool that is usually integrated with Canvas.
     Gradescope is used extensively in the department and all TAs will be trained on its use.
     If your instructor is using it, they will explain what they expect.
     If you have never used it, be sure to ask any questions you have so that you fully understand how to grade in Gradescope.
-    You will access Gradescope using your NetID similarly to accessing Sakai or Canvas.
+    You will access Gradescope using your NetID similarly to accessing  Canvas. You can also access it from within Canvas. 
     If you have previously used Gradescope for grading and think it would assist in your course duties this semester, discuss this with your instructor.
     If you or the instructor would like help with Gradescope, ask Joan Combs Durso, the Coordinator of Undergraduate Training, Research, and Development.
-    We have a training site set up and TAs will provide sample documents for grading training.
-    Training will be offered if needed.
+    Course-specific Gradescope training will be offered if needed.
 
 -   **Copies:** If your instructor asks you to make physical copies for the course, please contact Mrs. Whitesell and cc: Dr. Durso on the email.
     We'll get you access and instructions.
