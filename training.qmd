@@ -5,20 +5,19 @@ title: Training
 ## Training
 
 As a TA, you will be trained by the department and other units of the University.
-All TAs will complete a mandatory training session each semester.
-In Spring 2024, we are not requiring a technology check for Zoom-readiness but that training will be provided upon request (reach out to Dr. Durso with your request).
-We expect that you will get training on other technologies as they pertain to your course (Gradescope, Sakai,Canvas, etc.) from your course instructor.
+All TAs will complete a mandatory training session and other requirements each semester.
+In Fall 2024, we are not requiring a technology check for Zoom-readiness but that training will be provided upon request (reach out to Dr. Durso with your request).
+We expect that you will get training on other technologies as they pertain to your course (Gradescope,Canvas, etc.) from your course instructor.
 If you feel that you have not been trained adequately on a technology you're expected to use, please reach out to your course instructor and/or Dr. Durso and we'll make sure this training happens promptly.
 
-In this transition period between Sakai and Canvas, you have been assigned to STATSCI TA Spr24, the departmental training Canvas site for TAs, as the main TA training site.
-You have also been assigned to the Sakai site with the same name.
+You have been assigned to STATSCI TA Fa24, the departmental training Canvas site for TAs, as the main TA training site.
 Training may be added as needed as the semester proceeds and we'll inform you with a Canvas announcement from there.
-There is required training on TA duties, on preventing harassment and on the learning technologies needed in your course.
+There is required training on TA duties, on preventing harassment, on other topics as required by the University, and on the learning technologies needed in your course.
 
 ## First time TAs
 
 As a new TA or new to your course and instructor, the instructor will work with you to make sure you are ready to lead your labs and hold office hours to meet their expectations.
-Your instructor might drop in on your labs or office hours from time to time and so might Dr. Durso.
+Your instructor might drop in on your labs or office hours from time to time and so might Dr. Durso or Dr. Knox.
 You will do training and work with them to develop your skills so that each semester that you have a TAship, you are ready for more responsibilities and leadership roles.
 You can also request a lab observation after a few weeks, for suggestions and feedback.
 Lab observations of all TAs leading labs or discussion sections will be offered in Weeks Three - Five. 
@@ -78,5 +77,5 @@ You will learn how to: - recognize the complex dimensions of classroom teaching 
 ### Duke Learning Innovation
 
 [Learning Innovation](https://learninginnovation.duke.edu) is not part of the Graduate School but is dedicated to improving learning at Duke.
-Learning Innovation provides many opportunities for professional development, including training on Sakai, Canvas, Gradescope, and other instructional tools.
-They also provide drop-in office hours for help with Sakai or Gradescope as well as workshops and seminars to assist you improve your careers.
+Learning Innovation provides many opportunities for professional development, including training on Canvas, Gradescope, and other instructional tools.
+They also provide drop-in office hours for help with Canvas or Gradescope as well as workshops and seminars to assist you improve your careers.
