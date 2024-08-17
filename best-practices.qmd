@@ -43,7 +43,7 @@ title: Best practices
     Course-specific Gradescope training will be offered if needed.
 
 -   **Copies:** If your instructor asks you to make physical copies for the course, please contact Mrs. Whitesell and cc: Dr. Durso on the email.
-    We'll get you access and instructions.
+    We'll get you access and instructions. 
 
 -   **Supplies:** Please let your instructor know if you have any unmet supply needs such as chalk, dry-erase markers, red pens, etc.
     These are only for instructional and grading purposes, not for your personal use.
@@ -128,8 +128,8 @@ title: Best practices
 
 ## Office Hours
 
--   Many instructors will set up Zoom office hours rooms in Sakai or Canvas.
-    Practices may differ between instructors but it is a good idea to set up a Google sheet that stays linked in Sakai that can be used for students to indicate their question or need during the session if online.
+-   Many instructors will set up Zoom office hours rooms via Canvas.
+    Practices may differ between instructors but it is a good idea to set up a Google sheet that stays linked in Canvas that can be used for students to indicate their question or need during the session if online.
     This will help you manage the crowd that could show up.
     You will find an example of this in the TA training site in Canvas.
 
@@ -140,11 +140,12 @@ title: Best practices
     Sitting in the help room (or on Zoom) doing your own homework and not making eye contact with an entering student will often convey to the student that you are not interested in helping.
     Learn their names, and offer yours.
 
--   Avoid solving homework problems for students.
+-   Avoid solving homework problems for students. 
     Giving students the answer does not help them develop the problem-solving skills that will be necessary for them to do well in the course.
     Ask guiding, probing questions, but get the student to do the thinking.
     Offer similar problems as examples to work through, together.
     Your students should expect to have their questions answered but should not expect you will give them the answers to the homework questions.
+    Never tell students that their work is correct; this will lead to problems if you are wrong.
 
 -   Students differ in their mathematical preparation, and for our undergraduate courses, students will often be very rusty on algebra or calculus, depending on the course.
     Be sure to work from the level of the student.
@@ -172,7 +173,7 @@ title: Best practices
 ## Grading
 
 -   Set grading policies for partial credit, late papers, etc. with the instructor.
-    Make sure these policies are easily accessible by students (e.g., on Sakai, Canvas, or the course website).
+    Make sure these policies are easily accessible by students (e.g., on Canvas, or the course website).
     Make sure you understand the instructor's expectations.
     Grade like a human, not a machine.
 
@@ -192,8 +193,9 @@ title: Best practices
 
 -   Check with the instructor on how to enter missing grades, i.e. with a blank or a zero.
     Blanks can play havoc with scoring algorithms that require replacing minimums.
-    This also depends on whether you are grading within Gradescope or Sakai or Canvas.
+    This also depends on whether you are grading within Gradescope or in Canvas.
 
--   Grading turnaround deadlines will be set by the instructor.
+-   Grading turnaround deadlines will be set by the instructor. 
     Be sure you understand their expectations and that you communicate your time availability.
+    If an emergency or illness will prevent timely grading completion, inform the instructor as soon as you can.
     Gradescope shows what you have already graded and haven't.
