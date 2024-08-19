@@ -4,7 +4,7 @@ title: People
 
 The most current list of who is who in the department can always be found at <https://stat.duke.edu/people/appointed-faculty/primary-faculty>.
 
-In {{< var semester >}}:
+In Fall 2024:
 
 -   Chair: Amy Herring - <https://scholars.duke.edu/person/Amy.Herring>
 
