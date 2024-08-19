@@ -52,7 +52,7 @@ Exact responsibilities will differ based on the course needs
 
 ## Payroll 
 
--   Set up Mrs. Scott as a VIP in contacts
+-   Set up the Business Manager as a VIP in contacts
 
 -   Remind bi-weekly TAs about deadlines
 
@@ -99,7 +99,7 @@ Periodically check in with TAs about the number of hours they're working each we
 
 -   Work with the instructor to ensure all TAs know how to use Gradescope
 -   Create assignments in Gradescope and link to Sakai through the Lessons tool
--   Schedule a training session with Joan Durso if you or other TAs need help with technical aspects of Gradescope
+-   Schedule a training session with the Undergraduate Coordinator if you or other TAs need help with technical aspects of Gradescope
 
 ## Rubrics in Gradescope
 

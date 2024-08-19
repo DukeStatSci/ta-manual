@@ -6,7 +6,7 @@ title: Best practices
 
 -   **Technology:** During training, you will be asked about your ability to use Gradescope for grading and Zoom for online office. For whiteboarding during online office hours, you can turn your cell phone into a document camera by aiming it at a paper or whiteboard. If your computer or laptop fails, please get in touch with the instructor immediately. If needed, the department has some emergency loaners so you can continue to succeed in the interim.
 
--   **Books:** You should never have to purchase a textbook for a course you're TAing. Many courses now have electronic versions of the text available for free online or through the Duke Libraries. Additionally, the DUS Assistant, Mrs. Karen Whitesell ([karen.whitesell\@duke.edu](mailto:karen.whitesell@duke.edu)), has copies of textbooks you can borrow for the duration of your TAship. Make sure to return the book at the end of the semester.
+-   **Books:** You should never have to purchase a textbook for a course you're TAing. Many courses now have electronic versions of the text available for free online or through the Duke Libraries. Additionally, the DUS Assistant, has copies of textbooks you can borrow for the duration of your TAship. Make sure to return the book at the end of the semester.
 
 -   **Canvas:** Canvas is a university-wide course development and presentation platform known as a Learning Management System (LMS).[^best-practices-1] You can access Canvas with your Net ID at <https://canvas.duke.edu>; however, your course faculty must manually add you to their course. Canvas allows faculty (and TAs if the faculty gives permission) to post course information such as lecture notes, assignments, announcements, exam solutions, and other teaching materials to which you want your students to have access. Note that undergraduate TAs are not supposed to have access to the entire gradebook in Canvas; however, you may be able to do anonymous grading. Canvas also offers features for sending emails to individuals or groups, hosting online discussions, collecting homework assignments, and posting and viewing grades. Canvas may also be used to organize Zoom meetings for office hours.
 
@@ -18,11 +18,11 @@ title: Best practices
 
 -   **Gradescope:** Gradescope is an online grading tool that can be integrated with Canvas. Gradescope is used extensively in the department, and all TAs will be trained in its use. If your instructor is using it, and you haven't used it before, ask questions / ask for training to understand how best to complete your grading duties fully. You can access Gradescope through Canvas or directly by logging in with your Net ID. Discuss with your instructor if you have previously used Gradescope for grading and think it would assist your course duties this semester. If you or the instructor would like help with Gradescope, ask the Undergraduate Coordinator for course-specific training.
 
--   **Copies:** If your instructor asks you to make physical copies for the course, please email the DUS Assistant, Mrs. Karen Whitesell ([karen.whitesell\@duke.edu](mailto:karen.whitesell@duke.edu)), and cc the Undergraduate Coordinator, Dr. Joan Combs Durso ([joan.durso\@duke.edu](mailto:joan.durso@duke.edu)) for access and instructions.
+-   **Copies:** If your instructor asks you to make physical copies for the course, please email the DUS Assistant and cc the Undergraduate Coordinator for access and instructions.
 
--   **Supplies:** Please inform your instructor of any unmet supply needs, such as chalk, dry-erase markers, red pens, etc., for instructional and grading purposes. If these items are missing in a TA office hours space, please let the DUS Assistant, Mrs. Karen Whitesell ([karen.whitesell\@duke.edu](mailto:karen.whitesell@duke.edu)), and the Undergraduate Coordinator, Dr. Joan Combs Durso ([joan.durso\@duke.edu](mailto:joan.durso@duke.edu)), know.
+-   **Supplies:** Please inform your instructor of any unmet supply needs, such as chalk, dry-erase markers, red pens, etc., for instructional and grading purposes. If these items are missing in a TA office hours space, please let the DUS Assistant and the Undergraduate Coordinator know.
 
--   **Computing labs:** All introductory undergraduate labs in StatSci are bring-your-own-device labs. Large introductory classes often use OIT-provided Docker containers for computing. Graduate courses often use department servers. Graduate and experienced undergraduate TAs usually supervise the computing lab sections. In larger courses, undergraduate TAs might also be assigned as lab helpers. If you're new to your courses' computing environment, you should ask for help from the instructor and the Undergraduate Coordinator, Dr. Joan Combs Durso ([joan.durso\@duke.edu](mailto:joan.durso@duke.edu)).
+-   **Computing labs:** All introductory undergraduate labs in StatSci are bring-your-own-device labs. Large introductory classes often use OIT-provided Docker containers for computing. Graduate courses often use department servers. Graduate and experienced undergraduate TAs usually supervise the computing lab sections. In larger courses, undergraduate TAs might also be assigned as lab helpers. If you're new to your courses' computing environment, you should ask for help from the instructor and the Undergraduate Coordinator.
 
 [^best-practices-1]: Canvas replaced Sakai in 2024. All courses use Canvas, at a minimum, for grades.
 
@@ -36,7 +36,7 @@ Whether you are attending class with the instructor, leading a lab, or holding o
 
     -   If your environment is noisy, use a headset and mute yourself when you are not speaking. Practice where you know you will be so that someone can listen to you and ensure the sound is adequate.
 
-    -   If you need help with your online setup, please get in touch with the Undergraduate Coordinator, Dr. Joan Combs Durso ([joan.durso\@duke.edu](mailto:joan.durso@duke.edu)).
+    -   If you need help with your online setup, please get in touch with the Undergraduate Coordinator.
 
 ## Labs
 
@@ -44,7 +44,7 @@ Whether you are attending class with the instructor, leading a lab, or holding o
 
 -   During the first day of lab, do what you can to set the course climate and develop a rapport with the class. Get students to interact with you and their classmates either through introductions, small group discussions, or asking questions. Give information about yourself that helps establish that you are both credible and approachable. You will want students to leave after the first class knowing why the lab sections are essential and what your expectations will be. After the first class, you will want to leave knowing the students' expectations and knowing they are engaged enough to begin expending the time and energy needed to do well in the course.
 
-- Ensure you have worked through the lab beforehand, leaving ample time to ask the instructor and Head TA for clarification. Make sure you understand the general learning objectives. Be ready to explain to students why they are being asked to do the exercise.
+-   Ensure you have worked through the lab beforehand, leaving ample time to ask the instructor and Head TA for clarification. Make sure you understand the general learning objectives. Be ready to explain to students why they are being asked to do the exercise.
 
 During the lab, engage the students. Please encourage them to explore and play rather than go through the motions. Ask them questions. Be receptive to their questions. Help them link the computing lab to what has been covered in the text and lectures.
 

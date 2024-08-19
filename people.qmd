@@ -1,0 +1,21 @@
+---
+title: People
+---
+
+The most current list of who is who in the department can always be found at <https://stat.duke.edu/people/appointed-faculty/primary-faculty>.
+
+In {{< var semester >}}:
+
+-   Chair: Amy Herring - <https://scholars.duke.edu/person/Amy.Herring>
+
+-   DUS: Mine Çetinkaya-Rundel - [https://mine-cr.com](https://mine-cr.com/)
+
+-   DGS: Merlise Clyde - [https://www2.stat.duke.edu/\~clyde](https://www2.stat.duke.edu/~clyde/)
+
+-   MSD: Dawn Strickland - <https://scholars.duke.edu/person/dawn.strickland>
+
+-   Undergraduate coordinator: Joan Durso - <https://scholars.duke.edu/person/joan.combs.durso>, [joan.durso@duke.edu](mailto:joan.durso@duke.edu)
+
+-   DUS Assistant: Karen Whitesell - <https://stat.duke.edu/karen-c-whitesell>, [karen.whitesell@duke.edu](mailto:karen.whitesell@duke.edu)
+
+-   Business Manager: Nicole Scott - <https://stat.duke.edu/nicole-scott>, [nicole.scott@duke.edu](mailto:nicole.scott@duke.edu)
