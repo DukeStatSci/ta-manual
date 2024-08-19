@@ -9,10 +9,10 @@ book:
   repo-url: https://github.com/DukeStatSci/ta-manual
   repo-branch: main
   repo-actions: [edit, issue]
+  downloads: [pdf]
   chapters:
     - index.qmd
     - useful-links.qmd
-    - covid19.qmd
     - responsibilities.qmd
     - best-practices.qmd
     - policies.qmd
@@ -26,5 +26,8 @@ format:
   html: 
     mainfont: "Atkinson Hyperlegible"
     toc: true
+    theme:
+      light: [cosmo, style/style.scss]
+      dark: [solar, style/style.scss, style/style-dark.scss]
 
 editor: visual

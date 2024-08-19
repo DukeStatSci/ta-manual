@@ -4,14 +4,9 @@ title: Policies
 
 ## Academic Misconduct
 
-It's crucial to let the course instructor know if you suspect or receive reports of academic misconduct so that we may handle all cases of dishonesty according to University Policy.
-It is your duty to report your suspicions to the instructor and they will investigate.
-Do not interrogate the students.
-This typically requires that the instructor report offenses to the Office of Judicial Affairs who will advise on mediation, arbitration, informal resolution or disciplinary action.
-The Duke Standard is as follows:
+It's crucial to let the course instructor know if you suspect or receive reports of academic misconduct so that we may handle all cases of dishonesty according to University Policy. You must report your suspicions to the instructor, and they will investigate. Do not interrogate the students. This typically requires that the instructor report offenses to the Office of Judicial Affairs, which will advise on mediation, arbitration, informal resolution, or disciplinary action. The Duke Standard is as follows:
 
-> Duke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, respect, and accountability.
-> Citizens of this community commit to reflect upon and uphold these principles in all academic and non-academic endeavors, and to protect and promote a culture of integrity.
+> Duke University is a community dedicated to scholarship, leadership, and service and the principles of honesty, fairness, respect, and accountability. Citizens of this community commit to reflect upon and uphold these principles in all academic and non-academic endeavors and to protect and promote a culture of integrity.
 >
 > To uphold the Duke Community Standard:
 >
@@ -21,93 +16,50 @@ The Duke Standard is as follows:
 >
 > -   I will act if the Standard is compromised.
 
-Faculty and TAs are encouraged to be proactive in preventing dishonesty.
-For online exams, randomization and unique problems can help.
-Some time-limiting techniques are helpful but students with accommodations must be helped as well.
-There are hundreds of companies out there willing to sell students answers to problems sets, quizzes, and exams; using these services is likely to be a violation of the Duke Community Standard.
-There are AI/ML tools now that might be used to generate code or other work; instructors may have a policy about this in their syllabi.
-If you suspect usage in violation of the instructor's course policies, talk with the instructor.
+Faculty and TAs are encouraged to be proactive in preventing dishonesty. For online exams, randomization and unique problems can help. Some time-limiting techniques are helpful, but students with accommodations must also be helped. Hundreds of companies are willing to sell students answers to problem sets, quizzes, and exams; using these services is likely to violate the Duke Community Standard. AI/ML tools now might be used to generate code or other work; instructors may have a policy about this in their syllabi. If you suspect usage violates the instructor's course policies, talk with the instructor.
 
-### Teamwork / collaboration
+### Teamwork/collaboration
 
-If your course allows teamwork for homework or labs, ask the instructor to speak with your students about what type of collaboration is appropriate.
-For instance, if students can work together on HW problems, discussion is appropriate, but students must write up individual responses for every question.
-Student answers should not be the same as their collaborators'.
-If there is an in-class group assignment for which one submission is expected, make certain the submission instructions are clear and followed by the groups.
-Our students come from all over the world, from all kinds of prior learning experiences, and their prior experience with graded teamwork can be highly varied.
-Please help your students understand the nuances of permissible teamwork.
+If your course allows teamwork for homework or labs, ask the instructor to speak with your students about the appropriate collaboration type. For instance, if students can work together on HW problems, discussion is relevant, but students must write up individual responses for every question. Student answers should not be the same as their collaborators'. If there is an in-class group assignment for which one submission is expected, ensure the submission instructions are clear and followed by the groups. Our students come from all over the world, from all kinds of prior learning experiences, and their previous experience with graded teamwork can be highly varied. Please help your students understand the nuances of permissible collaboration and teamwork.
 
 ## Students with disabilities
 
-Students with disabilities have rights and responsibilities which may be found here <https://access.duke.edu/students/rights-responsibilities>.
-The procedures for accessing accomodations or support have changed in the last year and are documented here \[https://access.duke.edu/requests\](https://access.duke.edu/requests){.uri}.
-In some classes, one TA will be asked to manage accommodations for the course.
-In larger classes, multiple TAs may be involved.
-If your instructor asks for assistance in providing accommodations for a student, be sure that all information regarding a student's disability or accommodations is kept confidential.
-Do not discuss it with other TAs or in front of other students.
-Questions should be directed to the instructor only.
-If a student approaches you about accommodations, ask them to communicate with the instructor and let the instructor know you have referred them.
-If you are leading a lab and a student asks for lab accommodations, discuss it with the instructor.
+Students with disabilities have rights and responsibilities, which may be found here <https://access.duke.edu/students/rights-responsibilities>. The procedures for accessing accomodations or support are documented at <https://access.duke.edu/requests>. In some classes, one TA (likely the head TA) will be asked to manage accommodations for the course. In larger classes, multiple TAs may be involved. If your instructor asks for assistance in providing accommodations for a student, ensure all information regarding a student's disability or accommodations is kept confidential. Do not discuss it with other TAs or in front of other students. Questions should be directed to the instructor only. If a student approaches you about accommodations, ask them to communicate with the instructor and let the instructor know you have referred them. Discuss it with the instructor if you are leading a lab and a student asks for lab accommodations.
 
-Duke also has a Testing Center available to students who need accommodations.
-If instructors choose to use the Testing Center, the decision should be stated in the class syllabus.
-Students who qualify to use it include students granted testing accommodations by the SDAO and students who need to complete make-up exams due to an approved absence.
-Direct all questions from students about the testing center to the instructor or direct the students to [https://testingcenter.duke.edu](https://testingcenter.duke.edu/).
+Duke also has a Testing Center available to students who need accommodations. If instructors choose to use the Testing Center, the decision should be stated in the class syllabus. Students who qualify to use it include students granted testing accommodations by the SDAO and students who need to complete make-up exams due to an approved absence. Direct all questions from students about the testing center to the instructor or direct the students to [https://testingcenter.duke.edu](https://testingcenter.duke.edu/).
 
-If a student, TA, or instructor has or develops physical access challenges to any assigned space at Duke, please have them contact the Duke Disability Management System using the websites above.
-There may be alternative transportation or access arrangements that can be made.
-This page has more information on getting around campus <https://access.duke.edu/getting-around>.
-Please let the instructor, DUS, and Undergraduate Coordinator know if there are access issues so that our classrooms, lab, and department spaces are hospitable to everyone.
+If you develop physical access challenges to any assigned space at Duke, contact the Duke Disability Management System ([https://access.duke.edu](https://access.duke.edu/)), the course instructor, and the Undergraduate Coordinator, Dr. Joan Combs Durso, for assistance.
 
 ## Diversity and inclusiveness
 
-Students from all diverse backgrounds and perspectives need to be well-served by our courses, their learning needs to be addressed both in and out of class, and the diversity that the students bring to this class need to be viewed as a resource, strength, and benefit.
-Therefore, the materials and activities you present need to be respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.
-Our department's statement is here: <https://stat.duke.edu/diversity-equity-and-inclusion>.
+Students from all diverse backgrounds and perspectives need to be well-served by our courses, their learning needs to be addressed both in and out of class, and the diversity that the students bring to this class needs to be viewed as a resource, strength, and benefit. Therefore, the materials and activities you present must respect diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Our department's statement is here: <https://stat.duke.edu/diversity-equity-and-inclusion>.
 
-If you have suggestions for improving the effectiveness of the course for you personally, or for other students or student groups, let the faculty member or the DUS know.
-There is a module on this in TA training in Sakai.
+If you have suggestions for improving the effectiveness of the course for you personally or for other students or student groups, let the course instructor or the DUS know.
 
-Furthermore, you should strive to create a learning environment for our students that supports a diversity of thoughts, perspectives and experiences, and that honors students' identities (including gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture).
-To help accomplish this, encourage your students to
+Furthermore, you should strive to create a learning environment for our students that supports a diversity of thoughts, perspectives, and experiences and that honors students' identities (including gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture). To help accomplish this, encourage your students to
 
--   let you know if they have a name and/or set of pronouns that differ from those that appear in the Duke records,
--   reach out if you feel like their performance in the class is being impacted by their experiences outside of class, and remind them that if they prefer to speak with someone outside of the course, their academic dean/director is an excellent resource, and
+-   let you know if they have a name and set of pronouns that differ from those that appear in the Duke records,
+-   reach out if you feel like their performance in the class is being impacted by their experiences outside of class, and remind them that if they prefer to speak with someone outside of the course, their academic dean/director is an excellent resource and
 -   talk to you if something was said in class (by anyone) that made them feel uncomfortable.
 
-Requiring people to identify their pronouns is not helpful; invite it but don't force it.
-If you want to give your pronouns, do so.
-The DukeHub now lets students who wish to identify their personal pronouns to do so in their records.
-Here are some Duke pronoun resources <https://students.duke.edu/belonging/icr/csgd/pronouns/>.
+Requiring people to identify their pronouns is not helpful; invite it, but don't force it. If you want to give your pronouns, do so. Review the pronoun resources at [https://students.duke.edu/belonging/icr/csgd/pronouns](https://students.duke.edu/belonging/icr/csgd/pronouns/){.uri}.
 
-Please let the instructor know if there is an issue that you notice in class or in office hours that is disrespectful.
+Please let the instructor know if you notice a disrespectful issue in class or during office hours.
 
 ## Harassment
 
-Harassment complaints that involve both undergraduate students and either graduate students, faculty members or employees are addressed, as necessary, through the intervention of Office of Institutional Equity or the official responsible for the respondent's supervision.
-Such situations are of particular concern because the possible inherent power differential between the parties increases the potential for coerciveness.
-See <http://www.duke.edu/web/equity/harassment.html> for more information on Duke's harassment policy.
-If you have any concerns regarding harassment, please feel free to reach out to the instructor or DUS for advice as well.
+Harassment complaints that involve both undergraduate students and graduate students, faculty members, or employees are addressed, as necessary, through the intervention of the Office of Institutional Equity ([https://oie.duke.edu](https://oie.duke.edu/)) or the official responsible for the respondent's supervision. Such situations are of particular concern because the possible inherent power differential between the parties increases the potential for coerciveness. See <http://www.duke.edu/web/equity/harassment.html> for more information on Duke's harassment policy. If you have any concerns regarding harassment, reach out to the course instructor or the DUS.
 
 ## Relationships with students
 
-Consensual romantic or sexual relationships between any student charged with academic instruction and students receiving such instruction are prohibited.
-This applies to teaching assistants, research assistants, tutors, graders and any other students who provide academic instruction to any other student.
-A TA could lose the opportunity to continue in the instruction role and such behavior could also violate student conduct policies.
-This is covered in more detail in Appendix L to the Faculty Handbook (<https://policies.provost.duke.edu/docs/faculty-handbook-appendix-l-faculty-student-relationships>).
+Consensual romantic or sexual relationships between any student charged with academic instruction and students receiving such instruction are prohibited. This applies to teaching assistants, research assistants, tutors, graders, and any other students who provide academic instruction to any other student. A TA could lose the opportunity to continue in the instruction role, and such behavior could also violate student conduct policies. This is covered in more detail in Appendix L to the Faculty Handbook (<https://policies.provost.duke.edu/docs/faculty-handbook-appendix-l-faculty-student-relationships>).
 
-If you are already in a relationship with a student who is in the class for which you are TAing, please discuss this with the instructor and the DUS or Undergraduate Coordinator.
-We can change your assignment or make certain you are never grading that person's work or helping in their lab.
+If you are already in a relationship with a student in the class you are TAing, please inform the course instructor and the DUS so that your TA assignment can be changed to another course.
 
 ## Emergency conditions
 
-Download and install the Live Safe app <https://prepare.duke.edu/programs/livesafe> to get emergency notifications for Duke's campuses.
-You can obtain information on emergency notifications and procedures at <https://emergency.duke.edu>.
-Please become familiar with this site and its contents.
+Download and install the Live Safe app (https://prepare.duke.edu/programs/livesafe) to receive emergency notifications for Duke's campuses. You can also obtain information on emergency notifications and procedures at https://emergency.duke.edu. Please familiarize yourself with this site and its contents.
 
-Our academic calendar sometimes brings with it the threat of severe weather in North Carolina.
-At the start of your course, be sure and locate the nearest tornado safe zone in your assigned location or wherever you are staying.
-If you are in Old Chem, the nearest tornado safe area is in the library buildings next door.
-In other buildings, if you can't find signage, ask staff in that building for their tornado safe location.
-If there is a tornado watch, simply monitor conditions.
-If there is a tornado warning announced, however, you will be notified to take shelter in the nearest tornado safe area.
+Our academic calendar sometimes brings with it the threat of severe weather in North Carolina. At the start of your course, locate the nearest tornado-safe zone in your assigned location or wherever you are staying. If you are in Old Chem, the nearest tornado-safe area is in the library buildings next door. If you can't find signage in other buildings, ask the building staff for their tornado-safe location. If there is a tornado watch, monitor conditions. If a tornado warning is announced, you will be notified to take shelter in the nearest tornado-safe area.
+
+If you have an emergency requiring transportation, call 911. For non-emergencies, call campus police at (919) 684-2444.
