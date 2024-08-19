@@ -20,6 +20,7 @@ book:
     - training.qmd
     - head-ta.qmd
     - evaluation-recognition.qmd
+    - people.qmd
 
 format: 
   pdf: default
