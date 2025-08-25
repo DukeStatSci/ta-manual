@@ -26,7 +26,8 @@ revealjs:
 
 -   Class you're TAing this semester
 
--   Have you ever been a Head TA? If so, for what course?
+-   Have you ever been a Head TA?
+    If so, for what course?
 
 ## Who are the Head TAs?
 
@@ -50,13 +51,13 @@ Exact responsibilities will differ based on the course needs
 
 # Administrative
 
-## Payroll 
+## Payroll
 
 -   Set up the Business Manager as a VIP in contacts
 
 -   Remind bi-weekly TAs about deadlines
 
--   Discuss TA hours with instructor if patterns seem unreasonable 
+-   Discuss TA hours with instructor if patterns seem unreasonable
 
 ## Office hours
 
@@ -72,7 +73,8 @@ Work with instructor to ensure
 
 ## Total TA hours
 
--   Ask the instructor for the expected number of weekly hours for each TA. In most cases, they are
+-   Ask the instructor for the expected number of weekly hours for each TA.
+    In most cases, they are
 
     | Role                      | Weekly hours  |
     |---------------------------|---------------|
@@ -123,7 +125,8 @@ Make grading assignments for all TAs taking the following into account:
 
 ## Managing grading
 
-Make sure all TAs complete grading within a week (or other deadline set by the instructor). This includes
+Make sure all TAs complete grading within a week (or other deadline set by the instructor).
+This includes
 
 ::: incremental
 -   Gently reminding TAs of upcoming grading deadline about 1- 2 days prior
@@ -169,7 +172,8 @@ Make sure all TAs complete grading within a week (or other deadline set by the i
 
 -   Schedule team peer evaluations in [Teammates](https://teammatesv4.appspot.com/) or software preferred by instructor.
 
--   When peer evaluations are due, read through the "instructor only" comments and write a one-page summary. In particular, note
+-   When peer evaluations are due, read through the "instructor only" comments and write a one-page summary.
+    In particular, note
 
     -   Common pain points
 
@@ -242,9 +246,12 @@ Make sure all TAs complete grading within a week (or other deadline set by the i
 
 ## Case study #1
 
-Two TAs have been assigned to grade question #3 on a problem set. The question has multiple parts. The TAs have not consistently graded a missed part; one gave partial credit for correct follow-through from the error, one gave no credit.
+Two TAs have been assigned to grade question #3 on a problem set.
+The question has multiple parts.
+The TAs have not consistently graded a missed part; one gave partial credit for correct follow-through from the error, one gave no credit.
 
-The grading is due to be released tomorrow. What do you do if
+The grading is due to be released tomorrow.
+What do you do if
 
 -   the T.A.s are available,
 -   and if they are not.
@@ -253,15 +260,19 @@ There are 150 homework sets.
 
 ## Case study #2
 
-One of your TAs appears to be holding help sessions for a large group of their quadmates in the Quad. They have asked you if they can report these hours on their timecard.
+One of your TAs appears to be holding help sessions for a large group of their quadmates in the Quad.
+They have asked you if they can report these hours on their timecard.
 
 What would you do, and what advice do you have for the TA?
 
 ## Case study #3
 
-You have agreed to substitute for a Lab Lead TA while they are away on an interview. The morning of the lab, you test positive for COVID. There's not much time before you were supposed to leave for the lab.
+You have agreed to substitute for a Lab Lead TA while they are away on an interview.
+The morning of the lab, you test positive for COVID.
+There's not much time before you were supposed to leave for the lab.
 
-How do you handle the situation? How do you handle it if the substitute is another TA?
+How do you handle the situation?
+How do you handle it if the substitute is another TA?
 
 ## Head TA Training - Spring 2023
 

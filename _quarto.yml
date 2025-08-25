@@ -31,4 +31,4 @@ format:
       light: [cosmo, style/style.scss]
       dark: [solar, style/style.scss, style/style-dark.scss]
 
-editor: visual
+editor: source

@@ -4,7 +4,12 @@ title: Introduction
 
 ## Purpose {.unnumbered}
 
-As a Teaching Assistant (TA), whatever your duties, you are part of the Statistical Science Instruction Team. In Fall 2024, we have filled over 1,400 seats in courses taught by departmental faculty to students who came to Duke from across the planet. Students will range from almost 450 undergraduates enrolled in their first 100-level course to doctoral students nearing the end of their formal coursework. We want students who take only one or two courses from the department to learn the usefulness, importance, and power of statistical thinking and modern methodologies. We aim to educate students in our Statistical Science majors, minor, interdisciplinary majors, Master's, and Ph.D. programs, in particular, to be highly accomplished future leaders in statistical science, regardless of their career paths. For all of these students, whatever their programs, we aim to provide a transformative educational experience in statistical and data science. By joining our instructional team, you help us to deliver a meaningful learning experience to each of our students.
+As a Teaching Assistant (TA), whatever your duties, you are part of the Statistical Science Instruction Team.
+Students will range from almost 450 undergraduates enrolled in their first 100-level course to doctoral students nearing the end of their formal coursework.
+We want students who take only one or two courses from the department to learn the usefulness, importance, and power of statistical thinking and modern methodologies.
+We aim to educate students in our Statistical Science majors, minor, interdisciplinary majors, Master's, and Ph.D. programs, in particular, to be highly accomplished future leaders in statistical science, regardless of their career paths.
+For all of these students, whatever their programs, we aim to provide a transformative educational experience in statistical and data science.
+By joining our instructional team, you help us to deliver a meaningful learning experience to each of our students.
 
 ## The "ABC" of TAing {.unnumbered}
 
@@ -12,14 +17,22 @@ As a Teaching Assistant (TA), whatever your duties, you are part of the Statisti
 
 -   Talk with and listen to your students in class, in office hours, on discussion forums.
 
--   Talk with your instructor if you have questions, concerns, or suggestions. And listen to your instructors' requests, tips, and suggestions. And read their emails/messages! It's not uncommon for first-year graduate TAs to have learned statistics from a different perspective than our undergraduate courses or with different software. It's also possible that undergraduate students who have taken the course they're assigned to teach have learned it from a slightly different perspective or with different policies and processes.
+-   Talk with your instructor if you have questions, concerns, or suggestions.
+    And listen to your instructors' requests, tips, and suggestions.
+    And read their emails/messages!
+    It's not uncommon for first-year graduate TAs to have learned statistics from a different perspective than our undergraduate courses or with different software.
+    It's also possible that undergraduate students who have taken the course they're assigned to teach have learned it from a slightly different perspective or with different policies and processes.
 
--   Talk with the other TAs. And listen to them when they're sharing tips and best practices.
+-   Talk with the other TAs.
+    And listen to them when they're sharing tips and best practices.
 
--   Talk with the DUS, the Undergraduate Coordinator, and the departmental staff. And listen to them when they're sharing policies, requirements, tips, and best practices. And read their emails/messages!
+-   Talk with the DUS, the Undergraduate Coordinator, and the departmental staff.
+    And listen to them when they're sharing policies, requirements, tips, and best practices.
+    And read their emails/messages!
 
 -   Ask for clarification and ask for help when you need it.
 
 -   Let other TAs, your instructor, the DUS, and the Undergraduate Coordinator know what you need to do your job and to do it well.
 
-We're glad you are here and willing to help out. Thank you!
+We're glad you are here and willing to help out.
+Thank you!

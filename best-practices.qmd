@@ -4,37 +4,73 @@ title: Best practices
 
 ## Before Classes Begin
 
--   **Technology:** During training, you will be asked about your ability to use Gradescope for grading and Zoom for online office. For whiteboarding during online office hours, you can turn your cell phone into a document camera by aiming it at a paper or whiteboard. If your computer or laptop fails, please get in touch with the instructor immediately. If needed, the department has some emergency loaners so you can continue to succeed in the interim.
+-   **Technology:** During training, you will be asked about your ability to use Gradescope for grading and Zoom for online office.
+    For whiteboarding during online office hours, you can turn your cell phone into a document camera by aiming it at a paper or whiteboard.
+    If your computer or laptop fails, please get in touch with the instructor immediately.
+    If needed, the department has some emergency loaners so you can continue to succeed in the interim.
 
--   **Books:** You should never have to purchase a textbook for a course you're TAing. Many courses now have electronic versions of the text available for free online or through the Duke Libraries. Additionally, the DUS Assistant, has copies of textbooks you can borrow for the duration of your TAship. Make sure to return the book at the end of the semester.
+-   **Books:** You should never have to purchase a textbook for a course you're TAing.
+    Many courses now have electronic versions of the text available for free online or through the Duke Libraries.
+    Additionally, the DUS Assistant, has copies of textbooks you can borrow for the duration of your TAship.
+    Make sure to return the book at the end of the semester.
 
--   **Canvas:** Canvas is a university-wide course development and presentation platform known as a Learning Management System (LMS).[^best-practices-1] You can access Canvas with your Net ID at <https://canvas.duke.edu>; however, your course faculty must manually add you to their course. Canvas allows faculty (and TAs if the faculty gives permission) to post course information such as lecture notes, assignments, announcements, exam solutions, and other teaching materials to which you want your students to have access. Note that undergraduate TAs are not supposed to have access to the entire gradebook in Canvas; however, you may be able to do anonymous grading. Canvas also offers features for sending emails to individuals or groups, hosting online discussions, collecting homework assignments, and posting and viewing grades. Canvas may also be used to organize Zoom meetings for office hours.
+-   **Canvas:** Canvas is a university-wide course development and presentation platform known as a Learning Management System (LMS).
+    You can access Canvas with your Net ID at <https://canvas.duke.edu>; however, your course faculty must manually add you to their course.
+    Canvas allows faculty (and TAs if the faculty gives permission) to post course information such as lecture notes, assignments, announcements, exam solutions, and other teaching materials to which you want your students to have access.
+    Note that undergraduate TAs are not supposed to have access to the entire gradebook in Canvas; however, you may be able to do anonymous grading.
+    Canvas also offers features for sending emails to individuals or groups, hosting online discussions, collecting homework assignments, and posting and viewing grades.
+    Canvas may also be used to organize Zoom meetings for office hours.
 
-    For an overview of capabilities and various tutorials, go to https://go.canvas.duke.edu/training-materials/introduction-canvas/. Duke Learning Innovation and Lifetime Education (LILE) also periodically offers Canvas training. Your required TA training may also include Canvas training. For any questions about Canvas, consult your course faculty or the Undergraduate Coordinator. Learning Innovation also offers training on Canvas.
+    For an overview of capabilities and various tutorials, go to https://go.canvas.duke.edu/training-materials/introduction-canvas/.
+    Duke Learning Innovation and Lifetime Education (LILE) also periodically offers Canvas training.
+    Your required TA training may also include Canvas training.
+    For any questions about Canvas, consult your course faculty or the Undergraduate Coordinator.
+    Learning Innovation also offers training on Canvas.
 
--   **Course website:** Many courses have public course websites that contain / link to course materials. Familiarize yourself with the course website.
+-   **Course website:** Many courses have public course websites that contain / link to course materials.
+    Familiarize yourself with the course website.
 
--   **Discussion and communication tools:** Ed Discussions is a common choice for an online discussion tool, as it's built into Canvas. Some faculty members may use tools not built into Canvas, such as Piazza or Slack. Once your instructor has chosen a discussion tool, ensure you're familiar with it or ask for training on the tool from your instructor or the Undergraduate Coordinator. Note that some courses use different communication tools to teach team communication and communication with students. Note that some faculty might choose not to use an online discussion tool.
+-   **Discussion and communication tools:** Ed Discussions is a common choice for an online discussion tool, as it's built into Canvas.
+    Some faculty members may use tools not built into Canvas, such as Piazza or Slack.
+    Once your instructor has chosen a discussion tool, ensure you're familiar with it or ask for training on the tool from your instructor or the Undergraduate Coordinator.
+    Note that some courses use different communication tools to teach team communication and communication with students.
+    Note that some faculty might choose not to use an online discussion tool.
 
--   **Gradescope:** Gradescope is an online grading tool that can be integrated with Canvas. Gradescope is used extensively in the department, and all TAs will be trained in its use. If your instructor is using it, and you haven't used it before, ask questions / ask for training to understand how best to complete your grading duties fully. You can access Gradescope through Canvas or directly by logging in with your Net ID. Discuss with your instructor if you have previously used Gradescope for grading and think it would assist your course duties this semester. If you or the instructor would like help with Gradescope, ask the Undergraduate Coordinator for course-specific training.
+-   **Gradescope:** Gradescope is an online grading tool that can be integrated with Canvas.
+    Gradescope is used extensively in the department, and all TAs will be trained in its use.
+    If your instructor is using it, and you haven't used it before, ask questions / ask for training to understand how best to complete your grading duties fully.
+    You can access Gradescope through Canvas or directly by logging in with your Net ID. Discuss with your instructor if you have previously used Gradescope for grading and think it would assist your course duties this semester.
+    If you or the instructor would like help with Gradescope, ask the Undergraduate Coordinator for course-specific training.
 
 -   **Copies:** If your instructor asks you to make physical copies for the course, please email the DUS Assistant and cc the Undergraduate Coordinator for access and instructions.
 
--   **Supplies:** Please inform your instructor of any unmet supply needs, such as chalk, dry-erase markers, red pens, etc., for instructional and grading purposes. If these items are missing in a TA office hours space, please let the DUS Assistant and the Undergraduate Coordinator know.
+-   **Supplies:** Please inform your instructor of any unmet supply needs, such as chalk, dry-erase markers, red pens, etc., for instructional and grading purposes.
+    If these items are missing in a TA office hours space, please let the DUS Assistant and the Undergraduate Coordinator know.
 
--   **Computing labs:** All introductory undergraduate labs in StatSci are bring-your-own-device labs. Large introductory classes often use OIT-provided Docker containers for computing. Graduate courses often use department servers. Graduate and experienced undergraduate TAs usually supervise the computing lab sections. In larger courses, undergraduate TAs might also be assigned as lab helpers. If you're new to your courses' computing environment, you should ask for help from the instructor and the Undergraduate Coordinator.
-
-[^best-practices-1]: Canvas replaced Sakai in 2024. All courses use Canvas, at a minimum, for grades.
+-   **Computing labs:** All introductory undergraduate labs in StatSci are bring-your-own-device labs.
+    Large introductory classes often use OIT-provided Docker containers for computing.
+    Graduate courses often use department servers.
+    Graduate and experienced undergraduate TAs usually supervise the computing lab sections.
+    In larger courses, undergraduate TAs might also be assigned as lab helpers.
+    If you're new to your courses' computing environment, you should ask for help from the instructor and the Undergraduate Coordinator.
 
 ## Professionalism
 
-Whether you are attending class with the instructor, leading a lab, or holding office hours online, remember that you are a leader of students and representing the department. Students may attend online sessions in pajamas, wrapped in blankets, and attending from their beds, but the TA shouldn't. If students show up inappropriately dressed, please discuss the issue with the instructor.
+Whether you are attending class with the instructor, leading a lab, or holding office hours online, remember that you are a leader of students and representing the department.
+Students may attend online sessions in pajamas, wrapped in blankets, and attending from their beds, but the TA shouldn't.
+If students show up inappropriately dressed, please discuss the issue with the instructor.
 
 -   For online office hours:
 
-    -   Use an appropriate virtual background if your computer can handle it. Try to be in a dull environment, not a distracting one. A bookcase, office space, living room, or yard are fine backgrounds. Be sure to have adequate lighting. Sometimes, it is just a matter of facing a different direction. There is no need to buy a ring light, but many YouTube videos show you how to set up a suitable environment for leading an online session.
+    -   Use an appropriate virtual background if your computer can handle it.
+        Try to be in a dull environment, not a distracting one.
+        A bookcase, office space, living room, or yard are fine backgrounds.
+        Be sure to have adequate lighting.
+        Sometimes, it is just a matter of facing a different direction.
+        There is no need to buy a ring light, but many YouTube videos show you how to set up a suitable environment for leading an online session.
 
-    -   If your environment is noisy, use a headset and mute yourself when you are not speaking. Practice where you know you will be so that someone can listen to you and ensure the sound is adequate.
+    -   If your environment is noisy, use a headset and mute yourself when you are not speaking.
+        Practice where you know you will be so that someone can listen to you and ensure the sound is adequate.
 
     -   If you need help with your online setup, please get in touch with the Undergraduate Coordinator.
 
@@ -42,56 +78,111 @@ Whether you are attending class with the instructor, leading a lab, or holding o
 
 -   Meet with the instructor before courses begin and at least once a week during the semester to learn how the instructor would like the lab session run and discuss upcoming labs and any issues that arise.
 
--   During the first day of lab, do what you can to set the course climate and develop a rapport with the class. Get students to interact with you and their classmates either through introductions, small group discussions, or asking questions. Give information about yourself that helps establish that you are both credible and approachable. You will want students to leave after the first class knowing why the lab sections are essential and what your expectations will be. After the first class, you will want to leave knowing the students' expectations and knowing they are engaged enough to begin expending the time and energy needed to do well in the course.
+-   During the first day of lab, do what you can to set the course climate and develop a rapport with the class.
+    Get students to interact with you and their classmates either through introductions, small group discussions, or asking questions.
+    Give information about yourself that helps establish that you are both credible and approachable.
+    You will want students to leave after the first class knowing why the lab sections are essential and what your expectations will be.
+    After the first class, you will want to leave knowing the students' expectations and knowing they are engaged enough to begin expending the time and energy needed to do well in the course.
 
--   Ensure you have worked through the lab beforehand, leaving ample time to ask the instructor and Head TA for clarification. Make sure you understand the general learning objectives. Be ready to explain to students why they are being asked to do the exercise.
+-   Ensure you have worked through the lab beforehand, leaving ample time to ask the instructor and Head TA for clarification.
+    Make sure you understand the general learning objectives.
+    Be ready to explain to students why they are being asked to do the exercise.
 
-During the lab, engage the students. Please encourage them to explore and play rather than go through the motions. Ask them questions. Be receptive to their questions. Help them link the computing lab to what has been covered in the text and lectures.
+During the lab, engage the students.
+Please encourage them to explore and play rather than go through the motions.
+Ask them questions.
+Be receptive to their questions.
+Help them link the computing lab to what has been covered in the text and lectures.
 
--   Please avoid *"didactic dictation"*. One of the most frustrating experiences for a new coder is to have code quickly and sometimes inaudibly dictated to them by an experienced coder who talks too fast while typing in unreadably tiny font on a screen half the class can't see and allows no time for correction, troubleshooting, or questions. Live coding should be done slowly, where you demonstrate something as you talk about it, and students code along. You don't have to be perfect. It's okay to make mistakes and correct them, modeling authentic coding for your students. If you make a mistake or get an error, model the process of troubleshooting by talking through finding the issue and making corrections. Demonstrate first, and then have students work on their code. Watch for frustration. Address it positively. Suggestions for how to do this incredibly well can be found [here](https://mine-cetinkaya-rundel.github.io/golive-uscots/golive.html#1).
+-   Please avoid *"didactic dictation"*.
+    One of the most frustrating experiences for a new coder is to have code quickly and sometimes inaudibly dictated to them by an experienced coder who talks too fast while typing in unreadably tiny font on a screen half the class can't see and allows no time for correction, troubleshooting, or questions.
+    Live coding should be done slowly, where you demonstrate something as you talk about it, and students code along.
+    You don't have to be perfect.
+    It's okay to make mistakes and correct them, modeling authentic coding for your students.
+    If you make a mistake or get an error, model the process of troubleshooting by talking through finding the issue and making corrections.
+    Demonstrate first, and then have students work on their code.
+    Watch for frustration.
+    Address it positively.
+    Suggestions for how to do this incredibly well can be found [here](https://mine-cetinkaya-rundel.github.io/golive-uscots/golive.html#1).
 
--   Wander around the classroom and check in with students (or teams of students) even when there are no questions. If there are many questions, establish a procedure you will use to answer them fairly and in some order. Students are more likely to reach out and ask a question if you're physically closer to them than if you're sitting in front of the classroom. Don't just ask "Any questions?" Instead, ask, "\@hat questions do you have for me?" or say, "I'll take three questions now," which are better ways to solicit inquiry.
+-   Wander around the classroom and check in with students (or teams of students) even when there are no questions.
+    If there are many questions, establish a procedure you will use to answer them fairly and in some order.
+    Students are more likely to reach out and ask a question if you're physically closer to them than if you're sitting in front of the classroom.
+    Don't just ask "Any questions?" Instead, ask, "\@hat questions do you have for me?" or say, "I'll take three questions now," which are better ways to solicit inquiry.
 
--   If you have suggestions for improving the lab materials or find errors in the lab instructions, discuss them with your instructor. Be sure you understand how corrections will be made for later lab sections when an early lab TA discovers a needed correction.
+-   If you have suggestions for improving the lab materials or find errors in the lab instructions, discuss them with your instructor.
+    Be sure you understand how corrections will be made for later lab sections when an early lab TA discovers a needed correction.
 
 ## Office Hours
 
-**TO DO: First, add some language about in-person office hours, then add a bullet point about online hours.**
+-   Make sure you have read the text and class notes.
+    Use the same notation, definitions, and perspectives as the text's author and the class's instructor.
 
--   Many instructors will set up Zoom office hours rooms via Canvas. Practices may differ between instructors, but it is a good idea to set up a Google sheet that stays linked in Canvas and can be used for students to indicate their questions or needs during the session if online. This will help you manage the crowd that could show up. You will find an example of this in the TA training site in Canvas.
+-   Make sure to convey your interest in helping students.
+    Sitting in the help room (or on Zoom) doing your own homework and not making eye contact with an entering student will often convey to the student that you are not interested in helping.
+    Learn their names, and offer yours.
 
--   Make sure you have read the text and class notes. Use the same notation, definitions, and perspectives as the text's author and the class's instructor.
+-   Avoid solving homework problems for students.
+    Giving students the answer does not help them develop the problem-solving skills necessary for them to do well in the course.
+    Ask guiding, probing questions, but get the student to think.
+    Offer similar problems as examples to work through together.
+    Your students should expect to have their questions answered, but they should not expect you to give them the answers to the homework questions.
+    Never tell students their work is correct; this will lead to problems if you are wrong.
 
--   Make sure to convey your interest in helping students. Sitting in the help room (or on Zoom) doing your own homework and not making eye contact with an entering student will often convey to the student that you are not interested in helping. Learn their names, and offer yours.
+-   Students differ in their mathematical preparation, and for our undergraduate courses, students will often be very rusty on algebra or calculus, depending on the course.
+    Be sure to work from the student's level.
+    If a student is in trouble beyond your abilities, refer them to the instructor.
 
--   Avoid solving homework problems for students. Giving students the answer does not help them develop the problem-solving skills necessary for them to do well in the course. Ask guiding, probing questions, but get the student to think. Offer similar problems as examples to work through together. Your students should expect to have their questions answered, but they should not expect you to give them the answers to the homework questions. Never tell students their work is correct; this will lead to problems if you are wrong.
+-   Make sure to speak clearly, slowly, and audibly in person or online.
+    Do not assume your students know a particular theorem or distribution if it has not been used in the course.
+    Speak respectfully and let them know the course is meant to be challenging, but success happens with practice and sufficient time spent on the work.
 
--   Students differ in their mathematical preparation, and for our undergraduate courses, students will often be very rusty on algebra or calculus, depending on the course. Be sure to work from the student's level. If a student is in trouble beyond your abilities, refer them to the instructor.
+-   When you don't know how to work to the answer, do NOT fake it.
+    Be honest, and seek another TA or the instructor.
+    Giving a student incorrect information will snowball into a more significant problem.
+    If you promise to get back to them, write it down and follow it up.
+    Share with your peer TAs or ask in a discussion forum on the TA training site.
 
--   Make sure to speak clearly, slowly, and audibly in person or online. Do not assume your students know a particular theorem or distribution if it has not been used in the course. Speak respectfully and let them know the course is meant to be challenging, but success happens with practice and sufficient time spent on the work.
+-   Let the instructor know if you have students struggling with the material or not knowing where to begin.
+    It's hard for anyone to ask for help if they are not used to needing it.
+    Be kind and patient with students who show up feeling panicked or anxious.
+    Contact Duke Reach at <https://students.duke.edu/wellness/dukereach/> if you suspect they need help, and let the instructor know.
+    But mostly, be kind.
+    You were a beginner once, and the student may be lost or have not learned how to study in an online course.
+    Help them, and get help with this if it's a problem.
+    Kindness and patience are the best compliments in TA evaluations.
 
--   When you don't know how to work to the answer, do NOT fake it. Be honest, and seek another TA or the instructor. Giving a student incorrect information will snowball into a more significant problem. If you promise to get back to them, write it down and follow it up. Share with your peer TAs or ask in a discussion forum on the TA training site.
-
--   Let the instructor know if you have students struggling with the material or not knowing where to begin. It's hard for anyone to ask for help if they are not used to needing it. Be kind and patient with students who show up feeling panicked or anxious. Contact Duke Reach at <https://students.duke.edu/wellness/dukereach/> if you suspect they need help, and let the instructor know. But mostly, be kind. You were a beginner once, and the student may be lost or have not learned how to study in an online course. Help them, and get help with this if it's a problem. Kindness and patience are the best compliments in TA evaluations.
+-   For online office hours, set up Zoom office hours with your Duke Zoom account via Canvas.
 
 ## Grading
 
 -   Before you begin to grade, go through solutions and double-check answers, points breakdown, etc.
 
--   This is important – make sure that you understand the solutions. You should not start grading if you don't feel 100% confident that you can solve the problem (even after seeing the answer key). Instead, please review the content and discuss it with the instructor or other course TAs.
+-   This is important – make sure that you understand the solutions.
+    You should not start grading if you don't feel 100% confident that you can solve the problem (even after seeing the answer key).
+    Instead, please review the content and discuss it with the instructor or other course TAs.
 
--   Grade like a human, not a machine. Use your judgment, and check in with the instructor or the Head TA if you're unsure if a student's solution is good enough, even if it doesn't exactly match the key. Note that being able to do this appropriately and fairly requires that you have mastered the course content.
+-   Grade like a human, not a machine.
+    Use your judgment, and check in with the instructor or the Head TA if you're unsure if a student's solution is good enough, even if it doesn't exactly match the key.
+    Note that being able to do this appropriately and fairly requires that you have mastered the course content.
 
 -   Understand the policies for partial credit, late assignments, etc., and apply them consistently.
 
--   Find out from the instructor whether they expect you to make the solution key or grading rubric, including answers and a breakdown of how points will be distributed. Ask the instructor to review it before it goes live.
+-   Find out from the instructor whether they expect you to make the solution key or grading rubric, including answers and a breakdown of how points will be distributed.
+    Ask the instructor to review it before it goes live.
 
--   Grade by question, i.e., grade all of question 1, then all of question 2, etc. This will facilitate greater consistency. You may be assigned only one or a few questions from an entire assignment, mainly if you use Gradescope.
+-   Grade by question, i.e., grade all of question 1, then all of question 2, etc.
+    This will facilitate greater consistency.
+    You may be assigned only one or a few questions from an entire assignment, mainly if you use Gradescope.
 
--   If you are sharing grading duties, calibrate for consistency. Students will be frustrated and angry if graders differ in their process of assigning points (and you will hear about it!).
+-   If you are sharing grading duties, calibrate for consistency.
+    Students will be frustrated and angry if graders differ in their process of assigning points (and you will hear about it!).
 
 -   Record grades per the instructor's instructions, and always double-check your work.
 
--   Check with the instructor on how to enter missing grades, i.e., with a blank or a zero. Blanks can play havoc with scoring algorithms that require replacing minimums. This also depends on whether you are grading within Gradescope or in Canvas.
+-   Check with the instructor on how to enter missing grades, i.e., with a blank or a zero.
+    Blanks can play havoc with scoring algorithms that require replacing minimums.
+    This also depends on whether you are grading within Gradescope or in Canvas.
 
--   Finish all grading within one week of receiving the grading assignment unless otherwise instructed by your instructor. If an emergency or illness will prevent timely grading completion, inform the instructor as soon as possible.
+-   Finish all grading within one week of receiving the grading assignment unless otherwise instructed by your instructor.
+    If an emergency or illness will prevent timely grading completion, inform the instructor as soon as possible.
