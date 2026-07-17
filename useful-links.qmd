@@ -2,10 +2,10 @@
 title: Useful links
 ---
 
--   Fall 2024 Academic Calendar: <https://registrar.duke.edu/2025-2026-academic-calendar/#fall2025>
+-   2026 - 2027 Academic Calendar: <https://registrar.duke.edu/2026-2027-academic-calendar/>
 -   Final Exam Schedule: <https://registrar.duke.edu/student-resources/exam-schedules/>
--   Duke COVID updates and policies: <https://coronavirus.duke.edu>
 -   Office hours: Link is provided in TA training site in Canvas
--   Duke Undergraduate Instruction Bulletin: <https://undergraduate.bulletins.duke.edu/>
--   The Graduate School Bulletin: <https://graduateschool.bulletins.duke.edu/>
+-   Duke Undergraduate Bulletin: <https://undergraduate.bulletins.duke.edu/>
+-   Graduate School Bulletin: <https://graduateschool.bulletins.duke.edu/>
+-   Duke COVID updates and policies: <https://coronavirus.duke.edu> <!--# do we still need this?-->
 -   Questions or concerns: [dus\@stat.duke.edu](mailto:dus@stat.duke.edu)
